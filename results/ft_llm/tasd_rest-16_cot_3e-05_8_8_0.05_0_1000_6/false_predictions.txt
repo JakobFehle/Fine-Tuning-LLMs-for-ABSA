@@ -1,0 +1,3 @@
+b"[['AMBIENCE#GENERAL', 'NEGATIVE', 'floor'], ['AMBIENCE#GENERAL', 'NEGATIVE', 'trash can'], ['AMBIENCE#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOMS#GENERAL', 'NEGATIVE', 'soap'], ['RESTROOMS#GENERAL', 'NEGATIVE', 'hand towels']]"
+b"[['AMBIENCE#GENERAL', 'NEGATIVE', 'floor'], ['AMBIENCE#GENERAL', 'NEGATIVE', 'trash can'], ['AMBIENCE#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOMS#GENERAL', 'NEGATIVE', 'soap'], ['RESTROOMS#GENERAL', 'NEGATIVE', 'hand towels']]"
+b"[['FOOD#QUALITY', 'MIXED', 'food']]"

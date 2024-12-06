@@ -1,0 +1,2 @@
+b"[['FOOD#PRICES', 'MIXED', 'lunch buffet']]"
+b"[['FOOD#QUALITY', 'MIXED', 'food']]"

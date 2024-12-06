@@ -1,0 +1,7 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'pad penang'], ['FOOD#GENERAL', 'POSITIVE', 'food']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'service'], ['SERVICE#PRICES', 'POSITIVE', 'service']]"
+b"[['FOOD#GENERAL', 'NEUTRAL', 'NULL'], ['FOOD#QUALITY', 'NEUTRAL', 'Food']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'dog'], ['RESTAURANT#GENERAL', 'POSITIVE', 'establishment']]"
+b"[['GENERAL', 'POSITIVE', 'Everything'], ['GENERAL', 'NEGATIVE', 'meals']]"
+b"[['GENERAL', 'POSITIVE', 'Everything'], ['GENERAL', 'NEGATIVE', 'meals']]"
+b"[['FOOD#GENERAL', 'NEUTRAL', 'NULL'], ['FOOD#QUALITY', 'NEUTRAL', 'food']]"

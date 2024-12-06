@@ -1,0 +1,2 @@
+b"[['AMBIENCE#GENERAL', 'POSITIVE', 'signs'], ['AMBIENCE#GENERAL', 'POSITIVE', 'specials menus'], ['FOOD', 'POSITIVE', 'food'], ['AMBIENCE#GENERAL', 'POSITIVE', 'waitstaff']]"
+b"[['RESTAURANT#GENERAL', 'NEGATIVE', 'NULL'], ['SERVICE#GENERAL', 'NEGATIVE', 'staff'], ['WAITING#TIMES', 'NEGATIVE', 'wait for a table']]"

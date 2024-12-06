@@ -1,0 +1,751 @@
+sentence_id	sentence	target	category	polarity	category_polarity	entailed	start	end
+3	Avoid this place !	place	restaurant general	positive	restaurant general positive	no	0	0
+3	Avoid this place !	place	restaurant general	negative	restaurant general negative	yes	3	4
+3	Avoid this place !	place	restaurant general	neutral	restaurant general neutral	no	0	0
+24	We went around 9 : 30 on a Friday and it had died down a bit by then so the service was great !	service	service general	positive	service general positive	yes	21	22
+24	We went around 9 : 30 on a Friday and it had died down a bit by then so the service was great !	service	service general	negative	service general negative	no	0	0
+24	We went around 9 : 30 on a Friday and it had died down a bit by then so the service was great !	service	service general	neutral	service general neutral	no	0	0
+26	THe perfect spot .	spot	restaurant general	positive	restaurant general positive	yes	3	4
+26	THe perfect spot .	spot	restaurant general	negative	restaurant general negative	no	0	0
+26	THe perfect spot .	spot	restaurant general	neutral	restaurant general neutral	no	0	0
+28	Service - friendly and attentive .	Service	service general	positive	service general positive	yes	1	2
+28	Service - friendly and attentive .	Service	service general	negative	service general negative	no	0	0
+28	Service - friendly and attentive .	Service	service general	neutral	service general neutral	no	0	0
+31	the food is decent .	food	food quality	positive	food quality positive	no	0	0
+31	the food is decent .	food	food quality	negative	food quality negative	no	0	0
+31	the food is decent .	food	food quality	neutral	food quality neutral	yes	2	3
+41	In the evening , this place attracted a well dressed , with it , NY crowd .	crowd	restaurant miscellaneous	positive	restaurant miscellaneous positive	yes	16	17
+41	In the evening , this place attracted a well dressed , with it , NY crowd .	crowd	restaurant miscellaneous	negative	restaurant miscellaneous negative	no	0	0
+41	In the evening , this place attracted a well dressed , with it , NY crowd .	crowd	restaurant miscellaneous	neutral	restaurant miscellaneous neutral	no	0	0
+42	The food was well prepared and the service impecable .	food	food quality	positive	food quality positive	yes	2	3
+42	The food was well prepared and the service impecable .	food	food quality	negative	food quality negative	no	0	0
+42	The food was well prepared and the service impecable .	food	food quality	neutral	food quality neutral	no	0	0
+42	The food was well prepared and the service impecable .	service	service general	positive	service general positive	yes	8	9
+42	The food was well prepared and the service impecable .	service	service general	negative	service general negative	no	0	0
+42	The food was well prepared and the service impecable .	service	service general	neutral	service general neutral	no	0	0
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	seafood	food quality	positive	food quality positive	yes	2	3
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	seafood	food quality	negative	food quality negative	no	0	0
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	seafood	food quality	neutral	food quality neutral	no	0	0
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	wine list	drinks style_options	positive	drinks style_options positive	yes	10	12
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	wine list	drinks style_options	negative	drinks style_options negative	no	0	0
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	wine list	drinks style_options	neutral	drinks style_options neutral	no	0	0
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	menu	food style_options	positive	food style_options positive	yes	18	19
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	menu	food style_options	negative	food style_options negative	no	0	0
+63	The seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .	menu	food style_options	neutral	food style_options neutral	no	0	0
+65	Best Pastrami I ever had and great portion without being ridiculous .	Pastrami	food quality	positive	food quality positive	yes	2	3
+65	Best Pastrami I ever had and great portion without being ridiculous .	Pastrami	food quality	negative	food quality negative	no	0	0
+65	Best Pastrami I ever had and great portion without being ridiculous .	Pastrami	food quality	neutral	food quality neutral	no	0	0
+65	Best Pastrami I ever had and great portion without being ridiculous .	portion	food style_options	positive	food style_options positive	yes	8	9
+65	Best Pastrami I ever had and great portion without being ridiculous .	portion	food style_options	negative	food style_options negative	no	0	0
+65	Best Pastrami I ever had and great portion without being ridiculous .	portion	food style_options	neutral	food style_options neutral	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	service	service general	positive	service general positive	yes	2	3
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	service	service general	negative	service general negative	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	service	service general	neutral	service general neutral	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	decor	ambience general	positive	ambience general positive	yes	7	8
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	decor	ambience general	negative	ambience general negative	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	decor	ambience general	neutral	ambience general neutral	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	food	food quality	positive	food quality positive	yes	13	14
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	food	food quality	negative	food quality negative	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	food	food quality	neutral	food quality neutral	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	portions	food style_options	positive	food style_options positive	yes	20	21
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	portions	food style_options	negative	food style_options negative	no	0	0
+76	The service is excellent , the decor is great , and the food is delicious and comes in large portions .	portions	food style_options	neutral	food style_options neutral	no	0	0
+88	The pizza is yummy and I like the atmoshpere .	pizza	food quality	positive	food quality positive	yes	2	3
+88	The pizza is yummy and I like the atmoshpere .	pizza	food quality	negative	food quality negative	no	0	0
+88	The pizza is yummy and I like the atmoshpere .	pizza	food quality	neutral	food quality neutral	no	0	0
+88	The pizza is yummy and I like the atmoshpere .	atmoshpere	ambience general	positive	ambience general positive	yes	9	10
+88	The pizza is yummy and I like the atmoshpere .	atmoshpere	ambience general	negative	ambience general negative	no	0	0
+88	The pizza is yummy and I like the atmoshpere .	atmoshpere	ambience general	neutral	ambience general neutral	no	0	0
+90	A large is $20 , and toppings are about $3 each .	toppings	food prices	positive	food prices positive	no	0	0
+90	A large is $20 , and toppings are about $3 each .	toppings	food prices	negative	food prices negative	yes	7	8
+90	A large is $20 , and toppings are about $3 each .	toppings	food prices	neutral	food prices neutral	no	0	0
+91	I went there for lunch and it was not as good as I expected from the reviews I read .	lunch	food quality	positive	food quality positive	no	0	0
+91	I went there for lunch and it was not as good as I expected from the reviews I read .	lunch	food quality	negative	food quality negative	yes	5	6
+91	I went there for lunch and it was not as good as I expected from the reviews I read .	lunch	food quality	neutral	food quality neutral	no	0	0
+101	Get the tuna of gari .	tuna of gari	food quality	positive	food quality positive	yes	3	6
+101	Get the tuna of gari .	tuna of gari	food quality	negative	food quality negative	no	0	0
+101	Get the tuna of gari .	tuna of gari	food quality	neutral	food quality neutral	no	0	0
+113	Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .	open kitchen	ambience general	positive	ambience general positive	yes	13	15
+113	Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .	open kitchen	ambience general	negative	ambience general negative	no	0	0
+113	Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .	open kitchen	ambience general	neutral	ambience general neutral	no	0	0
+113	Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .	restaurant	ambience general	positive	ambience general positive	no	0	0
+113	Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .	restaurant	ambience general	negative	ambience general negative	yes	6	7
+113	Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .	restaurant	ambience general	neutral	ambience general neutral	no	0	0
+122	Make sure you have the Spicy Scallop roll . . .	Spicy Scallop roll	food quality	positive	food quality positive	yes	6	9
+122	Make sure you have the Spicy Scallop roll . . .	Spicy Scallop roll	food quality	negative	food quality negative	no	0	0
+122	Make sure you have the Spicy Scallop roll . . .	Spicy Scallop roll	food quality	neutral	food quality neutral	no	0	0
+123	Moules were excellent , lobster ravioli was VERY salty !	Moules	food quality	positive	food quality positive	yes	1	2
+123	Moules were excellent , lobster ravioli was VERY salty !	Moules	food quality	negative	food quality negative	no	0	0
+123	Moules were excellent , lobster ravioli was VERY salty !	Moules	food quality	neutral	food quality neutral	no	0	0
+123	Moules were excellent , lobster ravioli was VERY salty !	lobster ravioli	food quality	positive	food quality positive	no	0	0
+123	Moules were excellent , lobster ravioli was VERY salty !	lobster ravioli	food quality	negative	food quality negative	yes	5	7
+123	Moules were excellent , lobster ravioli was VERY salty !	lobster ravioli	food quality	neutral	food quality neutral	no	0	0
+128	Service is not exactly five star , but thats not really a big deal .	Service	service general	positive	service general positive	no	0	0
+128	Service is not exactly five star , but thats not really a big deal .	Service	service general	negative	service general negative	no	0	0
+128	Service is not exactly five star , but thats not really a big deal .	Service	service general	neutral	service general neutral	yes	1	2
+134	When we stumbled on Leon , we thought that we had found quite the gem BUT , we were certainly wrong .	Leon	restaurant general	positive	restaurant general positive	no	0	0
+134	When we stumbled on Leon , we thought that we had found quite the gem BUT , we were certainly wrong .	Leon	restaurant general	negative	restaurant general negative	yes	5	6
+134	When we stumbled on Leon , we thought that we had found quite the gem BUT , we were certainly wrong .	Leon	restaurant general	neutral	restaurant general neutral	no	0	0
+150	On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .	restaurant	restaurant general	positive	restaurant general positive	yes	15	16
+150	On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .	restaurant	restaurant general	negative	restaurant general negative	no	0	0
+150	On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .	restaurant	restaurant general	neutral	restaurant general neutral	no	0	0
+152	The staff is no nonsense .	staff	service general	positive	service general positive	yes	2	3
+152	The staff is no nonsense .	staff	service general	negative	service general negative	no	0	0
+152	The staff is no nonsense .	staff	service general	neutral	service general neutral	no	0	0
+163	I 've been to at Cafe Spice probably 5 - 8 times , it is probably still the best Indian restaurant around Union Square .	Cafe Spice	restaurant general	positive	restaurant general positive	yes	6	8
+163	I 've been to at Cafe Spice probably 5 - 8 times , it is probably still the best Indian restaurant around Union Square .	Cafe Spice	restaurant general	negative	restaurant general negative	no	0	0
+163	I 've been to at Cafe Spice probably 5 - 8 times , it is probably still the best Indian restaurant around Union Square .	Cafe Spice	restaurant general	neutral	restaurant general neutral	no	0	0
+170	It 's simply the best meal in NYC .	meal	food quality	positive	food quality positive	yes	6	7
+170	It 's simply the best meal in NYC .	meal	food quality	negative	food quality negative	no	0	0
+170	It 's simply the best meal in NYC .	meal	food quality	neutral	food quality neutral	no	0	0
+175	We had a great time at the Jekyll and hyde Pub last night .	Jekyll and hyde Pub	restaurant general	positive	restaurant general positive	yes	8	12
+175	We had a great time at the Jekyll and hyde Pub last night .	Jekyll and hyde Pub	restaurant general	negative	restaurant general negative	no	0	0
+175	We had a great time at the Jekyll and hyde Pub last night .	Jekyll and hyde Pub	restaurant general	neutral	restaurant general neutral	no	0	0
+180	If you are the type of person who likes being scared and entertained , this is a great place to go and eat .	place	restaurant miscellaneous	positive	restaurant miscellaneous positive	yes	19	20
+180	If you are the type of person who likes being scared and entertained , this is a great place to go and eat .	place	restaurant miscellaneous	negative	restaurant miscellaneous negative	no	0	0
+180	If you are the type of person who likes being scared and entertained , this is a great place to go and eat .	place	restaurant miscellaneous	neutral	restaurant miscellaneous neutral	no	0	0
+181	My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary , and to our surprise it was fantastic .	Jekyll and Hyde Pub	restaurant general	positive	restaurant general positive	yes	14	18
+181	My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary , and to our surprise it was fantastic .	Jekyll and Hyde Pub	restaurant general	negative	restaurant general negative	no	0	0
+181	My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary , and to our surprise it was fantastic .	Jekyll and Hyde Pub	restaurant general	neutral	restaurant general neutral	no	0	0
+196	Their pad penang is delicious and everything else is fantastic .	pad penang	food quality	positive	food quality positive	yes	2	4
+196	Their pad penang is delicious and everything else is fantastic .	pad penang	food quality	negative	food quality negative	no	0	0
+196	Their pad penang is delicious and everything else is fantastic .	pad penang	food quality	neutral	food quality neutral	no	0	0
+201	We had Pam 's special fried fish and it was amazing .	Pam 's special fried fish	food quality	positive	food quality positive	yes	3	8
+201	We had Pam 's special fried fish and it was amazing .	Pam 's special fried fish	food quality	negative	food quality negative	no	0	0
+201	We had Pam 's special fried fish and it was amazing .	Pam 's special fried fish	food quality	neutral	food quality neutral	no	0	0
+202	Great vibe , lots of people .	vibe	ambience general	positive	ambience general positive	yes	2	3
+202	Great vibe , lots of people .	vibe	ambience general	negative	ambience general negative	no	0	0
+202	Great vibe , lots of people .	vibe	ambience general	neutral	ambience general neutral	no	0	0
+204	Ambience is so cute and quaint , good for business although we were there on vacation .	Ambience	ambience general	positive	ambience general positive	yes	1	2
+204	Ambience is so cute and quaint , good for business although we were there on vacation .	Ambience	ambience general	negative	ambience general negative	no	0	0
+204	Ambience is so cute and quaint , good for business although we were there on vacation .	Ambience	ambience general	neutral	ambience general neutral	no	0	0
+210	The Yellowtail was particularly good as well .	Yellowtail	food quality	positive	food quality positive	yes	2	3
+210	The Yellowtail was particularly good as well .	Yellowtail	food quality	negative	food quality negative	no	0	0
+210	The Yellowtail was particularly good as well .	Yellowtail	food quality	neutral	food quality neutral	no	0	0
+213	Big Wong gets big Ups for a fine establishment .	Big Wong	restaurant general	positive	restaurant general positive	yes	1	3
+213	Big Wong gets big Ups for a fine establishment .	Big Wong	restaurant general	negative	restaurant general negative	no	0	0
+213	Big Wong gets big Ups for a fine establishment .	Big Wong	restaurant general	neutral	restaurant general neutral	no	0	0
+218	This place is always very crowded and popular .	place	restaurant miscellaneous	positive	restaurant miscellaneous positive	yes	2	3
+218	This place is always very crowded and popular .	place	restaurant miscellaneous	negative	restaurant miscellaneous negative	no	0	0
+218	This place is always very crowded and popular .	place	restaurant miscellaneous	neutral	restaurant miscellaneous neutral	no	0	0
+236	Service was slow , but the people were friendly .	Service	service general	positive	service general positive	no	0	0
+236	Service was slow , but the people were friendly .	Service	service general	negative	service general negative	yes	1	2
+236	Service was slow , but the people were friendly .	Service	service general	neutral	service general neutral	no	0	0
+236	Service was slow , but the people were friendly .	people	service general	positive	service general positive	yes	7	8
+236	Service was slow , but the people were friendly .	people	service general	negative	service general negative	no	0	0
+236	Service was slow , but the people were friendly .	people	service general	neutral	service general neutral	no	0	0
+252	We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai .	beef and noodle soup dishes	food quality	positive	food quality positive	no	0	0
+252	We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai .	beef and noodle soup dishes	food quality	negative	food quality negative	yes	4	9
+252	We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai .	beef and noodle soup dishes	food quality	neutral	food quality neutral	no	0	0
+253	We won 't go to this place again for a good meal .	meal	food quality	positive	food quality positive	no	0	0
+253	We won 't go to this place again for a good meal .	meal	food quality	negative	food quality negative	yes	12	13
+253	We won 't go to this place again for a good meal .	meal	food quality	neutral	food quality neutral	no	0	0
+257	Check this place out !	place	restaurant general	positive	restaurant general positive	yes	3	4
+257	Check this place out !	place	restaurant general	negative	restaurant general negative	no	0	0
+257	Check this place out !	place	restaurant general	neutral	restaurant general neutral	no	0	0
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	tables	ambience general	positive	ambience general positive	no	0	0
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	tables	ambience general	negative	ambience general negative	yes	2	3
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	tables	ambience general	neutral	ambience general neutral	no	0	0
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	menu	food style_options	positive	food style_options positive	no	0	0
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	menu	food style_options	negative	food style_options negative	no	0	0
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	menu	food style_options	neutral	food style_options neutral	yes	10	11
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	wine list	drinks prices	positive	drinks prices positive	no	0	0
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	wine list	drinks prices	negative	drinks prices negative	yes	20	22
+259	The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .	wine list	drinks prices	neutral	drinks prices neutral	no	0	0
+260	Slightly above average wines start at $70+ with only one selection listed at $30+ .	wines	drinks quality	positive	drinks quality positive	no	0	0
+260	Slightly above average wines start at $70+ with only one selection listed at $30+ .	wines	drinks quality	negative	drinks quality negative	yes	4	5
+260	Slightly above average wines start at $70+ with only one selection listed at $30+ .	wines	drinks quality	neutral	drinks quality neutral	no	0	0
+260	Slightly above average wines start at $70+ with only one selection listed at $30+ .	wines	drinks prices	positive	drinks prices positive	no	0	0
+260	Slightly above average wines start at $70+ with only one selection listed at $30+ .	wines	drinks prices	negative	drinks prices negative	yes	4	5
+260	Slightly above average wines start at $70+ with only one selection listed at $30+ .	wines	drinks prices	neutral	drinks prices neutral	no	0	0
+269	Skip this restaurant , it 's a big disappointment .	restaurant	restaurant general	positive	restaurant general positive	no	0	0
+269	Skip this restaurant , it 's a big disappointment .	restaurant	restaurant general	negative	restaurant general negative	yes	3	4
+269	Skip this restaurant , it 's a big disappointment .	restaurant	restaurant general	neutral	restaurant general neutral	no	0	0
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	food	food quality	positive	food quality positive	yes	13	14
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	food	food quality	negative	food quality negative	no	0	0
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	food	food quality	neutral	food quality neutral	no	0	0
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	service	service general	positive	service general positive	yes	16	17
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	service	service general	negative	service general negative	no	0	0
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	service	service general	neutral	service general neutral	no	0	0
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	atmosphere	ambience general	positive	ambience general positive	yes	20	21
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	atmosphere	ambience general	negative	ambience general negative	no	0	0
+276	A restaurant that doesn 't try to do anything except serve great food with great service in a pleasant atmosphere .	atmosphere	ambience general	neutral	ambience general neutral	no	0	0
+287	My wife and I ate here earlier this week and have not stopped ranting and raving about the food .	food	food quality	positive	food quality positive	yes	19	20
+287	My wife and I ate here earlier this week and have not stopped ranting and raving about the food .	food	food quality	negative	food quality negative	no	0	0
+287	My wife and I ate here earlier this week and have not stopped ranting and raving about the food .	food	food quality	neutral	food quality neutral	no	0	0
+291	The wine list is excellent .	wine list	drinks style_options	positive	drinks style_options positive	yes	2	4
+291	The wine list is excellent .	wine list	drinks style_options	negative	drinks style_options negative	no	0	0
+291	The wine list is excellent .	wine list	drinks style_options	neutral	drinks style_options neutral	no	0	0
+296	The menu is very limited - i think we counted 4 or 5 entrees .	menu	food style_options	positive	food style_options positive	no	0	0
+296	The menu is very limited - i think we counted 4 or 5 entrees .	menu	food style_options	negative	food style_options negative	yes	2	3
+296	The menu is very limited - i think we counted 4 or 5 entrees .	menu	food style_options	neutral	food style_options neutral	no	0	0
+297	We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .	grilled branzino	food quality	positive	food quality positive	no	0	0
+297	We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .	grilled branzino	food quality	negative	food quality negative	yes	6	8
+297	We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .	grilled branzino	food quality	neutral	food quality neutral	no	0	0
+300	This place is so much fun .	place	ambience general	positive	ambience general positive	yes	2	3
+300	This place is so much fun .	place	ambience general	negative	ambience general negative	no	0	0
+300	This place is so much fun .	place	ambience general	neutral	ambience general neutral	no	0	0
+302	Our food was great too !	food	food quality	positive	food quality positive	yes	2	3
+302	Our food was great too !	food	food quality	negative	food quality negative	no	0	0
+302	Our food was great too !	food	food quality	neutral	food quality neutral	no	0	0
+303	And really large portions .	portions	food style_options	positive	food style_options positive	yes	4	5
+303	And really large portions .	portions	food style_options	negative	food style_options negative	no	0	0
+303	And really large portions .	portions	food style_options	neutral	food style_options neutral	no	0	0
+318	Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .	fish	food quality	positive	food quality positive	yes	14	15
+318	Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .	fish	food quality	negative	food quality negative	no	0	0
+318	Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .	fish	food quality	neutral	food quality neutral	no	0	0
+318	Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .	service	service general	positive	service general positive	yes	17	18
+318	Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .	service	service general	negative	service general negative	no	0	0
+318	Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .	service	service general	neutral	service general neutral	no	0	0
+325	Not impressed with the food .	food	food quality	positive	food quality positive	no	0	0
+325	Not impressed with the food .	food	food quality	negative	food quality negative	yes	5	6
+325	Not impressed with the food .	food	food quality	neutral	food quality neutral	no	0	0
+330	This is the BEST Shabu - Shabu Restaurant in the Try - State Area .	Shabu - Shabu Restaurant	restaurant general	positive	restaurant general positive	yes	5	9
+330	This is the BEST Shabu - Shabu Restaurant in the Try - State Area .	Shabu - Shabu Restaurant	restaurant general	negative	restaurant general negative	no	0	0
+330	This is the BEST Shabu - Shabu Restaurant in the Try - State Area .	Shabu - Shabu Restaurant	restaurant general	neutral	restaurant general neutral	no	0	0
+331	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	food	food quality	positive	food quality positive	yes	14	15
+331	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	food	food quality	negative	food quality negative	no	0	0
+331	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	food	food quality	neutral	food quality neutral	no	0	0
+331	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	feel	ambience general	positive	ambience general positive	yes	17	18
+331	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	feel	ambience general	negative	ambience general negative	no	0	0
+331	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	feel	ambience general	neutral	ambience general neutral	no	0	0
+336	Taxan delicious !	Taxan	food quality	positive	food quality positive	yes	1	2
+336	Taxan delicious !	Taxan	food quality	negative	food quality negative	no	0	0
+336	Taxan delicious !	Taxan	food quality	neutral	food quality neutral	no	0	0
+341	I had the best ravioli ever .	ravioli	food quality	positive	food quality positive	yes	5	6
+341	I had the best ravioli ever .	ravioli	food quality	negative	food quality negative	no	0	0
+341	I had the best ravioli ever .	ravioli	food quality	neutral	food quality neutral	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	food	food quality	positive	food quality positive	yes	22	23
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	food	food quality	negative	food quality negative	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	food	food quality	neutral	food quality neutral	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	wine	drinks quality	positive	drinks quality positive	yes	24	25
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	wine	drinks quality	negative	drinks quality negative	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	wine	drinks quality	neutral	drinks quality neutral	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	food	food prices	positive	food prices positive	yes	22	23
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	food	food prices	negative	food prices negative	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	food	food prices	neutral	food prices neutral	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	wine	drinks prices	positive	drinks prices positive	yes	24	25
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	wine	drinks prices	negative	drinks prices negative	no	0	0
+347	I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .	wine	drinks prices	neutral	drinks prices neutral	no	0	0
+349	Check out the secret back room .	back room	ambience general	positive	ambience general positive	yes	5	7
+349	Check out the secret back room .	back room	ambience general	negative	ambience general negative	no	0	0
+349	Check out the secret back room .	back room	ambience general	neutral	ambience general neutral	no	0	0
+354	Very good wine choices .	wine choices	drinks style_options	positive	drinks style_options positive	yes	3	5
+354	Very good wine choices .	wine choices	drinks style_options	negative	drinks style_options negative	no	0	0
+354	Very good wine choices .	wine choices	drinks style_options	neutral	drinks style_options neutral	no	0	0
+357	Great staff .	staff	service general	positive	service general positive	yes	2	3
+357	Great staff .	staff	service general	negative	service general negative	no	0	0
+357	Great staff .	staff	service general	neutral	service general neutral	no	0	0
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	place	restaurant prices	positive	restaurant prices positive	no	0	0
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	place	restaurant prices	negative	restaurant prices negative	yes	2	3
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	place	restaurant prices	neutral	restaurant prices neutral	no	0	0
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	food	food quality	positive	food quality positive	yes	10	11
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	food	food quality	negative	food quality negative	no	0	0
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	food	food quality	neutral	food quality neutral	no	0	0
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	service	service general	positive	service general positive	no	0	0
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	service	service general	negative	service general negative	yes	17	18
+363	This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .	service	service general	neutral	service general neutral	no	0	0
+384	Both times I was extremely dissappointed by the service , which was boarderline rude .	service	service general	positive	service general positive	no	0	0
+384	Both times I was extremely dissappointed by the service , which was boarderline rude .	service	service general	negative	service general negative	yes	9	10
+384	Both times I was extremely dissappointed by the service , which was boarderline rude .	service	service general	neutral	service general neutral	no	0	0
+389	Planet Thai is great !	Planet Thai	restaurant general	positive	restaurant general positive	yes	1	3
+389	Planet Thai is great !	Planet Thai	restaurant general	negative	restaurant general negative	no	0	0
+389	Planet Thai is great !	Planet Thai	restaurant general	neutral	restaurant general neutral	no	0	0
+392	Try the Pad Thai , it 's fabulous and their prices are so cheap !	Pad Thai	food quality	positive	food quality positive	yes	3	5
+392	Try the Pad Thai , it 's fabulous and their prices are so cheap !	Pad Thai	food quality	negative	food quality negative	no	0	0
+392	Try the Pad Thai , it 's fabulous and their prices are so cheap !	Pad Thai	food quality	neutral	food quality neutral	no	0	0
+397	They have authentic Indian at amazin prices .	Indian	food quality	positive	food quality positive	yes	4	5
+397	They have authentic Indian at amazin prices .	Indian	food quality	negative	food quality negative	no	0	0
+397	They have authentic Indian at amazin prices .	Indian	food quality	neutral	food quality neutral	no	0	0
+397	They have authentic Indian at amazin prices .	Indian	food prices	positive	food prices positive	yes	4	5
+397	They have authentic Indian at amazin prices .	Indian	food prices	negative	food prices negative	no	0	0
+397	They have authentic Indian at amazin prices .	Indian	food prices	neutral	food prices neutral	no	0	0
+409	Love YUKA .	YUKA	restaurant general	positive	restaurant general positive	yes	2	3
+409	Love YUKA .	YUKA	restaurant general	negative	restaurant general negative	no	0	0
+409	Love YUKA .	YUKA	restaurant general	neutral	restaurant general neutral	no	0	0
+411	The menu is limited but almost all of the dishes are excellent .	menu	food style_options	positive	food style_options positive	no	0	0
+411	The menu is limited but almost all of the dishes are excellent .	menu	food style_options	negative	food style_options negative	yes	2	3
+411	The menu is limited but almost all of the dishes are excellent .	menu	food style_options	neutral	food style_options neutral	no	0	0
+411	The menu is limited but almost all of the dishes are excellent .	dishes	food quality	positive	food quality positive	yes	10	11
+411	The menu is limited but almost all of the dishes are excellent .	dishes	food quality	negative	food quality negative	no	0	0
+411	The menu is limited but almost all of the dishes are excellent .	dishes	food quality	neutral	food quality neutral	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	food	food quality	positive	food quality positive	yes	2	3
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	food	food quality	negative	food quality negative	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	food	food quality	neutral	food quality neutral	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	halibut special	food quality	positive	food quality positive	yes	9	11
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	halibut special	food quality	negative	food quality negative	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	halibut special	food quality	neutral	food quality neutral	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	steak	food quality	positive	food quality positive	yes	15	16
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	steak	food quality	negative	food quality negative	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	steak	food quality	neutral	food quality neutral	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	service	service general	positive	service general positive	yes	20	21
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	service	service general	negative	service general negative	no	0	0
+417	The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .	service	service general	neutral	service general neutral	no	0	0
+433	The food was very good , a great deal , and the place its self was great .	food	food quality	positive	food quality positive	yes	2	3
+433	The food was very good , a great deal , and the place its self was great .	food	food quality	negative	food quality negative	no	0	0
+433	The food was very good , a great deal , and the place its self was great .	food	food quality	neutral	food quality neutral	no	0	0
+433	The food was very good , a great deal , and the place its self was great .	food	food prices	positive	food prices positive	yes	2	3
+433	The food was very good , a great deal , and the place its self was great .	food	food prices	negative	food prices negative	no	0	0
+433	The food was very good , a great deal , and the place its self was great .	food	food prices	neutral	food prices neutral	no	0	0
+433	The food was very good , a great deal , and the place its self was great .	place	ambience general	positive	ambience general positive	yes	13	14
+433	The food was very good , a great deal , and the place its self was great .	place	ambience general	negative	ambience general negative	no	0	0
+433	The food was very good , a great deal , and the place its self was great .	place	ambience general	neutral	ambience general neutral	no	0	0
+456	I have been to Casimir over 5 times and I have always had a great time there .	Casimir	restaurant general	positive	restaurant general positive	yes	5	6
+456	I have been to Casimir over 5 times and I have always had a great time there .	Casimir	restaurant general	negative	restaurant general negative	no	0	0
+456	I have been to Casimir over 5 times and I have always had a great time there .	Casimir	restaurant general	neutral	restaurant general neutral	no	0	0
+462	Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .	waitstaff	service general	positive	service general positive	yes	17	18
+462	Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .	waitstaff	service general	negative	service general negative	no	0	0
+462	Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .	waitstaff	service general	neutral	service general neutral	no	0	0
+476	The food was average or above including some surprising tasty dishes .	food	food quality	positive	food quality positive	yes	2	3
+476	The food was average or above including some surprising tasty dishes .	food	food quality	negative	food quality negative	no	0	0
+476	The food was average or above including some surprising tasty dishes .	food	food quality	neutral	food quality neutral	no	0	0
+476	The food was average or above including some surprising tasty dishes .	dishes	food quality	positive	food quality positive	yes	11	12
+476	The food was average or above including some surprising tasty dishes .	dishes	food quality	negative	food quality negative	no	0	0
+476	The food was average or above including some surprising tasty dishes .	dishes	food quality	neutral	food quality neutral	no	0	0
+480	My son and his girlfriend both wanted cheeseburgers and they were huge !	cheeseburgers	food style_options	positive	food style_options positive	no	0	0
+480	My son and his girlfriend both wanted cheeseburgers and they were huge !	cheeseburgers	food style_options	negative	food style_options negative	no	0	0
+480	My son and his girlfriend both wanted cheeseburgers and they were huge !	cheeseburgers	food style_options	neutral	food style_options neutral	yes	8	9
+486	If you want good authentic Thai this place is not the place to go .	Thai	food quality	positive	food quality positive	no	0	0
+486	If you want good authentic Thai this place is not the place to go .	Thai	food quality	negative	food quality negative	yes	6	7
+486	If you want good authentic Thai this place is not the place to go .	Thai	food quality	neutral	food quality neutral	no	0	0
+488	The pesto pizza was excellent , thin - crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .	pesto pizza	food quality	positive	food quality positive	yes	2	4
+488	The pesto pizza was excellent , thin - crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .	pesto pizza	food quality	negative	food quality negative	no	0	0
+488	The pesto pizza was excellent , thin - crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .	pesto pizza	food quality	neutral	food quality neutral	no	0	0
+488	The pesto pizza was excellent , thin - crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .	spicy Italian cheese	food quality	positive	food quality positive	yes	16	19
+488	The pesto pizza was excellent , thin - crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .	spicy Italian cheese	food quality	negative	food quality negative	no	0	0
+488	The pesto pizza was excellent , thin - crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .	spicy Italian cheese	food quality	neutral	food quality neutral	no	0	0
+495	it 's the only place you can get yummy authentic japanese comfort food .	japanese comfort food	food quality	positive	food quality positive	yes	11	14
+495	it 's the only place you can get yummy authentic japanese comfort food .	japanese comfort food	food quality	negative	food quality negative	no	0	0
+495	it 's the only place you can get yummy authentic japanese comfort food .	japanese comfort food	food quality	neutral	food quality neutral	no	0	0
+508	An excellent service	service	service general	positive	service general positive	yes	3	4
+508	An excellent service	service	service general	negative	service general negative	no	0	0
+508	An excellent service	service	service general	neutral	service general neutral	no	0	0
+511	The food looked very appetizing and delicious since it came on a variety of fancy plates .	food	food style_options	positive	food style_options positive	yes	2	3
+511	The food looked very appetizing and delicious since it came on a variety of fancy plates .	food	food style_options	negative	food style_options negative	no	0	0
+511	The food looked very appetizing and delicious since it came on a variety of fancy plates .	food	food style_options	neutral	food style_options neutral	no	0	0
+526	All of the pizzas are terrific and the price is even better !	pizzas	food quality	positive	food quality positive	yes	4	5
+526	All of the pizzas are terrific and the price is even better !	pizzas	food quality	negative	food quality negative	no	0	0
+526	All of the pizzas are terrific and the price is even better !	pizzas	food quality	neutral	food quality neutral	no	0	0
+526	All of the pizzas are terrific and the price is even better !	pizzas	food prices	positive	food prices positive	yes	4	5
+526	All of the pizzas are terrific and the price is even better !	pizzas	food prices	negative	food prices negative	no	0	0
+526	All of the pizzas are terrific and the price is even better !	pizzas	food prices	neutral	food prices neutral	no	0	0
+530	For the people who want great food plus great service , Roxy is a place to AVOID !	food	food quality	positive	food quality positive	no	0	0
+530	For the people who want great food plus great service , Roxy is a place to AVOID !	food	food quality	negative	food quality negative	yes	7	8
+530	For the people who want great food plus great service , Roxy is a place to AVOID !	food	food quality	neutral	food quality neutral	no	0	0
+530	For the people who want great food plus great service , Roxy is a place to AVOID !	service	service general	positive	service general positive	no	0	0
+530	For the people who want great food plus great service , Roxy is a place to AVOID !	service	service general	negative	service general negative	yes	10	11
+530	For the people who want great food plus great service , Roxy is a place to AVOID !	service	service general	neutral	service general neutral	no	0	0
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	blond wood decor	ambience general	positive	ambience general positive	yes	2	5
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	blond wood decor	ambience general	negative	ambience general negative	no	0	0
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	blond wood decor	ambience general	neutral	ambience general neutral	no	0	0
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	premium sake	drinks quality	positive	drinks quality positive	yes	10	12
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	premium sake	drinks quality	negative	drinks quality negative	no	0	0
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	premium sake	drinks quality	neutral	drinks quality neutral	no	0	0
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	service	service general	positive	service general positive	yes	16	17
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	service	service general	negative	service general negative	no	0	0
+532	The blond wood decor is very soothing , the premium sake is excellent and the service is great .	service	service general	neutral	service general neutral	no	0	0
+547	Kind , attentive wait staff .	wait staff	service general	positive	service general positive	yes	4	6
+547	Kind , attentive wait staff .	wait staff	service general	negative	service general negative	no	0	0
+547	Kind , attentive wait staff .	wait staff	service general	neutral	service general neutral	no	0	0
+571	But who says Murray 's is anything about service .	service	service general	positive	service general positive	no	0	0
+571	But who says Murray 's is anything about service .	service	service general	negative	service general negative	yes	9	10
+571	But who says Murray 's is anything about service .	service	service general	neutral	service general neutral	no	0	0
+590	Good , fast service .	service	service general	positive	service general positive	yes	4	5
+590	Good , fast service .	service	service general	negative	service general negative	no	0	0
+590	Good , fast service .	service	service general	neutral	service general neutral	no	0	0
+596	Great atmoshere and worth every bit .	atmoshere	ambience general	positive	ambience general positive	yes	2	3
+596	Great atmoshere and worth every bit .	atmoshere	ambience general	negative	ambience general negative	no	0	0
+596	Great atmoshere and worth every bit .	atmoshere	ambience general	neutral	ambience general neutral	no	0	0
+603	The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal .	brioche and lollies	food quality	positive	food quality positive	yes	2	5
+603	The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal .	brioche and lollies	food quality	negative	food quality negative	no	0	0
+603	The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal .	brioche and lollies	food quality	neutral	food quality neutral	no	0	0
+604	The place was quiet and delightful .	place	ambience general	positive	ambience general positive	yes	2	3
+604	The place was quiet and delightful .	place	ambience general	negative	ambience general negative	no	0	0
+604	The place was quiet and delightful .	place	ambience general	neutral	ambience general neutral	no	0	0
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	food	food quality	positive	food quality positive	yes	2	3
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	food	food quality	negative	food quality negative	no	0	0
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	food	food quality	neutral	food quality neutral	no	0	0
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	mussels in spicy tomato sauce	food quality	positive	food quality positive	yes	13	18
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	mussels in spicy tomato sauce	food quality	negative	food quality negative	no	0	0
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	mussels in spicy tomato sauce	food quality	neutral	food quality neutral	no	0	0
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	fries	food quality	positive	food quality positive	yes	22	23
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	fries	food quality	negative	food quality negative	no	0	0
+610	The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .	fries	food quality	neutral	food quality neutral	no	0	0
+616	Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .	location	location general	positive	location general positive	yes	2	3
+616	Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .	location	location general	negative	location general negative	no	0	0
+616	Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .	location	location general	neutral	location general neutral	no	0	0
+616	Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .	Suan	restaurant prices	positive	restaurant prices positive	yes	25	26
+616	Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .	Suan	restaurant prices	negative	restaurant prices negative	no	0	0
+616	Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .	Suan	restaurant prices	neutral	restaurant prices neutral	no	0	0
+629	Do not get the Go Go Hamburgers , no matter what the reviews say .	Go Go Hamburgers	food quality	positive	food quality positive	no	0	0
+629	Do not get the Go Go Hamburgers , no matter what the reviews say .	Go Go Hamburgers	food quality	negative	food quality negative	yes	5	8
+629	Do not get the Go Go Hamburgers , no matter what the reviews say .	Go Go Hamburgers	food quality	neutral	food quality neutral	no	0	0
+631	The wait here is long for dim sum , but if you don 't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .	wait	service general	positive	service general positive	no	0	0
+631	The wait here is long for dim sum , but if you don 't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .	wait	service general	negative	service general negative	yes	2	3
+631	The wait here is long for dim sum , but if you don 't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .	wait	service general	neutral	service general neutral	no	0	0
+631	The wait here is long for dim sum , but if you don 't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .	atmosphere	ambience general	positive	ambience general positive	no	0	0
+631	The wait here is long for dim sum , but if you don 't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .	atmosphere	ambience general	negative	ambience general negative	yes	25	26
+631	The wait here is long for dim sum , but if you don 't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .	atmosphere	ambience general	neutral	ambience general neutral	no	0	0
+636	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	meal	food quality	positive	food quality positive	yes	23	24
+636	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	meal	food quality	negative	food quality negative	no	0	0
+636	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	meal	food quality	neutral	food quality neutral	no	0	0
+636	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	restaurant	ambience general	positive	ambience general positive	no	0	0
+636	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	restaurant	ambience general	negative	ambience general negative	no	0	0
+636	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	restaurant	ambience general	neutral	ambience general neutral	yes	2	3
+640	The fried dumplings are GREAT !	fried dumplings	food quality	positive	food quality positive	yes	2	4
+640	The fried dumplings are GREAT !	fried dumplings	food quality	negative	food quality negative	no	0	0
+640	The fried dumplings are GREAT !	fried dumplings	food quality	neutral	food quality neutral	no	0	0
+652	Great food , great prices , great service .	food	food quality	positive	food quality positive	yes	2	3
+652	Great food , great prices , great service .	food	food quality	negative	food quality negative	no	0	0
+652	Great food , great prices , great service .	food	food quality	neutral	food quality neutral	no	0	0
+652	Great food , great prices , great service .	service	service general	positive	service general positive	yes	8	9
+652	Great food , great prices , great service .	service	service general	negative	service general negative	no	0	0
+652	Great food , great prices , great service .	service	service general	neutral	service general neutral	no	0	0
+663	The waiter was attentive .	waiter	service general	positive	service general positive	yes	2	3
+663	The waiter was attentive .	waiter	service general	negative	service general negative	no	0	0
+663	The waiter was attentive .	waiter	service general	neutral	service general neutral	no	0	0
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	Appetizers	food quality	positive	food quality positive	no	0	0
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	Appetizers	food quality	negative	food quality negative	no	0	0
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	Appetizers	food quality	neutral	food quality neutral	yes	8	9
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	waiter	service general	positive	service general positive	no	0	0
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	waiter	service general	negative	service general negative	yes	12	13
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	waiter	service general	neutral	service general neutral	no	0	0
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	potato stuff kanish	food quality	positive	food quality positive	yes	21	24
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	potato stuff kanish	food quality	negative	food quality negative	no	0	0
+665	Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .	potato stuff kanish	food quality	neutral	food quality neutral	no	0	0
+667	Dessert is a joke . . . dont bother	Dessert	food quality	positive	food quality positive	no	0	0
+667	Dessert is a joke . . . dont bother	Dessert	food quality	negative	food quality negative	yes	1	2
+667	Dessert is a joke . . . dont bother	Dessert	food quality	neutral	food quality neutral	no	0	0
+668	Volare virgins or weekly regulars , everyone gets treated the same and you can 't ask for more than that when the service is this friendly .	service	service general	positive	service general positive	yes	23	24
+668	Volare virgins or weekly regulars , everyone gets treated the same and you can 't ask for more than that when the service is this friendly .	service	service general	negative	service general negative	no	0	0
+668	Volare virgins or weekly regulars , everyone gets treated the same and you can 't ask for more than that when the service is this friendly .	service	service general	neutral	service general neutral	no	0	0
+673	Fantastic place .	place	restaurant general	positive	restaurant general positive	yes	2	3
+673	Fantastic place .	place	restaurant general	negative	restaurant general negative	no	0	0
+673	Fantastic place .	place	restaurant general	neutral	restaurant general neutral	no	0	0
+678	Excellent spot for holiday get togethers with co - workers or friends that you haven 't seen in a while .	spot	restaurant miscellaneous	positive	restaurant miscellaneous positive	yes	2	3
+678	Excellent spot for holiday get togethers with co - workers or friends that you haven 't seen in a while .	spot	restaurant miscellaneous	negative	restaurant miscellaneous negative	no	0	0
+678	Excellent spot for holiday get togethers with co - workers or friends that you haven 't seen in a while .	spot	restaurant miscellaneous	neutral	restaurant miscellaneous neutral	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	bar	ambience general	positive	ambience general positive	yes	3	4
+682	A cool bar with great food , and tons of excellent beer .	bar	ambience general	negative	ambience general negative	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	bar	ambience general	neutral	ambience general neutral	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	food	food quality	positive	food quality positive	yes	6	7
+682	A cool bar with great food , and tons of excellent beer .	food	food quality	negative	food quality negative	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	food	food quality	neutral	food quality neutral	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	beer	drinks quality	positive	drinks quality positive	yes	12	13
+682	A cool bar with great food , and tons of excellent beer .	beer	drinks quality	negative	drinks quality negative	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	beer	drinks quality	neutral	drinks quality neutral	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	beer	drinks style_options	positive	drinks style_options positive	yes	12	13
+682	A cool bar with great food , and tons of excellent beer .	beer	drinks style_options	negative	drinks style_options negative	no	0	0
+682	A cool bar with great food , and tons of excellent beer .	beer	drinks style_options	neutral	drinks style_options neutral	no	0	0
+688	Service was very prompt but slightly rushed .	Service	service general	positive	service general positive	yes	1	2
+688	Service was very prompt but slightly rushed .	Service	service general	negative	service general negative	no	0	0
+688	Service was very prompt but slightly rushed .	Service	service general	neutral	service general neutral	no	0	0
+688	Service was very prompt but slightly rushed .	Service	service general	positive	service general positive	no	0	0
+688	Service was very prompt but slightly rushed .	Service	service general	negative	service general negative	yes	1	2
+688	Service was very prompt but slightly rushed .	Service	service general	neutral	service general neutral	no	0	0
+693	I really liked this place .	place	restaurant general	positive	restaurant general positive	yes	5	6
+693	I really liked this place .	place	restaurant general	negative	restaurant general negative	no	0	0
+693	I really liked this place .	place	restaurant general	neutral	restaurant general neutral	no	0	0
+694	This place has the best Chinese style BBQ ribs in the city .	BBQ ribs	food quality	positive	food quality positive	yes	8	10
+694	This place has the best Chinese style BBQ ribs in the city .	BBQ ribs	food quality	negative	food quality negative	no	0	0
+694	This place has the best Chinese style BBQ ribs in the city .	BBQ ribs	food quality	neutral	food quality neutral	no	0	0
+694	This place has the best Chinese style BBQ ribs in the city .	BBQ ribs	food style_options	positive	food style_options positive	yes	8	10
+694	This place has the best Chinese style BBQ ribs in the city .	BBQ ribs	food style_options	negative	food style_options negative	no	0	0
+694	This place has the best Chinese style BBQ ribs in the city .	BBQ ribs	food style_options	neutral	food style_options neutral	no	0	0
+707	I have never had cheescake like this .	cheescake	food quality	positive	food quality positive	yes	5	6
+707	I have never had cheescake like this .	cheescake	food quality	negative	food quality negative	no	0	0
+707	I have never had cheescake like this .	cheescake	food quality	neutral	food quality neutral	no	0	0
+712	We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .	chicken casserole	food quality	positive	food quality positive	no	0	0
+712	We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .	chicken casserole	food quality	negative	food quality negative	yes	4	6
+712	We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .	chicken casserole	food quality	neutral	food quality neutral	no	0	0
+712	We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .	chicken casserole	food style_options	positive	food style_options positive	no	0	0
+712	We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .	chicken casserole	food style_options	negative	food style_options negative	yes	4	6
+712	We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .	chicken casserole	food style_options	neutral	food style_options neutral	no	0	0
+728	Authentic Pakistani food .	Pakistani food	food quality	positive	food quality positive	yes	2	4
+728	Authentic Pakistani food .	Pakistani food	food quality	negative	food quality negative	no	0	0
+728	Authentic Pakistani food .	Pakistani food	food quality	neutral	food quality neutral	no	0	0
+733	The best pad thai i 've ever had .	pad thai	food quality	positive	food quality positive	yes	3	5
+733	The best pad thai i 've ever had .	pad thai	food quality	negative	food quality negative	no	0	0
+733	The best pad thai i 've ever had .	pad thai	food quality	neutral	food quality neutral	no	0	0
+735	bottles of wine are cheap and good .	bottles of wine	drinks prices	positive	drinks prices positive	yes	1	4
+735	bottles of wine are cheap and good .	bottles of wine	drinks prices	negative	drinks prices negative	no	0	0
+735	bottles of wine are cheap and good .	bottles of wine	drinks prices	neutral	drinks prices neutral	no	0	0
+735	bottles of wine are cheap and good .	bottles of wine	drinks quality	positive	drinks quality positive	yes	1	4
+735	bottles of wine are cheap and good .	bottles of wine	drinks quality	negative	drinks quality negative	no	0	0
+735	bottles of wine are cheap and good .	bottles of wine	drinks quality	neutral	drinks quality neutral	no	0	0
+739	The jukebox plays everything from Italian Opera to The Strokes .	jukebox	ambience general	positive	ambience general positive	yes	2	3
+739	The jukebox plays everything from Italian Opera to The Strokes .	jukebox	ambience general	negative	ambience general negative	no	0	0
+739	The jukebox plays everything from Italian Opera to The Strokes .	jukebox	ambience general	neutral	ambience general neutral	no	0	0
+756	The service is good and the resturant is clean .	service	service general	positive	service general positive	yes	2	3
+756	The service is good and the resturant is clean .	service	service general	negative	service general negative	no	0	0
+756	The service is good and the resturant is clean .	service	service general	neutral	service general neutral	no	0	0
+756	The service is good and the resturant is clean .	resturant	ambience general	positive	ambience general positive	yes	7	8
+756	The service is good and the resturant is clean .	resturant	ambience general	negative	ambience general negative	no	0	0
+756	The service is good and the resturant is clean .	resturant	ambience general	neutral	ambience general neutral	no	0	0
+785	Consistently good Japanese Tapas .	Japanese Tapas	food quality	positive	food quality positive	yes	3	5
+785	Consistently good Japanese Tapas .	Japanese Tapas	food quality	negative	food quality negative	no	0	0
+785	Consistently good Japanese Tapas .	Japanese Tapas	food quality	neutral	food quality neutral	no	0	0
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	fish	food quality	positive	food quality positive	no	0	0
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	fish	food quality	negative	food quality negative	yes	11	12
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	fish	food quality	neutral	food quality neutral	no	0	0
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	staff	service general	positive	service general positive	no	0	0
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	staff	service general	negative	service general negative	yes	14	15
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	staff	service general	neutral	service general neutral	no	0	0
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	sushi chef	restaurant miscellaneous	positive	restaurant miscellaneous positive	no	0	0
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	sushi chef	restaurant miscellaneous	negative	restaurant miscellaneous negative	yes	17	19
+790	If you don 't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .	sushi chef	restaurant miscellaneous	neutral	restaurant miscellaneous neutral	no	0	0
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	service	service general	positive	service general positive	no	0	0
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	service	service general	negative	service general negative	yes	20	21
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	service	service general	neutral	service general neutral	no	0	0
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	food	food prices	positive	food prices positive	no	0	0
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	food	food prices	negative	food prices negative	yes	25	26
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	food	food prices	neutral	food prices neutral	no	0	0
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	food	food quality	positive	food quality positive	no	0	0
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	food	food quality	negative	food quality negative	yes	25	26
+798	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	food	food quality	neutral	food quality neutral	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	wines	drinks quality	positive	drinks quality positive	yes	5	6
+820	Interesting selection , good wines , service fine , fun decor .	wines	drinks quality	negative	drinks quality negative	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	wines	drinks quality	neutral	drinks quality neutral	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	service	service general	positive	service general positive	yes	7	8
+820	Interesting selection , good wines , service fine , fun decor .	service	service general	negative	service general negative	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	service	service general	neutral	service general neutral	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	decor	ambience general	positive	ambience general positive	yes	11	12
+820	Interesting selection , good wines , service fine , fun decor .	decor	ambience general	negative	ambience general negative	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	decor	ambience general	neutral	ambience general neutral	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	selection	food style_options	positive	food style_options positive	yes	2	3
+820	Interesting selection , good wines , service fine , fun decor .	selection	food style_options	negative	food style_options negative	no	0	0
+820	Interesting selection , good wines , service fine , fun decor .	selection	food style_options	neutral	food style_options neutral	no	0	0
+826	The mussels were fantastic and so was the dessert . . . definitely going to be back very soon .	mussels	food quality	positive	food quality positive	yes	2	3
+826	The mussels were fantastic and so was the dessert . . . definitely going to be back very soon .	mussels	food quality	negative	food quality negative	no	0	0
+826	The mussels were fantastic and so was the dessert . . . definitely going to be back very soon .	mussels	food quality	neutral	food quality neutral	no	0	0
+826	The mussels were fantastic and so was the dessert . . . definitely going to be back very soon .	dessert	food quality	positive	food quality positive	yes	9	10
+826	The mussels were fantastic and so was the dessert . . . definitely going to be back very soon .	dessert	food quality	negative	food quality negative	no	0	0
+826	The mussels were fantastic and so was the dessert . . . definitely going to be back very soon .	dessert	food quality	neutral	food quality neutral	no	0	0
+832	We could have made a meal of the yummy dumplings from the dumpling menu .	dumplings	food quality	positive	food quality positive	yes	10	11
+832	We could have made a meal of the yummy dumplings from the dumpling menu .	dumplings	food quality	negative	food quality negative	no	0	0
+832	We could have made a meal of the yummy dumplings from the dumpling menu .	dumplings	food quality	neutral	food quality neutral	no	0	0
+846	I LOOOVE their eggplant pizza , as well as their pastas !	eggplant pizza	food quality	positive	food quality positive	yes	4	6
+846	I LOOOVE their eggplant pizza , as well as their pastas !	eggplant pizza	food quality	negative	food quality negative	no	0	0
+846	I LOOOVE their eggplant pizza , as well as their pastas !	eggplant pizza	food quality	neutral	food quality neutral	no	0	0
+846	I LOOOVE their eggplant pizza , as well as their pastas !	pastas	food quality	positive	food quality positive	yes	11	12
+846	I LOOOVE their eggplant pizza , as well as their pastas !	pastas	food quality	negative	food quality negative	no	0	0
+846	I LOOOVE their eggplant pizza , as well as their pastas !	pastas	food quality	neutral	food quality neutral	no	0	0
+853	The sashimi is always fresh and the rolls are innovative and delicious .	sashimi	food quality	positive	food quality positive	yes	2	3
+853	The sashimi is always fresh and the rolls are innovative and delicious .	sashimi	food quality	negative	food quality negative	no	0	0
+853	The sashimi is always fresh and the rolls are innovative and delicious .	sashimi	food quality	neutral	food quality neutral	no	0	0
+853	The sashimi is always fresh and the rolls are innovative and delicious .	rolls	food style_options	positive	food style_options positive	yes	8	9
+853	The sashimi is always fresh and the rolls are innovative and delicious .	rolls	food style_options	negative	food style_options negative	no	0	0
+853	The sashimi is always fresh and the rolls are innovative and delicious .	rolls	food style_options	neutral	food style_options neutral	no	0	0
+853	The sashimi is always fresh and the rolls are innovative and delicious .	rolls	food quality	positive	food quality positive	yes	8	9
+853	The sashimi is always fresh and the rolls are innovative and delicious .	rolls	food quality	negative	food quality negative	no	0	0
+853	The sashimi is always fresh and the rolls are innovative and delicious .	rolls	food quality	neutral	food quality neutral	no	0	0
+864	There is something about their atmosphere that makes me come back nearly every week .	atmosphere	ambience general	positive	ambience general positive	yes	6	7
+864	There is something about their atmosphere that makes me come back nearly every week .	atmosphere	ambience general	negative	ambience general negative	no	0	0
+864	There is something about their atmosphere that makes me come back nearly every week .	atmosphere	ambience general	neutral	ambience general neutral	no	0	0
+865	Place is open till late , no dress code .	Place	restaurant miscellaneous	positive	restaurant miscellaneous positive	yes	1	2
+865	Place is open till late , no dress code .	Place	restaurant miscellaneous	negative	restaurant miscellaneous negative	no	0	0
+865	Place is open till late , no dress code .	Place	restaurant miscellaneous	neutral	restaurant miscellaneous neutral	no	0	0
+890	The waitress was not attentive at all .	waitress	service general	positive	service general positive	no	0	0
+890	The waitress was not attentive at all .	waitress	service general	negative	service general negative	yes	2	3
+890	The waitress was not attentive at all .	waitress	service general	neutral	service general neutral	no	0	0
+900	In the summer months , the back garden area is really nice .	back garden area	ambience general	positive	ambience general positive	yes	7	10
+900	In the summer months , the back garden area is really nice .	back garden area	ambience general	negative	ambience general negative	no	0	0
+900	In the summer months , the back garden area is really nice .	back garden area	ambience general	neutral	ambience general neutral	no	0	0
+902	The Dancing , White River and Millenium rolls are musts .	Dancing , White River and Millenium rolls	food quality	positive	food quality positive	yes	2	9
+902	The Dancing , White River and Millenium rolls are musts .	Dancing , White River and Millenium rolls	food quality	negative	food quality negative	no	0	0
+902	The Dancing , White River and Millenium rolls are musts .	Dancing , White River and Millenium rolls	food quality	neutral	food quality neutral	no	0	0
+903	I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE . . . )	PLACE	restaurant general	positive	restaurant general positive	yes	14	15
+903	I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE . . . )	PLACE	restaurant general	negative	restaurant general negative	no	0	0
+903	I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE . . . )	PLACE	restaurant general	neutral	restaurant general neutral	no	0	0
+905	I can 't remember the last time I had such gross food in New York .	food	food quality	positive	food quality positive	no	0	0
+905	I can 't remember the last time I had such gross food in New York .	food	food quality	negative	food quality negative	yes	12	13
+905	I can 't remember the last time I had such gross food in New York .	food	food quality	neutral	food quality neutral	no	0	0
+919	Nice view of river and NYC .	view of river and NYC	location general	positive	location general positive	yes	2	7
+919	Nice view of river and NYC .	view of river and NYC	location general	negative	location general negative	no	0	0
+919	Nice view of river and NYC .	view of river and NYC	location general	neutral	location general neutral	no	0	0
+927	The omlette for brunch is great . . .	omlette for brunch	food quality	positive	food quality positive	yes	2	5
+927	The omlette for brunch is great . . .	omlette for brunch	food quality	negative	food quality negative	no	0	0
+927	The omlette for brunch is great . . .	omlette for brunch	food quality	neutral	food quality neutral	no	0	0
+929	quacamole at pacifico is yummy , as are the wings with chimmichuri .	quacamole	food quality	positive	food quality positive	yes	1	2
+929	quacamole at pacifico is yummy , as are the wings with chimmichuri .	quacamole	food quality	negative	food quality negative	no	0	0
+929	quacamole at pacifico is yummy , as are the wings with chimmichuri .	quacamole	food quality	neutral	food quality neutral	no	0	0
+929	quacamole at pacifico is yummy , as are the wings with chimmichuri .	wings with chimmichuri	food quality	positive	food quality positive	yes	10	13
+929	quacamole at pacifico is yummy , as are the wings with chimmichuri .	wings with chimmichuri	food quality	negative	food quality negative	no	0	0
+929	quacamole at pacifico is yummy , as are the wings with chimmichuri .	wings with chimmichuri	food quality	neutral	food quality neutral	no	0	0
+931	Also , I personally wasn 't a fan of the portobello and asparagus mole .	portobello and asparagus mole	food quality	positive	food quality positive	no	0	0
+931	Also , I personally wasn 't a fan of the portobello and asparagus mole .	portobello and asparagus mole	food quality	negative	food quality negative	yes	11	15
+931	Also , I personally wasn 't a fan of the portobello and asparagus mole .	portobello and asparagus mole	food quality	neutral	food quality neutral	no	0	0
+937	All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come - - if you don 't eat one your trip was wasted .	Greek and Cypriot dishes	food quality	positive	food quality positive	yes	4	8
+937	All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come - - if you don 't eat one your trip was wasted .	Greek and Cypriot dishes	food quality	negative	food quality negative	no	0	0
+937	All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come - - if you don 't eat one your trip was wasted .	Greek and Cypriot dishes	food quality	neutral	food quality neutral	no	0	0
+937	All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come - - if you don 't eat one your trip was wasted .	gyro	food quality	positive	food quality positive	yes	13	14
+937	All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come - - if you don 't eat one your trip was wasted .	gyro	food quality	negative	food quality negative	no	0	0
+937	All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come - - if you don 't eat one your trip was wasted .	gyro	food quality	neutral	food quality neutral	no	0	0
+941	This place is a must visit !	place	restaurant general	positive	restaurant general positive	yes	2	3
+941	This place is a must visit !	place	restaurant general	negative	restaurant general negative	no	0	0
+941	This place is a must visit !	place	restaurant general	neutral	restaurant general neutral	no	0	0
+957	The bread we received was horrible - rock hard and cold - and the free appetizer of olives was disappointing .	bread	food quality	positive	food quality positive	no	0	0
+957	The bread we received was horrible - rock hard and cold - and the free appetizer of olives was disappointing .	bread	food quality	negative	food quality negative	yes	2	3
+957	The bread we received was horrible - rock hard and cold - and the free appetizer of olives was disappointing .	bread	food quality	neutral	food quality neutral	no	0	0
+957	The bread we received was horrible - rock hard and cold - and the free appetizer of olives was disappointing .	appetizer of olives	food quality	positive	food quality positive	no	0	0
+957	The bread we received was horrible - rock hard and cold - and the free appetizer of olives was disappointing .	appetizer of olives	food quality	negative	food quality negative	yes	16	19
+957	The bread we received was horrible - rock hard and cold - and the free appetizer of olives was disappointing .	appetizer of olives	food quality	neutral	food quality neutral	no	0	0
+971	Noodle pudding is exactly the type of service and food I enjoy .	service	service general	positive	service general positive	yes	8	9
+971	Noodle pudding is exactly the type of service and food I enjoy .	service	service general	negative	service general negative	no	0	0
+971	Noodle pudding is exactly the type of service and food I enjoy .	service	service general	neutral	service general neutral	no	0	0
+971	Noodle pudding is exactly the type of service and food I enjoy .	food	food quality	positive	food quality positive	yes	10	11
+971	Noodle pudding is exactly the type of service and food I enjoy .	food	food quality	negative	food quality negative	no	0	0
+971	Noodle pudding is exactly the type of service and food I enjoy .	food	food quality	neutral	food quality neutral	no	0	0
+984	We were drawn into the belly dancing show that captivated the crowd .	belly dancing show	ambience general	positive	ambience general positive	yes	6	9
+984	We were drawn into the belly dancing show that captivated the crowd .	belly dancing show	ambience general	negative	ambience general negative	no	0	0
+984	We were drawn into the belly dancing show that captivated the crowd .	belly dancing show	ambience general	neutral	ambience general neutral	no	0	0
+985	I never write on these sites but this restaurant is def worth commending !	restaurant	restaurant general	positive	restaurant general positive	yes	9	10
+985	I never write on these sites but this restaurant is def worth commending !	restaurant	restaurant general	negative	restaurant general negative	no	0	0
+985	I never write on these sites but this restaurant is def worth commending !	restaurant	restaurant general	neutral	restaurant general neutral	no	0	0
+989	I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .	manager	service general	positive	service general positive	yes	6	7
+989	I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .	manager	service general	negative	service general negative	no	0	0
+989	I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .	manager	service general	neutral	service general neutral	no	0	0
+989	I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .	manager	service general	positive	service general positive	no	0	0
+989	I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .	manager	service general	negative	service general negative	yes	6	7
+989	I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .	manager	service general	neutral	service general neutral	no	0	0
+994	Great place , great value .	place	restaurant general	positive	restaurant general positive	yes	2	3
+994	Great place , great value .	place	restaurant general	negative	restaurant general negative	no	0	0
+994	Great place , great value .	place	restaurant general	neutral	restaurant general neutral	no	0	0
+994	Great place , great value .	place	restaurant prices	positive	restaurant prices positive	yes	2	3
+994	Great place , great value .	place	restaurant prices	negative	restaurant prices negative	no	0	0
+994	Great place , great value .	place	restaurant prices	neutral	restaurant prices neutral	no	0	0
+996	The atmosphere is relaxed and casual .	atmosphere	ambience general	positive	ambience general positive	yes	2	3
+996	The atmosphere is relaxed and casual .	atmosphere	ambience general	negative	ambience general negative	no	0	0
+996	The atmosphere is relaxed and casual .	atmosphere	ambience general	neutral	ambience general neutral	no	0	0
+1009	The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .	atmosphere	ambience general	positive	ambience general positive	no	0	0
+1009	The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .	atmosphere	ambience general	negative	ambience general negative	yes	2	3
+1009	The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .	atmosphere	ambience general	neutral	ambience general neutral	no	0	0
+1009	The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .	scheme of mirrors	ambience general	positive	ambience general positive	no	0	0
+1009	The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .	scheme of mirrors	ambience general	negative	ambience general negative	yes	22	25
+1009	The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .	scheme of mirrors	ambience general	neutral	ambience general neutral	no	0	0
+1025	great hot dogs . .	hot dogs	food quality	positive	food quality positive	yes	2	4
+1025	great hot dogs . .	hot dogs	food quality	negative	food quality negative	no	0	0
+1025	great hot dogs . .	hot dogs	food quality	neutral	food quality neutral	no	0	0
+1035	Best Indian Chinese in the city , by far !	Indian Chinese	food quality	positive	food quality positive	yes	2	4
+1035	Best Indian Chinese in the city , by far !	Indian Chinese	food quality	negative	food quality negative	no	0	0
+1035	Best Indian Chinese in the city , by far !	Indian Chinese	food quality	neutral	food quality neutral	no	0	0
+1046	What you are paying for is the environment and the name .	environment	ambience general	positive	ambience general positive	no	0	0
+1046	What you are paying for is the environment and the name .	environment	ambience general	negative	ambience general negative	no	0	0
+1046	What you are paying for is the environment and the name .	environment	ambience general	neutral	ambience general neutral	yes	8	9
+1048	Vanison was good but not amazing .	Vanison	food quality	positive	food quality positive	no	0	0
+1048	Vanison was good but not amazing .	Vanison	food quality	negative	food quality negative	no	0	0
+1048	Vanison was good but not amazing .	Vanison	food quality	neutral	food quality neutral	yes	1	2
+1051	I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .	restaurant	restaurant prices	positive	restaurant prices positive	no	0	0
+1051	I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .	restaurant	restaurant prices	negative	restaurant prices negative	yes	7	8
+1051	I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .	restaurant	restaurant prices	neutral	restaurant prices neutral	no	0	0
+1051	I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .	restaurant	restaurant general	positive	restaurant general positive	no	0	0
+1051	I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .	restaurant	restaurant general	negative	restaurant general negative	yes	7	8
+1051	I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .	restaurant	restaurant general	neutral	restaurant general neutral	no	0	0
+1070	If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible !	meal	food quality	positive	food quality positive	no	0	0
+1070	If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible !	meal	food quality	negative	food quality negative	yes	22	23
+1070	If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible !	meal	food quality	neutral	food quality neutral	no	0	0
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	food	food quality	positive	food quality positive	yes	7	8
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	food	food quality	negative	food quality negative	no	0	0
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	food	food quality	neutral	food quality neutral	no	0	0
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	grilled Mahi Mahi	food quality	positive	food quality positive	no	0	0
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	grilled Mahi Mahi	food quality	negative	food quality negative	yes	15	18
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	grilled Mahi Mahi	food quality	neutral	food quality neutral	no	0	0
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	grilled Mahi Mahi	food style_options	positive	food style_options positive	no	0	0
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	grilled Mahi Mahi	food style_options	negative	food style_options negative	yes	15	18
+1079	Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !	grilled Mahi Mahi	food style_options	neutral	food style_options neutral	no	0	0
+1089	Bukhara Grill , the tagline says it all . . INDIAN SPICE RAVE	Bukhara Grill	restaurant general	positive	restaurant general positive	yes	1	3
+1089	Bukhara Grill , the tagline says it all . . INDIAN SPICE RAVE	Bukhara Grill	restaurant general	negative	restaurant general negative	no	0	0
+1089	Bukhara Grill , the tagline says it all . . INDIAN SPICE RAVE	Bukhara Grill	restaurant general	neutral	restaurant general neutral	no	0	0
+1090	The lunch buffet is expensive but is deff worth it .	lunch buffet	food prices	positive	food prices positive	no	0	0
+1090	The lunch buffet is expensive but is deff worth it .	lunch buffet	food prices	negative	food prices negative	yes	2	4
+1090	The lunch buffet is expensive but is deff worth it .	lunch buffet	food prices	neutral	food prices neutral	no	0	0
+1090	The lunch buffet is expensive but is deff worth it .	lunch buffet	food quality	positive	food quality positive	yes	2	4
+1090	The lunch buffet is expensive but is deff worth it .	lunch buffet	food quality	negative	food quality negative	no	0	0
+1090	The lunch buffet is expensive but is deff worth it .	lunch buffet	food quality	neutral	food quality neutral	no	0	0
+1095	My main concern was the sanity of the food that was being sent out to myself and others , but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation .	food	food quality	positive	food quality positive	no	0	0
+1095	My main concern was the sanity of the food that was being sent out to myself and others , but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation .	food	food quality	negative	food quality negative	yes	9	10
+1095	My main concern was the sanity of the food that was being sent out to myself and others , but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation .	food	food quality	neutral	food quality neutral	no	0	0
+1108	The real problem I had with this place was the complete lack of service .	service	service general	positive	service general positive	no	0	0
+1108	The real problem I had with this place was the complete lack of service .	service	service general	negative	service general negative	yes	14	15
+1108	The real problem I had with this place was the complete lack of service .	service	service general	neutral	service general neutral	no	0	0
+1111	The farro salad and the mashed yukon potatoes were also extremely tasty .	farro salad	food quality	positive	food quality positive	yes	2	4
+1111	The farro salad and the mashed yukon potatoes were also extremely tasty .	farro salad	food quality	negative	food quality negative	no	0	0
+1111	The farro salad and the mashed yukon potatoes were also extremely tasty .	farro salad	food quality	neutral	food quality neutral	no	0	0
+1111	The farro salad and the mashed yukon potatoes were also extremely tasty .	mashed yukon potatoes	food quality	positive	food quality positive	yes	6	9
+1111	The farro salad and the mashed yukon potatoes were also extremely tasty .	mashed yukon potatoes	food quality	negative	food quality negative	no	0	0
+1111	The farro salad and the mashed yukon potatoes were also extremely tasty .	mashed yukon potatoes	food quality	neutral	food quality neutral	no	0	0
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	crust	food quality	positive	food quality positive	yes	2	3
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	crust	food quality	negative	food quality negative	no	0	0
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	crust	food quality	neutral	food quality neutral	no	0	0
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	sauce	food quality	positive	food quality positive	yes	13	14
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	sauce	food quality	negative	food quality negative	no	0	0
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	sauce	food quality	neutral	food quality neutral	no	0	0
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	cheese	food quality	positive	food quality positive	yes	27	28
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	cheese	food quality	negative	food quality negative	no	0	0
+1115	The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .	cheese	food quality	neutral	food quality neutral	no	0	0
+1117	Possibly the Most Romantic Restaurant in the City	Restaurant	ambience general	positive	ambience general positive	yes	5	6
+1117	Possibly the Most Romantic Restaurant in the City	Restaurant	ambience general	negative	ambience general negative	no	0	0
+1117	Possibly the Most Romantic Restaurant in the City	Restaurant	ambience general	neutral	ambience general neutral	no	0	0
+1129	The service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .	service	service general	positive	service general positive	no	0	0
+1129	The service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .	service	service general	negative	service general negative	yes	2	3
+1129	The service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .	service	service general	neutral	service general neutral	no	0	0
+1137	Restaurant with a view	view	location general	positive	location general positive	no	0	0
+1137	Restaurant with a view	view	location general	negative	location general negative	no	0	0
+1137	Restaurant with a view	view	location general	neutral	location general neutral	yes	4	5
+1143	This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional . . .	decor	ambience general	positive	ambience general positive	no	0	0
+1143	This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional . . .	decor	ambience general	negative	ambience general negative	yes	6	7
+1143	This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional . . .	decor	ambience general	neutral	ambience general neutral	no	0	0
+1143	This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional . . .	mirrored walls	ambience general	positive	ambience general positive	no	0	0
+1143	This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional . . .	mirrored walls	ambience general	negative	ambience general negative	yes	12	14
+1143	This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional . . .	mirrored walls	ambience general	neutral	ambience general neutral	no	0	0
+1152	The food we ordered was excellent , although I wouldn 't say the margaritas were anything to write home about .	food	food quality	positive	food quality positive	yes	2	3
+1152	The food we ordered was excellent , although I wouldn 't say the margaritas were anything to write home about .	food	food quality	negative	food quality negative	no	0	0
+1152	The food we ordered was excellent , although I wouldn 't say the margaritas were anything to write home about .	food	food quality	neutral	food quality neutral	no	0	0
+1152	The food we ordered was excellent , although I wouldn 't say the margaritas were anything to write home about .	margaritas	drinks quality	positive	drinks quality positive	no	0	0
+1152	The food we ordered was excellent , although I wouldn 't say the margaritas were anything to write home about .	margaritas	drinks quality	negative	drinks quality negative	no	0	0
+1152	The food we ordered was excellent , although I wouldn 't say the margaritas were anything to write home about .	margaritas	drinks quality	neutral	drinks quality neutral	yes	14	15
+1165	At this point , the waitress comes over and asks us if everything was okay , I was literally so shocked that I was speechless and didn 't say anything , and guess what , the waitress WALKED away .	waitress	service general	positive	service general positive	no	0	0
+1165	At this point , the waitress comes over and asks us if everything was okay , I was literally so shocked that I was speechless and didn 't say anything , and guess what , the waitress WALKED away .	waitress	service general	negative	service general negative	yes	6	7
+1165	At this point , the waitress comes over and asks us if everything was okay , I was literally so shocked that I was speechless and didn 't say anything , and guess what , the waitress WALKED away .	waitress	service general	neutral	service general neutral	no	0	0
+1170	cirspy crust margherita pizza	margherita pizza	food quality	positive	food quality positive	yes	3	5
+1170	cirspy crust margherita pizza	margherita pizza	food quality	negative	food quality negative	no	0	0
+1170	cirspy crust margherita pizza	margherita pizza	food quality	neutral	food quality neutral	no	0	0
+1172	the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )	crust	food quality	positive	food quality positive	yes	2	3
+1172	the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )	crust	food quality	negative	food quality negative	no	0	0
+1172	the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )	crust	food quality	neutral	food quality neutral	no	0	0
+1172	the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )	pizza	food style_options	positive	food style_options positive	yes	8	9
+1172	the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )	pizza	food style_options	negative	food style_options negative	no	0	0
+1172	the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )	pizza	food style_options	neutral	food style_options neutral	no	0	0
+1185	But nonetheless - - great spot , great food .	spot	restaurant general	positive	restaurant general positive	yes	6	7
+1185	But nonetheless - - great spot , great food .	spot	restaurant general	negative	restaurant general negative	no	0	0
+1185	But nonetheless - - great spot , great food .	spot	restaurant general	neutral	restaurant general neutral	no	0	0
+1185	But nonetheless - - great spot , great food .	food	food quality	positive	food quality positive	yes	9	10
+1185	But nonetheless - - great spot , great food .	food	food quality	negative	food quality negative	no	0	0
+1185	But nonetheless - - great spot , great food .	food	food quality	neutral	food quality neutral	no	0	0
+1190	I 'd be horrified if my staff were turning away customers so early and so rudely !	staff	service general	positive	service general positive	no	0	0
+1190	I 'd be horrified if my staff were turning away customers so early and so rudely !	staff	service general	negative	service general negative	yes	7	8
+1190	I 'd be horrified if my staff were turning away customers so early and so rudely !	staff	service general	neutral	service general neutral	no	0	0
+1192	Considering you will spend at least $60 a head , I expect better service .	service	service general	positive	service general positive	no	0	0
+1192	Considering you will spend at least $60 a head , I expect better service .	service	service general	negative	service general negative	yes	14	15
+1192	Considering you will spend at least $60 a head , I expect better service .	service	service general	neutral	service general neutral	no	0	0
+1195	While finishing our meals which included a high - end bottle of wine , our son 's fiance joined us for a glass of wine and dessert .	bottle of wine	drinks quality	positive	drinks quality positive	yes	11	14
+1195	While finishing our meals which included a high - end bottle of wine , our son 's fiance joined us for a glass of wine and dessert .	bottle of wine	drinks quality	negative	drinks quality negative	no	0	0
+1195	While finishing our meals which included a high - end bottle of wine , our son 's fiance joined us for a glass of wine and dessert .	bottle of wine	drinks quality	neutral	drinks quality neutral	no	0	0
+1199	Mussles and calamari were superb Saturday evening .	Mussles	food quality	positive	food quality positive	yes	1	2
+1199	Mussles and calamari were superb Saturday evening .	Mussles	food quality	negative	food quality negative	no	0	0
+1199	Mussles and calamari were superb Saturday evening .	Mussles	food quality	neutral	food quality neutral	no	0	0
+1199	Mussles and calamari were superb Saturday evening .	calamari	food quality	positive	food quality positive	yes	3	4
+1199	Mussles and calamari were superb Saturday evening .	calamari	food quality	negative	food quality negative	no	0	0
+1199	Mussles and calamari were superb Saturday evening .	calamari	food quality	neutral	food quality neutral	no	0	0
+1211	Don ’t go to this place !	place	restaurant general	positive	restaurant general positive	no	0	0
+1211	Don ’t go to this place !	place	restaurant general	negative	restaurant general negative	yes	6	7
+1211	Don ’t go to this place !	place	restaurant general	neutral	restaurant general neutral	no	0	0
+1218	The bread was stale , the salad was overpriced and empty .	bread	food quality	positive	food quality positive	no	0	0
+1218	The bread was stale , the salad was overpriced and empty .	bread	food quality	negative	food quality negative	yes	2	3
+1218	The bread was stale , the salad was overpriced and empty .	bread	food quality	neutral	food quality neutral	no	0	0
+1218	The bread was stale , the salad was overpriced and empty .	salad	food prices	positive	food prices positive	no	0	0
+1218	The bread was stale , the salad was overpriced and empty .	salad	food prices	negative	food prices negative	yes	7	8
+1218	The bread was stale , the salad was overpriced and empty .	salad	food prices	neutral	food prices neutral	no	0	0
+1218	The bread was stale , the salad was overpriced and empty .	salad	food style_options	positive	food style_options positive	no	0	0
+1218	The bread was stale , the salad was overpriced and empty .	salad	food style_options	negative	food style_options negative	yes	7	8
+1218	The bread was stale , the salad was overpriced and empty .	salad	food style_options	neutral	food style_options neutral	no	0	0

@@ -1,0 +1,2 @@
+b"[['WAITING#TIME', 'POSITIVE', 'wait']]"
+b"[['LANGUAGE#GENERAL', 'POSITIVE', 'NULL']]"

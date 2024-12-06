@@ -1,0 +1,2 @@
+b"['PEOPLE#GENERAL']"
+b"['LOCATION#PRICES']"

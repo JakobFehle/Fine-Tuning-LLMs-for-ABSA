@@ -1,0 +1,2 @@
+b"[['FOOD', 'PRICE', 'Essen'], ['FOOD', 'PRICE', 'NULL']]"
+b"[['FOOD', 'PRICE', 'Essen'], ['FOOD', 'PRICE', 'NULL']]"

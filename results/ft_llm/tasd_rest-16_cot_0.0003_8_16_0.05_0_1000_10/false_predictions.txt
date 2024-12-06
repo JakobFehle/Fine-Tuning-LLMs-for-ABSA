@@ -1,0 +1,3 @@
+b"[['DRINKS#QUALITY', 'POSITIVE', 'drinks'], ['DRINKS#PRICES', 'FAIR', 'wine selection'], ['DRINKS#STYLE_OPTIONS', 'FAIR', 'wine selection']]"
+b"[['DRINKS#QUALITY', 'POSITIVE', 'drinks'], ['DRINKS#PRICES', 'FAIR', 'wine selection'], ['DRINKS#STYLE_OPTIONS', 'FAIR', 'wine selection']]"
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'NULL']]"

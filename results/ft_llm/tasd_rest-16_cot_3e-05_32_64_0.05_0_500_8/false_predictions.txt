@@ -1,0 +1,1 @@
+b"[['CHINESE#GENERAL', 'POSITIVE', 'Shanghai style'], ['RESTAURANT#GENERAL', 'POSITIVE', 'Shanghai place']]"

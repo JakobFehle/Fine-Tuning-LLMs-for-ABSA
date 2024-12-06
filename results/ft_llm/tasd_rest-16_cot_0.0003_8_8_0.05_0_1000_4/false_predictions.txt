@@ -1,0 +1,2 @@
+b"[['FOOD#PRICES', 'FOOD#QUALITY', 'fish'], ['NEGATIVE', 'NEGATIVE', 'fish']]"
+b"[['FOOD#PRICES', 'FOOD#QUALITY', 'fish'], ['NEGATIVE', 'NEGATIVE', 'fish']]"

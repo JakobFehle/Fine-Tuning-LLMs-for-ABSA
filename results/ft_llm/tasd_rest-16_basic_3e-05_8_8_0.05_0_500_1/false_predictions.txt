@@ -1,0 +1,4 @@
+b"[['FOOD#GENERAL', 'POSITIVE', 'place']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'Shanghai style']]"
+b"[['FOOD#GENERAL', 'NEGATIVE', 'service']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'food']]"

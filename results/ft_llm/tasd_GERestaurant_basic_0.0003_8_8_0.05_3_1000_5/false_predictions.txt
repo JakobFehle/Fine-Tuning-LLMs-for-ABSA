@@ -1,0 +1,2 @@
+b"[['FOOD', 'POSITIVE', 'essen'], ['AMBIENCE', 'POSITIVE', 'Atmosph\xc3\xa4re'], ['SERVICE', 'POSITIVE', 'Bedienung'], ['ACCESSIBILITY', 'POSITIVE', 'Erreichbarkeit'], ['ACCESSIBILITY', 'POSITIVE', 'Parkm\xc3\xb6glichkeit']]"
+b"[['FOOD', 'POSITIVE', 'essen'], ['AMBIENCE', 'POSITIVE', 'Atmosph\xc3\xa4re'], ['SERVICE', 'POSITIVE', 'Bedienung'], ['ACCESSIBILITY', 'POSITIVE', 'Erreichbarkeit'], ['ACCESSIBILITY', 'POSITIVE', 'Parkm\xc3\xb6glichkeit']]"

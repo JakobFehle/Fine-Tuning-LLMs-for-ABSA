@@ -1,0 +1,2 @@
+b"['DOG#GENERAL']"
+b"['SERVICE#PRICES']"

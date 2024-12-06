@@ -1,0 +1,8 @@
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
+b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
+b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
+b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
+b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
+b"[['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"
+b"[['FOOD#QUALITY', 'NEGATIVE', 'food'], ['FOOD#PRICES', 'NEGATIVE', 'food'], ['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"
+b"[['RESTAURANT#PRICES', 'NEGATIVE', 'dining'], ['RESTAURANT#GENERAL', 'POSITIVE', 'there'], ['RESTAURANT#GENERAL', 'POSITIVE', 'there'], ['FOOD#GENERAL', 'POSITIVE', 'NULL']]"

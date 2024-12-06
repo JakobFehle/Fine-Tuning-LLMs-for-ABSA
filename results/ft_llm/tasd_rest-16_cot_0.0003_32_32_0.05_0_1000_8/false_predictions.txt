@@ -1,0 +1,7 @@
+b"[['DRINKS#QUALITY', 'POSITIVE', 'drinks'], ['DRINKS#PRICES', 'FAIR', 'wine selection']]"
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'NULL']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'service'], ['RESTAURANT#VALUE', 'POSITIVE', 'value']]"
+b"[['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'Shanghai place']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['RESTAURANT#PRICES', 'MODERATE', 'food']]"
+b"[['DOG#QUALITY', 'POSITIVE', 'organic dog'], ['RESTAURANT#MISCELLANEOUS', 'POSITIVE', 'eco friendly establishment']]"

@@ -1,0 +1,733 @@
+sentence_id	sentence	target	category	polarity	category_polarity	entailed	start	end
+13	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	Uerige	general-impression	positive	general-impression positive	no	0	0
+13	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	Uerige	general-impression	negative	general-impression negative	yes	11	12
+13	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	Uerige	general-impression	neutral	general-impression neutral	no	0	0
+32	Als die Hauptspeisen kamen waren wir voll zufrieden , die Steaks waren auf den Punkt gebraten und die Beilagen schmackhaft und völlig ausreichend .	Steaks	food	positive	food positive	yes	11	12
+32	Als die Hauptspeisen kamen waren wir voll zufrieden , die Steaks waren auf den Punkt gebraten und die Beilagen schmackhaft und völlig ausreichend .	Steaks	food	negative	food negative	no	0	0
+32	Als die Hauptspeisen kamen waren wir voll zufrieden , die Steaks waren auf den Punkt gebraten und die Beilagen schmackhaft und völlig ausreichend .	Steaks	food	neutral	food neutral	no	0	0
+32	Als die Hauptspeisen kamen waren wir voll zufrieden , die Steaks waren auf den Punkt gebraten und die Beilagen schmackhaft und völlig ausreichend .	Beilagen	food	positive	food positive	yes	19	20
+32	Als die Hauptspeisen kamen waren wir voll zufrieden , die Steaks waren auf den Punkt gebraten und die Beilagen schmackhaft und völlig ausreichend .	Beilagen	food	negative	food negative	no	0	0
+32	Als die Hauptspeisen kamen waren wir voll zufrieden , die Steaks waren auf den Punkt gebraten und die Beilagen schmackhaft und völlig ausreichend .	Beilagen	food	neutral	food neutral	no	0	0
+43	War ein sehr gemütlicher Abend .	NULL	ambience	positive	ambience positive	yes	0	0
+43	War ein sehr gemütlicher Abend .	NULL	ambience	negative	ambience negative	no	0	0
+43	War ein sehr gemütlicher Abend .	NULL	ambience	neutral	ambience neutral	no	0	0
+64	LOC , hochwertig eingerichtetes Restaurant in dem auch Montagabend dringt durch die LOC direkt am LOC was los ist .	Restaurant	ambience	positive	ambience positive	yes	5	6
+64	LOC , hochwertig eingerichtetes Restaurant in dem auch Montagabend dringt durch die LOC direkt am LOC was los ist .	Restaurant	ambience	negative	ambience negative	no	0	0
+64	LOC , hochwertig eingerichtetes Restaurant in dem auch Montagabend dringt durch die LOC direkt am LOC was los ist .	Restaurant	ambience	neutral	ambience neutral	no	0	0
+82	Wir kamen für einen angenehmen Abend , wurden aber an der Tür in die Hölle geführt .	NULL	general-impression	positive	general-impression positive	no	0	0
+82	Wir kamen für einen angenehmen Abend , wurden aber an der Tür in die Hölle geführt .	NULL	general-impression	negative	general-impression negative	yes	0	0
+82	Wir kamen für einen angenehmen Abend , wurden aber an der Tür in die Hölle geführt .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+113	Wir kommen immer wieder gern zu Euch , weil wir bei euch einen Tag Urlaub in LOC erleben .	NULL	general-impression	positive	general-impression positive	yes	0	0
+113	Wir kommen immer wieder gern zu Euch , weil wir bei euch einen Tag Urlaub in LOC erleben .	NULL	general-impression	negative	general-impression negative	no	0	0
+113	Wir kommen immer wieder gern zu Euch , weil wir bei euch einen Tag Urlaub in LOC erleben .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+116	Tolles Ambiente , Blick in die offene Küche , für die wärmeren Jahreszeiten gibt es auch eine Möglichkeit draußen zu sitzen .	Ambiente	ambience	positive	ambience positive	yes	2	3
+116	Tolles Ambiente , Blick in die offene Küche , für die wärmeren Jahreszeiten gibt es auch eine Möglichkeit draußen zu sitzen .	Ambiente	ambience	negative	ambience negative	no	0	0
+116	Tolles Ambiente , Blick in die offene Küche , für die wärmeren Jahreszeiten gibt es auch eine Möglichkeit draußen zu sitzen .	Ambiente	ambience	neutral	ambience neutral	no	0	0
+126	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	Pils	price	positive	price positive	no	0	0
+126	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	Pils	price	negative	price negative	yes	15	16
+126	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	Pils	price	neutral	price neutral	no	0	0
+126	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	Grappa	price	positive	price positive	no	0	0
+126	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	Grappa	price	negative	price negative	yes	23	24
+126	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	Grappa	price	neutral	price neutral	no	0	0
+129	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	Lokal	general-impression	positive	general-impression positive	yes	4	5
+129	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	Lokal	general-impression	negative	general-impression negative	no	0	0
+129	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	Lokal	general-impression	neutral	general-impression neutral	no	0	0
+135	Wir kommen gerne wieder .	NULL	general-impression	positive	general-impression positive	yes	0	0
+135	Wir kommen gerne wieder .	NULL	general-impression	negative	general-impression negative	no	0	0
+135	Wir kommen gerne wieder .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+144	Muscheln als Vorspeise fantastisch .	Muscheln	food	positive	food positive	yes	1	2
+144	Muscheln als Vorspeise fantastisch .	Muscheln	food	negative	food negative	no	0	0
+144	Muscheln als Vorspeise fantastisch .	Muscheln	food	neutral	food neutral	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Ambiente	ambience	positive	ambience positive	yes	2	3
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Ambiente	ambience	negative	ambience negative	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Ambiente	ambience	neutral	ambience neutral	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Empfang	service	positive	service positive	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Empfang	service	negative	service negative	yes	18	19
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Empfang	service	neutral	service neutral	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	NULL	ambience	positive	ambience positive	yes	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	NULL	ambience	negative	ambience negative	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	NULL	ambience	neutral	ambience neutral	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	servicekräften	service	positive	service positive	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	servicekräften	service	negative	service negative	yes	36	37
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	servicekräften	service	neutral	service neutral	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	essen	food	positive	food positive	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	essen	food	negative	food negative	yes	47	48
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	essen	food	neutral	food neutral	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Burger	food	positive	food positive	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Burger	food	negative	food negative	yes	56	57
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	Burger	food	neutral	food neutral	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	NULL	general-impression	positive	general-impression positive	no	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	NULL	general-impression	negative	general-impression negative	yes	0	0
+170	Vom Ambiente her natürlich toll , RESTAURANTNAME eben , alles sehr sauber . . . aber der Empfang war mehr als unfreundlich , der Kellner am Tisch dafür wieder sehr aber nachdem wir von zwei servicekräften sehr unfreundlich begrüßt wurden wären wir fast wieder gegangen , essen war dann leider auch nicht toll , die Burger , waren sehr trocken , würden nicht nochmal wieder kommen . . . leider	NULL	general-impression	neutral	general-impression neutral	no	0	0
+186	Das Essen ist mega .	Essen	food	positive	food positive	yes	2	3
+186	Das Essen ist mega .	Essen	food	negative	food negative	no	0	0
+186	Das Essen ist mega .	Essen	food	neutral	food neutral	no	0	0
+236	Feines Essen , nette Bedienung .	Essen	food	positive	food positive	yes	2	3
+236	Feines Essen , nette Bedienung .	Essen	food	negative	food negative	no	0	0
+236	Feines Essen , nette Bedienung .	Essen	food	neutral	food neutral	no	0	0
+236	Feines Essen , nette Bedienung .	Bedienung	service	positive	service positive	yes	5	6
+236	Feines Essen , nette Bedienung .	Bedienung	service	negative	service negative	no	0	0
+236	Feines Essen , nette Bedienung .	Bedienung	service	neutral	service neutral	no	0	0
+247	Das brauchen wir nicht wieder .	NULL	general-impression	positive	general-impression positive	no	0	0
+247	Das brauchen wir nicht wieder .	NULL	general-impression	negative	general-impression negative	yes	0	0
+247	Das brauchen wir nicht wieder .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+273	LOC durchschnittlich .	LOC	general-impression	positive	general-impression positive	no	0	0
+273	LOC durchschnittlich .	LOC	general-impression	negative	general-impression negative	no	0	0
+273	LOC durchschnittlich .	LOC	general-impression	neutral	general-impression neutral	yes	1	2
+278	Wir wurden am Eingang richtig freundlich in Empfang genommen .	Empfang	ambience	positive	ambience positive	yes	8	9
+278	Wir wurden am Eingang richtig freundlich in Empfang genommen .	Empfang	ambience	negative	ambience negative	no	0	0
+278	Wir wurden am Eingang richtig freundlich in Empfang genommen .	Empfang	ambience	neutral	ambience neutral	no	0	0
+309	Ein stolzer Preis sollte sich mit einem Stolzen Essen decken !	Preis	price	positive	price positive	no	0	0
+309	Ein stolzer Preis sollte sich mit einem Stolzen Essen decken !	Preis	price	negative	price negative	yes	3	4
+309	Ein stolzer Preis sollte sich mit einem Stolzen Essen decken !	Preis	price	neutral	price neutral	no	0	0
+309	Ein stolzer Preis sollte sich mit einem Stolzen Essen decken !	Essen	food	positive	food positive	yes	9	10
+309	Ein stolzer Preis sollte sich mit einem Stolzen Essen decken !	Essen	food	negative	food negative	no	0	0
+309	Ein stolzer Preis sollte sich mit einem Stolzen Essen decken !	Essen	food	neutral	food neutral	no	0	0
+312	Optisch ein sehr schönes Lokal .	Lokal	ambience	positive	ambience positive	yes	5	6
+312	Optisch ein sehr schönes Lokal .	Lokal	ambience	negative	ambience negative	no	0	0
+312	Optisch ein sehr schönes Lokal .	Lokal	ambience	neutral	ambience neutral	no	0	0
+355	Alle Gerichte haben total gut geschmeckt , nicht überwürzt und die Portionen genau richtig .	Gerichte	food	positive	food positive	yes	2	3
+355	Alle Gerichte haben total gut geschmeckt , nicht überwürzt und die Portionen genau richtig .	Gerichte	food	negative	food negative	no	0	0
+355	Alle Gerichte haben total gut geschmeckt , nicht überwürzt und die Portionen genau richtig .	Gerichte	food	neutral	food neutral	no	0	0
+355	Alle Gerichte haben total gut geschmeckt , nicht überwürzt und die Portionen genau richtig .	Portionen	food	positive	food positive	yes	12	13
+355	Alle Gerichte haben total gut geschmeckt , nicht überwürzt und die Portionen genau richtig .	Portionen	food	negative	food negative	no	0	0
+355	Alle Gerichte haben total gut geschmeckt , nicht überwürzt und die Portionen genau richtig .	Portionen	food	neutral	food neutral	no	0	0
+362	Typisches Münchner Lokal näher LOC gut für Bayrische Küche Stimmung wie auf dem LOC	Küche	food	positive	food positive	yes	9	10
+362	Typisches Münchner Lokal näher LOC gut für Bayrische Küche Stimmung wie auf dem LOC	Küche	food	negative	food negative	no	0	0
+362	Typisches Münchner Lokal näher LOC gut für Bayrische Küche Stimmung wie auf dem LOC	Küche	food	neutral	food neutral	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Service	service	positive	service positive	yes	3	4
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Service	service	negative	service negative	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Service	service	neutral	service neutral	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Essen	food	positive	food positive	yes	7	8
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Essen	food	negative	food negative	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Essen	food	neutral	food neutral	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Bedienung	service	positive	service positive	yes	12	13
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Bedienung	service	negative	service negative	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	Bedienung	service	neutral	service neutral	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	NULL	general-impression	positive	general-impression positive	yes	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	NULL	general-impression	negative	general-impression negative	no	0	0
+367	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+374	Zwei Punkte , weil : Bedienung sehr aufmerksam und freundlich .	Bedienung	service	positive	service positive	yes	6	7
+374	Zwei Punkte , weil : Bedienung sehr aufmerksam und freundlich .	Bedienung	service	negative	service negative	no	0	0
+374	Zwei Punkte , weil : Bedienung sehr aufmerksam und freundlich .	Bedienung	service	neutral	service neutral	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Bratkartoffeln	food	positive	food positive	yes	1	2
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Bratkartoffeln	food	negative	food negative	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Bratkartoffeln	food	neutral	food neutral	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Kartoffelstampf	food	positive	food positive	yes	5	6
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Kartoffelstampf	food	negative	food negative	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Kartoffelstampf	food	neutral	food neutral	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Sauerkraut	food	positive	food positive	yes	3	4
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Sauerkraut	food	negative	food negative	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Sauerkraut	food	neutral	food neutral	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Schnitzel	food	positive	food positive	yes	7	8
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Schnitzel	food	negative	food negative	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Schnitzel	food	neutral	food neutral	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Grüne Soße	food	positive	food positive	yes	9	11
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Grüne Soße	food	negative	food negative	no	0	0
+392	Bratkartoffeln , Sauerkraut , Kartoffelstampf , Schnitzel , Grüne Soße - alles sehr lecker .	Grüne Soße	food	neutral	food neutral	no	0	0
+394	- Es war schon mal deutlich besser .	NULL	general-impression	positive	general-impression positive	no	0	0
+394	- Es war schon mal deutlich besser .	NULL	general-impression	negative	general-impression negative	yes	0	0
+394	- Es war schon mal deutlich besser .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+398	Gerne wieder !	NULL	general-impression	positive	general-impression positive	yes	0	0
+398	Gerne wieder !	NULL	general-impression	negative	general-impression negative	no	0	0
+398	Gerne wieder !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+429	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	MammaMia	general-impression	positive	general-impression positive	yes	2	3
+429	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	MammaMia	general-impression	negative	general-impression negative	no	0	0
+429	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	MammaMia	general-impression	neutral	general-impression neutral	no	0	0
+429	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	Atmosphäre	ambience	positive	ambience positive	yes	13	14
+429	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	Atmosphäre	ambience	negative	ambience negative	no	0	0
+429	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	Atmosphäre	ambience	neutral	ambience neutral	no	0	0
+436	Brandy rundeten diesen einmaligen Abend ab .	Brandy	food	positive	food positive	yes	1	2
+436	Brandy rundeten diesen einmaligen Abend ab .	Brandy	food	negative	food negative	no	0	0
+436	Brandy rundeten diesen einmaligen Abend ab .	Brandy	food	neutral	food neutral	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Service	service	positive	service positive	yes	8	9
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Service	service	negative	service negative	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Service	service	neutral	service neutral	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Ambiente	ambience	positive	ambience positive	yes	10	11
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Ambiente	ambience	negative	ambience negative	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Ambiente	ambience	neutral	ambience neutral	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Auswahl an Speisen	food	positive	food positive	yes	12	15
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Auswahl an Speisen	food	negative	food negative	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Auswahl an Speisen	food	neutral	food neutral	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Getränken	food	positive	food positive	yes	16	17
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Getränken	food	negative	food negative	no	0	0
+440	Ich fand es sehr solide in puncto Service , Ambiente und Auswahl an Speisen und Getränken .	Getränken	food	neutral	food neutral	no	0	0
+456	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	Tapas	food	positive	food positive	yes	2	3
+456	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	Tapas	food	negative	food negative	no	0	0
+456	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	Tapas	food	neutral	food neutral	no	0	0
+456	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	Mitarbeiterinnen	service	positive	service positive	yes	7	8
+456	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	Mitarbeiterinnen	service	negative	service negative	no	0	0
+456	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	Mitarbeiterinnen	service	neutral	service neutral	no	0	0
+457	Es schmeckt wie in LOC und würden wir in LOC wohnen , wären wir Stammgäste .	NULL	food	positive	food positive	yes	0	0
+457	Es schmeckt wie in LOC und würden wir in LOC wohnen , wären wir Stammgäste .	NULL	food	negative	food negative	no	0	0
+457	Es schmeckt wie in LOC und würden wir in LOC wohnen , wären wir Stammgäste .	NULL	food	neutral	food neutral	no	0	0
+463	Wurst ist ok , aber nicht das non plus ultra .	Wurst	food	positive	food positive	no	0	0
+463	Wurst ist ok , aber nicht das non plus ultra .	Wurst	food	negative	food negative	no	0	0
+463	Wurst ist ok , aber nicht das non plus ultra .	Wurst	food	neutral	food neutral	yes	1	2
+477	und auch Getränke waren immer da .	NULL	service	positive	service positive	yes	0	0
+477	und auch Getränke waren immer da .	NULL	service	negative	service negative	no	0	0
+477	und auch Getränke waren immer da .	NULL	service	neutral	service neutral	no	0	0
+486	Bedienung freundlich und flott .	Bedienung	service	positive	service positive	yes	1	2
+486	Bedienung freundlich und flott .	Bedienung	service	negative	service negative	no	0	0
+486	Bedienung freundlich und flott .	Bedienung	service	neutral	service neutral	no	0	0
+487	Das Essen ist solide mit einem ordentlichen Preis - Leistungsverhältnis .	Essen	food	positive	food positive	yes	2	3
+487	Das Essen ist solide mit einem ordentlichen Preis - Leistungsverhältnis .	Essen	food	negative	food negative	no	0	0
+487	Das Essen ist solide mit einem ordentlichen Preis - Leistungsverhältnis .	Essen	food	neutral	food neutral	no	0	0
+487	Das Essen ist solide mit einem ordentlichen Preis - Leistungsverhältnis .	Preis - Leistungsverhältnis	price	positive	price positive	yes	8	11
+487	Das Essen ist solide mit einem ordentlichen Preis - Leistungsverhältnis .	Preis - Leistungsverhältnis	price	negative	price negative	no	0	0
+487	Das Essen ist solide mit einem ordentlichen Preis - Leistungsverhältnis .	Preis - Leistungsverhältnis	price	neutral	price neutral	no	0	0
+503	Die Service Mitarbeiter versuchen ihr bestes , leider war ich von meiner Haxe die beste in der LOC stand auf der Karte schwer enttäuscht .	Service Mitarbeiter	service	positive	service positive	yes	2	4
+503	Die Service Mitarbeiter versuchen ihr bestes , leider war ich von meiner Haxe die beste in der LOC stand auf der Karte schwer enttäuscht .	Service Mitarbeiter	service	negative	service negative	no	0	0
+503	Die Service Mitarbeiter versuchen ihr bestes , leider war ich von meiner Haxe die beste in der LOC stand auf der Karte schwer enttäuscht .	Service Mitarbeiter	service	neutral	service neutral	no	0	0
+503	Die Service Mitarbeiter versuchen ihr bestes , leider war ich von meiner Haxe die beste in der LOC stand auf der Karte schwer enttäuscht .	Haxe	food	positive	food positive	no	0	0
+503	Die Service Mitarbeiter versuchen ihr bestes , leider war ich von meiner Haxe die beste in der LOC stand auf der Karte schwer enttäuscht .	Haxe	food	negative	food negative	yes	13	14
+503	Die Service Mitarbeiter versuchen ihr bestes , leider war ich von meiner Haxe die beste in der LOC stand auf der Karte schwer enttäuscht .	Haxe	food	neutral	food neutral	no	0	0
+533	Man fühlt sich völlig abgezockt .	NULL	price	positive	price positive	no	0	0
+533	Man fühlt sich völlig abgezockt .	NULL	price	negative	price negative	yes	0	0
+533	Man fühlt sich völlig abgezockt .	NULL	price	neutral	price neutral	no	0	0
+540	Als Familie sollte man seeeehr viel Geld einplanen .	Geld	price	positive	price positive	no	0	0
+540	Als Familie sollte man seeeehr viel Geld einplanen .	Geld	price	negative	price negative	yes	7	8
+540	Als Familie sollte man seeeehr viel Geld einplanen .	Geld	price	neutral	price neutral	no	0	0
+567	Das Restaurant im Keller war toll und gut besucht .	Restaurant im Keller	general-impression	positive	general-impression positive	yes	2	5
+567	Das Restaurant im Keller war toll und gut besucht .	Restaurant im Keller	general-impression	negative	general-impression negative	no	0	0
+567	Das Restaurant im Keller war toll und gut besucht .	Restaurant im Keller	general-impression	neutral	general-impression neutral	no	0	0
+571	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	NULL	service	positive	service positive	no	0	0
+571	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	NULL	service	negative	service negative	yes	0	0
+571	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	NULL	service	neutral	service neutral	no	0	0
+579	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	Produkte	food	positive	food positive	yes	13	14
+579	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	Produkte	food	negative	food negative	no	0	0
+579	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	Produkte	food	neutral	food neutral	no	0	0
+598	Die Qualität des Essens fand ich aber sehr durchschnittlich .	Essens	food	positive	food positive	no	0	0
+598	Die Qualität des Essens fand ich aber sehr durchschnittlich .	Essens	food	negative	food negative	no	0	0
+598	Die Qualität des Essens fand ich aber sehr durchschnittlich .	Essens	food	neutral	food neutral	yes	4	5
+607	Endlich die Gläser erhalten nun müssen WIR die Osteria Mitarbeitern bitten unsere Essensbestellung aufzunehmen .	Osteria Mitarbeitern	service	positive	service positive	no	0	0
+607	Endlich die Gläser erhalten nun müssen WIR die Osteria Mitarbeitern bitten unsere Essensbestellung aufzunehmen .	Osteria Mitarbeitern	service	negative	service negative	yes	9	11
+607	Endlich die Gläser erhalten nun müssen WIR die Osteria Mitarbeitern bitten unsere Essensbestellung aufzunehmen .	Osteria Mitarbeitern	service	neutral	service neutral	no	0	0
+666	Sehr schade .	NULL	general-impression	positive	general-impression positive	no	0	0
+666	Sehr schade .	NULL	general-impression	negative	general-impression negative	yes	0	0
+666	Sehr schade .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+669	Geschmacklich war es leider auch absolut traurig .	NULL	food	positive	food positive	no	0	0
+669	Geschmacklich war es leider auch absolut traurig .	NULL	food	negative	food negative	yes	0	0
+669	Geschmacklich war es leider auch absolut traurig .	NULL	food	neutral	food neutral	no	0	0
+670	Die Bedienung war freundlich , flott und gut gelaunt .	Bedienung	service	positive	service positive	yes	2	3
+670	Die Bedienung war freundlich , flott und gut gelaunt .	Bedienung	service	negative	service negative	no	0	0
+670	Die Bedienung war freundlich , flott und gut gelaunt .	Bedienung	service	neutral	service neutral	no	0	0
+675	Das Fleisch war trocken , weil es fast durchgebraten war .	Fleisch	food	positive	food positive	no	0	0
+675	Das Fleisch war trocken , weil es fast durchgebraten war .	Fleisch	food	negative	food negative	yes	2	3
+675	Das Fleisch war trocken , weil es fast durchgebraten war .	Fleisch	food	neutral	food neutral	no	0	0
+676	Dank an Susane , die uns sehr charmant durch den Abend begleitete .	Susane	service	positive	service positive	yes	3	4
+676	Dank an Susane , die uns sehr charmant durch den Abend begleitete .	Susane	service	negative	service negative	no	0	0
+676	Dank an Susane , die uns sehr charmant durch den Abend begleitete .	Susane	service	neutral	service neutral	no	0	0
+686	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	Ambiente	ambience	positive	ambience positive	yes	3	4
+686	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	Ambiente	ambience	negative	ambience negative	no	0	0
+686	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	Ambiente	ambience	neutral	ambience neutral	no	0	0
+686	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	Magdalena	service	positive	service positive	yes	16	17
+686	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	Magdalena	service	negative	service negative	no	0	0
+686	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	Magdalena	service	neutral	service neutral	no	0	0
+695	Sofort fühlte man sich wohl und gab Getränke - und Speisenbestellungen auf .	NULL	ambience	positive	ambience positive	yes	0	0
+695	Sofort fühlte man sich wohl und gab Getränke - und Speisenbestellungen auf .	NULL	ambience	negative	ambience negative	no	0	0
+695	Sofort fühlte man sich wohl und gab Getränke - und Speisenbestellungen auf .	NULL	ambience	neutral	ambience neutral	no	0	0
+697	Die Räumlichkeit ist sehr schön .	Räumlichkeit	ambience	positive	ambience positive	yes	2	3
+697	Die Räumlichkeit ist sehr schön .	Räumlichkeit	ambience	negative	ambience negative	no	0	0
+697	Die Räumlichkeit ist sehr schön .	Räumlichkeit	ambience	neutral	ambience neutral	no	0	0
+721	Wers zünftig , laut und gesellig mag , der ist hier richtig .	NULL	ambience	positive	ambience positive	yes	0	0
+721	Wers zünftig , laut und gesellig mag , der ist hier richtig .	NULL	ambience	negative	ambience negative	no	0	0
+721	Wers zünftig , laut und gesellig mag , der ist hier richtig .	NULL	ambience	neutral	ambience neutral	no	0	0
+742	Sehr freundlicher und aufmerksamer Service , breit gefächerte Karte - auch viele Speisen vegetarisch oder vegan .	Service	service	positive	service positive	yes	5	6
+742	Sehr freundlicher und aufmerksamer Service , breit gefächerte Karte - auch viele Speisen vegetarisch oder vegan .	Service	service	negative	service negative	no	0	0
+742	Sehr freundlicher und aufmerksamer Service , breit gefächerte Karte - auch viele Speisen vegetarisch oder vegan .	Service	service	neutral	service neutral	no	0	0
+742	Sehr freundlicher und aufmerksamer Service , breit gefächerte Karte - auch viele Speisen vegetarisch oder vegan .	Karte	food	positive	food positive	yes	9	10
+742	Sehr freundlicher und aufmerksamer Service , breit gefächerte Karte - auch viele Speisen vegetarisch oder vegan .	Karte	food	negative	food negative	no	0	0
+742	Sehr freundlicher und aufmerksamer Service , breit gefächerte Karte - auch viele Speisen vegetarisch oder vegan .	Karte	food	neutral	food neutral	no	0	0
+758	Das Personal ist sehr sehr nett und zuvorkommend .	Personal	service	positive	service positive	yes	2	3
+758	Das Personal ist sehr sehr nett und zuvorkommend .	Personal	service	negative	service negative	no	0	0
+758	Das Personal ist sehr sehr nett und zuvorkommend .	Personal	service	neutral	service neutral	no	0	0
+768	Nach einem Besuch der Toilette im Untergeschoss waren wir vollends bedient .	Toilette im Untergeschoss	ambience	positive	ambience positive	no	0	0
+768	Nach einem Besuch der Toilette im Untergeschoss waren wir vollends bedient .	Toilette im Untergeschoss	ambience	negative	ambience negative	yes	5	8
+768	Nach einem Besuch der Toilette im Untergeschoss waren wir vollends bedient .	Toilette im Untergeschoss	ambience	neutral	ambience neutral	no	0	0
+783	Das Saisonbier schmeckte ebenfalls .	Saisonbier	food	positive	food positive	yes	2	3
+783	Das Saisonbier schmeckte ebenfalls .	Saisonbier	food	negative	food negative	no	0	0
+783	Das Saisonbier schmeckte ebenfalls .	Saisonbier	food	neutral	food neutral	no	0	0
+795	Es hat gezogen an unserem Platz , es war etwas kalt .	NULL	ambience	positive	ambience positive	no	0	0
+795	Es hat gezogen an unserem Platz , es war etwas kalt .	NULL	ambience	negative	ambience negative	yes	0	0
+795	Es hat gezogen an unserem Platz , es war etwas kalt .	NULL	ambience	neutral	ambience neutral	no	0	0
+828	Fleisch komplett durch und zwar mehr als Well Done !	Fleisch	food	positive	food positive	no	0	0
+828	Fleisch komplett durch und zwar mehr als Well Done !	Fleisch	food	negative	food negative	yes	1	2
+828	Fleisch komplett durch und zwar mehr als Well Done !	Fleisch	food	neutral	food neutral	no	0	0
+829	Die Preise waren die gleichen wie früher : schade !	Preise	price	positive	price positive	no	0	0
+829	Die Preise waren die gleichen wie früher : schade !	Preise	price	negative	price negative	yes	2	3
+829	Die Preise waren die gleichen wie früher : schade !	Preise	price	neutral	price neutral	no	0	0
+840	2mal Fisch , 1mal herzhafte südamerikanische !	NULL	food	positive	food positive	yes	0	0
+840	2mal Fisch , 1mal herzhafte südamerikanische !	NULL	food	negative	food negative	no	0	0
+840	2mal Fisch , 1mal herzhafte südamerikanische !	NULL	food	neutral	food neutral	no	0	0
+857	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	Currywurst	food	positive	food positive	yes	6	7
+857	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	Currywurst	food	negative	food negative	no	0	0
+857	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	Currywurst	food	neutral	food neutral	no	0	0
+866	Sehr nette Location neben der LOC .	NULL	general-impression	positive	general-impression positive	yes	0	0
+866	Sehr nette Location neben der LOC .	NULL	general-impression	negative	general-impression negative	no	0	0
+866	Sehr nette Location neben der LOC .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+881	Wenn der Betreiber mit keinem guten Beispiel vorangeht und dies der Belegschaft nicht vorlebt , dann kommt wie es kommen muss : Rundum feindseliges Ambiente .	Ambiente	ambience	positive	ambience positive	no	0	0
+881	Wenn der Betreiber mit keinem guten Beispiel vorangeht und dies der Belegschaft nicht vorlebt , dann kommt wie es kommen muss : Rundum feindseliges Ambiente .	Ambiente	ambience	negative	ambience negative	yes	25	26
+881	Wenn der Betreiber mit keinem guten Beispiel vorangeht und dies der Belegschaft nicht vorlebt , dann kommt wie es kommen muss : Rundum feindseliges Ambiente .	Ambiente	ambience	neutral	ambience neutral	no	0	0
+881	Wenn der Betreiber mit keinem guten Beispiel vorangeht und dies der Belegschaft nicht vorlebt , dann kommt wie es kommen muss : Rundum feindseliges Ambiente .	Betreiber	service	positive	service positive	no	0	0
+881	Wenn der Betreiber mit keinem guten Beispiel vorangeht und dies der Belegschaft nicht vorlebt , dann kommt wie es kommen muss : Rundum feindseliges Ambiente .	Betreiber	service	negative	service negative	yes	3	4
+881	Wenn der Betreiber mit keinem guten Beispiel vorangeht und dies der Belegschaft nicht vorlebt , dann kommt wie es kommen muss : Rundum feindseliges Ambiente .	Betreiber	service	neutral	service neutral	no	0	0
+901	Aber ein Stück Kuchen anzubieten , was oben schief ist und wo der innerste Teil noch fehlt und dann noch 5 , 50 Euro zu kassieren , ist schon sehr nah am LOC .	Kuchen	food	positive	food positive	no	0	0
+901	Aber ein Stück Kuchen anzubieten , was oben schief ist und wo der innerste Teil noch fehlt und dann noch 5 , 50 Euro zu kassieren , ist schon sehr nah am LOC .	Kuchen	food	negative	food negative	yes	4	5
+901	Aber ein Stück Kuchen anzubieten , was oben schief ist und wo der innerste Teil noch fehlt und dann noch 5 , 50 Euro zu kassieren , ist schon sehr nah am LOC .	Kuchen	food	neutral	food neutral	no	0	0
+901	Aber ein Stück Kuchen anzubieten , was oben schief ist und wo der innerste Teil noch fehlt und dann noch 5 , 50 Euro zu kassieren , ist schon sehr nah am LOC .	NULL	price	positive	price positive	no	0	0
+901	Aber ein Stück Kuchen anzubieten , was oben schief ist und wo der innerste Teil noch fehlt und dann noch 5 , 50 Euro zu kassieren , ist schon sehr nah am LOC .	NULL	price	negative	price negative	yes	0	0
+901	Aber ein Stück Kuchen anzubieten , was oben schief ist und wo der innerste Teil noch fehlt und dann noch 5 , 50 Euro zu kassieren , ist schon sehr nah am LOC .	NULL	price	neutral	price neutral	no	0	0
+913	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	Speisen	food	positive	food positive	yes	12	13
+913	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	Speisen	food	negative	food negative	no	0	0
+913	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	Speisen	food	neutral	food neutral	no	0	0
+919	! Das ist unanständig und diskriminiert das ganze Geschäft .	NULL	general-impression	positive	general-impression positive	no	0	0
+919	! Das ist unanständig und diskriminiert das ganze Geschäft .	NULL	general-impression	negative	general-impression negative	yes	0	0
+919	! Das ist unanständig und diskriminiert das ganze Geschäft .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+927	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	NULL	service	positive	service positive	no	0	0
+927	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	NULL	service	negative	service negative	yes	0	0
+927	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	NULL	service	neutral	service neutral	no	0	0
+945	Das Carpaccio war sehr lecker .	Carpaccio	food	positive	food positive	yes	2	3
+945	Das Carpaccio war sehr lecker .	Carpaccio	food	negative	food negative	no	0	0
+945	Das Carpaccio war sehr lecker .	Carpaccio	food	neutral	food neutral	no	0	0
+955	Guter und freundlicher Service und ein echt gutes Essen !	Service	service	positive	service positive	yes	4	5
+955	Guter und freundlicher Service und ein echt gutes Essen !	Service	service	negative	service negative	no	0	0
+955	Guter und freundlicher Service und ein echt gutes Essen !	Service	service	neutral	service neutral	no	0	0
+955	Guter und freundlicher Service und ein echt gutes Essen !	Essen	food	positive	food positive	yes	9	10
+955	Guter und freundlicher Service und ein echt gutes Essen !	Essen	food	negative	food negative	no	0	0
+955	Guter und freundlicher Service und ein echt gutes Essen !	Essen	food	neutral	food neutral	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Fleisch	food	positive	food positive	yes	5	6
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Fleisch	food	negative	food negative	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Fleisch	food	neutral	food neutral	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Fleisch	food	positive	food positive	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Fleisch	food	negative	food negative	yes	5	6
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Fleisch	food	neutral	food neutral	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Panade	food	positive	food positive	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Panade	food	negative	food negative	yes	11	12
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Panade	food	neutral	food neutral	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Bratkartoffeln	food	positive	food positive	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Bratkartoffeln	food	negative	food negative	yes	21	22
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Bratkartoffeln	food	neutral	food neutral	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Kellnern	service	positive	service positive	no	0	0
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Kellnern	service	negative	service negative	yes	57	58
+974	Das Schnitzel war das Fleisch gut jedoch weder Fleisch noch Panade gesalzen und Gewürzt nach würzen bringt es nicht die Bratkartoffeln auch beim Tagesgericht verdienen das Wort nicht nur wenige waren gebraten alle anderen offensichtlich in noch nich erhitzten Fett oder Öl warm gemacht dadurch haben sie sich vollgesogen so was darf man nicht servieren den Kellnern den wir das dagegen interessieren sich nicht	Kellnern	service	neutral	service neutral	no	0	0
+975	Service sehr freundlich und flirty .	Service	service	positive	service positive	yes	1	2
+975	Service sehr freundlich und flirty .	Service	service	negative	service negative	no	0	0
+975	Service sehr freundlich und flirty .	Service	service	neutral	service neutral	no	0	0
+984	Sehr guter Service von Lena .	Lena	service	positive	service positive	yes	5	6
+984	Sehr guter Service von Lena .	Lena	service	negative	service negative	no	0	0
+984	Sehr guter Service von Lena .	Lena	service	neutral	service neutral	no	0	0
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Duett vom Hirsch	food	positive	food positive	yes	5	8
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Duett vom Hirsch	food	negative	food negative	no	0	0
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Duett vom Hirsch	food	neutral	food neutral	no	0	0
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Roulade	food	positive	food positive	yes	9	10
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Roulade	food	negative	food negative	no	0	0
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Roulade	food	neutral	food neutral	no	0	0
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Frikadelle	food	positive	food positive	yes	11	12
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Frikadelle	food	negative	food negative	no	0	0
+992	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	Frikadelle	food	neutral	food neutral	no	0	0
+1021	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	Bestellung	service	positive	service positive	no	0	0
+1021	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	Bestellung	service	negative	service negative	yes	22	23
+1021	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	Bestellung	service	neutral	service neutral	no	0	0
+1023	Die Pizza war perfekt und gut belegt .	Pizza	food	positive	food positive	yes	2	3
+1023	Die Pizza war perfekt und gut belegt .	Pizza	food	negative	food negative	no	0	0
+1023	Die Pizza war perfekt und gut belegt .	Pizza	food	neutral	food neutral	no	0	0
+1038	Derzeit fehlen die Schließzeiten : Man öffnet in der Situation , aber man schließt flexibel .	Schließzeiten	service	positive	service positive	no	0	0
+1038	Derzeit fehlen die Schließzeiten : Man öffnet in der Situation , aber man schließt flexibel .	Schließzeiten	service	negative	service negative	yes	4	5
+1038	Derzeit fehlen die Schließzeiten : Man öffnet in der Situation , aber man schließt flexibel .	Schließzeiten	service	neutral	service neutral	no	0	0
+1052	Schnelligkeit in der Küche etc . alles super .	Küche	service	positive	service positive	yes	4	5
+1052	Schnelligkeit in der Küche etc . alles super .	Küche	service	negative	service negative	no	0	0
+1052	Schnelligkeit in der Küche etc . alles super .	Küche	service	neutral	service neutral	no	0	0
+1084	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	NULL	food	positive	food positive	no	0	0
+1084	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	NULL	food	negative	food negative	yes	0	0
+1084	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	NULL	food	neutral	food neutral	no	0	0
+1091	Das Personal dort ist sehr freundlich und lustig .	Personal	service	positive	service positive	yes	2	3
+1091	Das Personal dort ist sehr freundlich und lustig .	Personal	service	negative	service negative	no	0	0
+1091	Das Personal dort ist sehr freundlich und lustig .	Personal	service	neutral	service neutral	no	0	0
+1099	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	Bedienung	service	positive	service positive	yes	2	3
+1099	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	Bedienung	service	negative	service negative	no	0	0
+1099	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	Bedienung	service	neutral	service neutral	no	0	0
+1099	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	Tisch	ambience	positive	ambience positive	no	0	0
+1099	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	Tisch	ambience	negative	ambience negative	yes	9	10
+1099	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	Tisch	ambience	neutral	ambience neutral	no	0	0
+1101	Daß das nicht klappen kann am Valentinstag wenn Paate gemütlich feiern wollen ist wohl völlig klar .	NULL	general-impression	positive	general-impression positive	no	0	0
+1101	Daß das nicht klappen kann am Valentinstag wenn Paate gemütlich feiern wollen ist wohl völlig klar .	NULL	general-impression	negative	general-impression negative	yes	0	0
+1101	Daß das nicht klappen kann am Valentinstag wenn Paate gemütlich feiern wollen ist wohl völlig klar .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1114	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	Küche	food	positive	food positive	no	0	0
+1114	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	Küche	food	negative	food negative	yes	13	14
+1114	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	Küche	food	neutral	food neutral	no	0	0
+1118	Der Nachtisch ging gar nicht .	Nachtisch	food	positive	food positive	no	0	0
+1118	Der Nachtisch ging gar nicht .	Nachtisch	food	negative	food negative	yes	2	3
+1118	Der Nachtisch ging gar nicht .	Nachtisch	food	neutral	food neutral	no	0	0
+1122	LOC war auch lecker .	LOC	food	positive	food positive	yes	1	2
+1122	LOC war auch lecker .	LOC	food	negative	food negative	no	0	0
+1122	LOC war auch lecker .	LOC	food	neutral	food neutral	no	0	0
+1126	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	Bruno	service	positive	service positive	yes	17	18
+1126	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	Bruno	service	negative	service negative	no	0	0
+1126	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	Bruno	service	neutral	service neutral	no	0	0
+1126	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	NULL	general-impression	positive	general-impression positive	yes	0	0
+1126	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	NULL	general-impression	negative	general-impression negative	no	0	0
+1126	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1133	Sehr lecker und sehr freundliches Personal !	Personal	service	positive	service positive	yes	6	7
+1133	Sehr lecker und sehr freundliches Personal !	Personal	service	negative	service negative	no	0	0
+1133	Sehr lecker und sehr freundliches Personal !	Personal	service	neutral	service neutral	no	0	0
+1136	Noch dazu rochen wir sehr unangenehm nach Frittierfett .	NULL	ambience	positive	ambience positive	no	0	0
+1136	Noch dazu rochen wir sehr unangenehm nach Frittierfett .	NULL	ambience	negative	ambience negative	yes	0	0
+1136	Noch dazu rochen wir sehr unangenehm nach Frittierfett .	NULL	ambience	neutral	ambience neutral	no	0	0
+1165	Auch das Essen war so lala .	Essen	food	positive	food positive	no	0	0
+1165	Auch das Essen war so lala .	Essen	food	negative	food negative	no	0	0
+1165	Auch das Essen war so lala .	Essen	food	neutral	food neutral	yes	3	4
+1170	Ein traditionelles Restaurant wie aus dem Bilderbuch .	Restaurant	general-impression	positive	general-impression positive	yes	3	4
+1170	Ein traditionelles Restaurant wie aus dem Bilderbuch .	Restaurant	general-impression	negative	general-impression negative	no	0	0
+1170	Ein traditionelles Restaurant wie aus dem Bilderbuch .	Restaurant	general-impression	neutral	general-impression neutral	no	0	0
+1174	Die Beilagen wären noch ok gewesen , der Braten selbst jedoch einfach noch nicht fertig und zäh .	Beilagen	food	positive	food positive	no	0	0
+1174	Die Beilagen wären noch ok gewesen , der Braten selbst jedoch einfach noch nicht fertig und zäh .	Beilagen	food	negative	food negative	no	0	0
+1174	Die Beilagen wären noch ok gewesen , der Braten selbst jedoch einfach noch nicht fertig und zäh .	Beilagen	food	neutral	food neutral	yes	2	3
+1174	Die Beilagen wären noch ok gewesen , der Braten selbst jedoch einfach noch nicht fertig und zäh .	Braten	food	positive	food positive	no	0	0
+1174	Die Beilagen wären noch ok gewesen , der Braten selbst jedoch einfach noch nicht fertig und zäh .	Braten	food	negative	food negative	yes	9	10
+1174	Die Beilagen wären noch ok gewesen , der Braten selbst jedoch einfach noch nicht fertig und zäh .	Braten	food	neutral	food neutral	no	0	0
+1197	Das Essen schmeckte wirklich herrvorragend und das Personal war sehr aufmerksam und freundlich .	Essen	food	positive	food positive	yes	2	3
+1197	Das Essen schmeckte wirklich herrvorragend und das Personal war sehr aufmerksam und freundlich .	Essen	food	negative	food negative	no	0	0
+1197	Das Essen schmeckte wirklich herrvorragend und das Personal war sehr aufmerksam und freundlich .	Essen	food	neutral	food neutral	no	0	0
+1197	Das Essen schmeckte wirklich herrvorragend und das Personal war sehr aufmerksam und freundlich .	Personal	service	positive	service positive	yes	8	9
+1197	Das Essen schmeckte wirklich herrvorragend und das Personal war sehr aufmerksam und freundlich .	Personal	service	negative	service negative	no	0	0
+1197	Das Essen schmeckte wirklich herrvorragend und das Personal war sehr aufmerksam und freundlich .	Personal	service	neutral	service neutral	no	0	0
+1208	Wir hatten einen schönen Abend bei gutem Rotwein , sehr zu empfehlen .	Rotwein	food	positive	food positive	yes	8	9
+1208	Wir hatten einen schönen Abend bei gutem Rotwein , sehr zu empfehlen .	Rotwein	food	negative	food negative	no	0	0
+1208	Wir hatten einen schönen Abend bei gutem Rotwein , sehr zu empfehlen .	Rotwein	food	neutral	food neutral	no	0	0
+1208	Wir hatten einen schönen Abend bei gutem Rotwein , sehr zu empfehlen .	NULL	general-impression	positive	general-impression positive	yes	0	0
+1208	Wir hatten einen schönen Abend bei gutem Rotwein , sehr zu empfehlen .	NULL	general-impression	negative	general-impression negative	no	0	0
+1208	Wir hatten einen schönen Abend bei gutem Rotwein , sehr zu empfehlen .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1212	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	Bedienung	service	positive	service positive	no	0	0
+1212	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	Bedienung	service	negative	service negative	yes	3	4
+1212	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	Bedienung	service	neutral	service neutral	no	0	0
+1220	Enttäuschend ! ! !	NULL	general-impression	positive	general-impression positive	no	0	0
+1220	Enttäuschend ! ! !	NULL	general-impression	negative	general-impression negative	yes	0	0
+1220	Enttäuschend ! ! !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Fisch	food	positive	food positive	yes	8	9
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Fisch	food	negative	food negative	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Fisch	food	neutral	food neutral	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Steak	food	positive	food positive	yes	12	13
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Steak	food	negative	food negative	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Steak	food	neutral	food neutral	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Küchenpersonal	service	positive	service positive	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Küchenpersonal	service	negative	service negative	yes	26	27
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Küchenpersonal	service	neutral	service neutral	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Bratkartoffeln	food	positive	food positive	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Bratkartoffeln	food	negative	food negative	yes	61	62
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Bratkartoffeln	food	neutral	food neutral	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Küchenpersonal	service	positive	service positive	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Küchenpersonal	service	negative	service negative	yes	26	27
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Küchenpersonal	service	neutral	service neutral	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Bedienung	service	positive	service positive	no	0	0
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Bedienung	service	negative	service negative	yes	36	37
+1231	Haben lecker gegessen . . . . Fisch . . . Steak . . . alles geschmacklich gut . . . . leider ist das Küchenpersonal wohl etwas unfähig . . . wurden von der Bedienung informiert , dass Vorspeise gleichzeitig mit Hauptspeise gereicht wird , beim Alex im Hafen war es besser . . . . auch was knusprige Bratkartoffeln sind weiß das Küchenpersonal hier wohl nicht , bzw kennt sich mit der eigenen Karte wohl nicht aus .	Bedienung	service	neutral	service neutral	no	0	0
+1264	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	NULL	service	positive	service positive	no	0	0
+1264	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	NULL	service	negative	service negative	yes	0	0
+1264	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	NULL	service	neutral	service neutral	no	0	0
+1296	Also für uns definitiv ein no - go und nie mehr wieder .	NULL	general-impression	positive	general-impression positive	no	0	0
+1296	Also für uns definitiv ein no - go und nie mehr wieder .	NULL	general-impression	negative	general-impression negative	yes	0	0
+1296	Also für uns definitiv ein no - go und nie mehr wieder .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1305	Unbedingt fernbleiben !	NULL	general-impression	positive	general-impression positive	no	0	0
+1305	Unbedingt fernbleiben !	NULL	general-impression	negative	general-impression negative	yes	0	0
+1305	Unbedingt fernbleiben !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1315	Wenn man sich für Tapas beim LOC entscheidet , möchte man auch entsprechende Tapas bekommen .	Tapas	food	positive	food positive	no	0	0
+1315	Wenn man sich für Tapas beim LOC entscheidet , möchte man auch entsprechende Tapas bekommen .	Tapas	food	negative	food negative	yes	5	6
+1315	Wenn man sich für Tapas beim LOC entscheidet , möchte man auch entsprechende Tapas bekommen .	Tapas	food	neutral	food neutral	no	0	0
+1317	Außerdem auch eine sehr gute Weinkarte !	Weinkarte	food	positive	food positive	yes	6	7
+1317	Außerdem auch eine sehr gute Weinkarte !	Weinkarte	food	negative	food negative	no	0	0
+1317	Außerdem auch eine sehr gute Weinkarte !	Weinkarte	food	neutral	food neutral	no	0	0
+1320	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	NULL	food	positive	food positive	no	0	0
+1320	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	NULL	food	negative	food negative	yes	0	0
+1320	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	NULL	food	neutral	food neutral	no	0	0
+1326	Die Bedienung hat die Wünsche wie z . B . Zitrone im Wasser oder Soße bitte extra servieren ignoriert .	Bedienung	service	positive	service positive	no	0	0
+1326	Die Bedienung hat die Wünsche wie z . B . Zitrone im Wasser oder Soße bitte extra servieren ignoriert .	Bedienung	service	negative	service negative	yes	2	3
+1326	Die Bedienung hat die Wünsche wie z . B . Zitrone im Wasser oder Soße bitte extra servieren ignoriert .	Bedienung	service	neutral	service neutral	no	0	0
+1342	Das Essen war hervorragend , wie in solchen Restaurants üblich sind die einzelnen Portionen so ausgelegt , dass man mindestens 3 Gänge zum Satt werden benötigt .	Essen	food	positive	food positive	yes	2	3
+1342	Das Essen war hervorragend , wie in solchen Restaurants üblich sind die einzelnen Portionen so ausgelegt , dass man mindestens 3 Gänge zum Satt werden benötigt .	Essen	food	negative	food negative	no	0	0
+1342	Das Essen war hervorragend , wie in solchen Restaurants üblich sind die einzelnen Portionen so ausgelegt , dass man mindestens 3 Gänge zum Satt werden benötigt .	Essen	food	neutral	food neutral	no	0	0
+1344	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	Baguettes	food	positive	food positive	no	0	0
+1344	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	Baguettes	food	negative	food negative	yes	2	3
+1344	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	Baguettes	food	neutral	food neutral	no	0	0
+1360	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	NULL	service	positive	service positive	no	0	0
+1360	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	NULL	service	negative	service negative	yes	0	0
+1360	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	NULL	service	neutral	service neutral	no	0	0
+1360	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	Saft	food	positive	food positive	no	0	0
+1360	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	Saft	food	negative	food negative	yes	10	11
+1360	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	Saft	food	neutral	food neutral	no	0	0
+1366	Der perfekte Abschluss und ein Muss für alle die einen Städtetrip in LOC erleben wollen .	NULL	general-impression	positive	general-impression positive	yes	0	0
+1366	Der perfekte Abschluss und ein Muss für alle die einen Städtetrip in LOC erleben wollen .	NULL	general-impression	negative	general-impression negative	no	0	0
+1366	Der perfekte Abschluss und ein Muss für alle die einen Städtetrip in LOC erleben wollen .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1375	Die Haxe war knusprig und das Fleisch zart .	Haxe	food	positive	food positive	yes	2	3
+1375	Die Haxe war knusprig und das Fleisch zart .	Haxe	food	negative	food negative	no	0	0
+1375	Die Haxe war knusprig und das Fleisch zart .	Haxe	food	neutral	food neutral	no	0	0
+1375	Die Haxe war knusprig und das Fleisch zart .	Fleisch	food	positive	food positive	yes	7	8
+1375	Die Haxe war knusprig und das Fleisch zart .	Fleisch	food	negative	food negative	no	0	0
+1375	Die Haxe war knusprig und das Fleisch zart .	Fleisch	food	neutral	food neutral	no	0	0
+1404	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	Kellner	service	positive	service positive	no	0	0
+1404	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	Kellner	service	negative	service negative	yes	11	12
+1404	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	Kellner	service	neutral	service neutral	no	0	0
+1404	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	Massenabfertigung	food	positive	food positive	no	0	0
+1404	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	Massenabfertigung	food	negative	food negative	yes	8	9
+1404	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	Massenabfertigung	food	neutral	food neutral	no	0	0
+1417	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	Biere	food	positive	food positive	no	0	0
+1417	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	Biere	food	negative	food negative	yes	12	13
+1417	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	Biere	food	neutral	food neutral	no	0	0
+1432	Das kross gebratene Zanderfilet waren drei Fischspitzen in der Pfanne platt gedrückt , ungewürzt , um die Stücke kross zu beikommen .	Zanderfilet	food	positive	food positive	no	0	0
+1432	Das kross gebratene Zanderfilet waren drei Fischspitzen in der Pfanne platt gedrückt , ungewürzt , um die Stücke kross zu beikommen .	Zanderfilet	food	negative	food negative	yes	4	5
+1432	Das kross gebratene Zanderfilet waren drei Fischspitzen in der Pfanne platt gedrückt , ungewürzt , um die Stücke kross zu beikommen .	Zanderfilet	food	neutral	food neutral	no	0	0
+1432	Das kross gebratene Zanderfilet waren drei Fischspitzen in der Pfanne platt gedrückt , ungewürzt , um die Stücke kross zu beikommen .	Fischspitzen	food	positive	food positive	no	0	0
+1432	Das kross gebratene Zanderfilet waren drei Fischspitzen in der Pfanne platt gedrückt , ungewürzt , um die Stücke kross zu beikommen .	Fischspitzen	food	negative	food negative	yes	7	8
+1432	Das kross gebratene Zanderfilet waren drei Fischspitzen in der Pfanne platt gedrückt , ungewürzt , um die Stücke kross zu beikommen .	Fischspitzen	food	neutral	food neutral	no	0	0
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Filets	food	positive	food positive	yes	5	6
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Filets	food	negative	food negative	no	0	0
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Filets	food	neutral	food neutral	no	0	0
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Pilzen	food	positive	food positive	yes	9	10
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Pilzen	food	negative	food negative	no	0	0
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Pilzen	food	neutral	food neutral	no	0	0
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Bratkartoffeln	food	positive	food positive	yes	11	12
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Bratkartoffeln	food	negative	food negative	no	0	0
+1439	Die LOC drei verschiedene Filets mit frischen gebratenen Pilzen und Bratkartoffeln ein echtes Pfund und geschmacklich echt herzhaft lecker .	Bratkartoffeln	food	neutral	food neutral	no	0	0
+1444	Beispiel 2 : es gab nicht für alle Gäste einen Bierdeckel .	NULL	service	positive	service positive	no	0	0
+1444	Beispiel 2 : es gab nicht für alle Gäste einen Bierdeckel .	NULL	service	negative	service negative	yes	0	0
+1444	Beispiel 2 : es gab nicht für alle Gäste einen Bierdeckel .	NULL	service	neutral	service neutral	no	0	0
+1461	Espresso war leider kalt .	Espresso	food	positive	food positive	no	0	0
+1461	Espresso war leider kalt .	Espresso	food	negative	food negative	yes	1	2
+1461	Espresso war leider kalt .	Espresso	food	neutral	food neutral	no	0	0
+1476	Das Restaurant RESTAURANTNAME in LOC begeisterte uns bei unserem Besuch mit 4 Erwachsenen und 2 Kindern .	RESTAURANTNAME	general-impression	positive	general-impression positive	yes	3	4
+1476	Das Restaurant RESTAURANTNAME in LOC begeisterte uns bei unserem Besuch mit 4 Erwachsenen und 2 Kindern .	RESTAURANTNAME	general-impression	negative	general-impression negative	no	0	0
+1476	Das Restaurant RESTAURANTNAME in LOC begeisterte uns bei unserem Besuch mit 4 Erwachsenen und 2 Kindern .	RESTAURANTNAME	general-impression	neutral	general-impression neutral	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Preis	price	positive	price positive	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Preis	price	negative	price negative	yes	21	22
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Preis	price	neutral	price neutral	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Schnitzel mit Bratkartoffeln	food	positive	food positive	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Schnitzel mit Bratkartoffeln	food	negative	food negative	yes	1	4
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Schnitzel mit Bratkartoffeln	food	neutral	food neutral	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Salat	food	positive	food positive	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Salat	food	negative	food negative	yes	5	6
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Salat	food	neutral	food neutral	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Champignonsoße	food	positive	food positive	no	0	0
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Champignonsoße	food	negative	food negative	yes	7	8
+1491	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	Champignonsoße	food	neutral	food neutral	no	0	0
+1514	Getränke wurden nur sehr verzögert serviert .	Getränke	service	positive	service positive	no	0	0
+1514	Getränke wurden nur sehr verzögert serviert .	Getränke	service	negative	service negative	yes	1	2
+1514	Getränke wurden nur sehr verzögert serviert .	Getränke	service	neutral	service neutral	no	0	0
+1528	Kinder lieben Trattoriw , Trattoria Team liebt Kinder .	Trattoriw	general-impression	positive	general-impression positive	yes	3	4
+1528	Kinder lieben Trattoriw , Trattoria Team liebt Kinder .	Trattoriw	general-impression	negative	general-impression negative	no	0	0
+1528	Kinder lieben Trattoriw , Trattoria Team liebt Kinder .	Trattoriw	general-impression	neutral	general-impression neutral	no	0	0
+1528	Kinder lieben Trattoriw , Trattoria Team liebt Kinder .	Trattoria Team	service	positive	service positive	yes	5	7
+1528	Kinder lieben Trattoriw , Trattoria Team liebt Kinder .	Trattoria Team	service	negative	service negative	no	0	0
+1528	Kinder lieben Trattoriw , Trattoria Team liebt Kinder .	Trattoria Team	service	neutral	service neutral	no	0	0
+1565	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	Steak	food	positive	food positive	yes	2	3
+1565	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	Steak	food	negative	food negative	no	0	0
+1565	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	Steak	food	neutral	food neutral	no	0	0
+1583	Waren zudem vom innerstädtischen fairen Preis überrascht .	Preis	price	positive	price positive	yes	6	7
+1583	Waren zudem vom innerstädtischen fairen Preis überrascht .	Preis	price	negative	price negative	no	0	0
+1583	Waren zudem vom innerstädtischen fairen Preis überrascht .	Preis	price	neutral	price neutral	no	0	0
+1586	Aber das Essen ist einfach nichts besonderes .	Essen	food	positive	food positive	no	0	0
+1586	Aber das Essen ist einfach nichts besonderes .	Essen	food	negative	food negative	no	0	0
+1586	Aber das Essen ist einfach nichts besonderes .	Essen	food	neutral	food neutral	yes	3	4
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Bedienung	service	positive	service positive	yes	7	8
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Bedienung	service	negative	service negative	no	0	0
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Bedienung	service	neutral	service neutral	no	0	0
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Ambiente	ambience	positive	ambience positive	yes	11	12
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Ambiente	ambience	negative	ambience negative	no	0	0
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Ambiente	ambience	neutral	ambience neutral	no	0	0
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Begrüßung	ambience	positive	ambience positive	yes	3	4
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Begrüßung	ambience	negative	ambience negative	no	0	0
+1589	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	Begrüßung	ambience	neutral	ambience neutral	no	0	0
+1603	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	Restaurant	general-impression	positive	general-impression positive	yes	10	11
+1603	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	Restaurant	general-impression	negative	general-impression negative	no	0	0
+1603	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	Restaurant	general-impression	neutral	general-impression neutral	no	0	0
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Menschen hinter den Theken	service	positive	service positive	no	0	0
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Menschen hinter den Theken	service	negative	service negative	yes	13	17
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Menschen hinter den Theken	service	neutral	service neutral	no	0	0
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Bedienungen	service	positive	service positive	no	0	0
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Bedienungen	service	negative	service negative	yes	21	22
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Bedienungen	service	neutral	service neutral	no	0	0
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Geschäftsführerin	service	positive	service positive	no	0	0
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Geschäftsführerin	service	negative	service negative	yes	23	24
+1613	Über die wartenden Kunden an den Tischen , die eher stoisch anmutenden Menschen hinter den Theken und die nicht freundlichen Bedienungen und Geschäftsführerin lässt sich kein gutes Urteil bilden .	Geschäftsführerin	service	neutral	service neutral	no	0	0
+1644	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	NULL	general-impression	positive	general-impression positive	no	0	0
+1644	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	NULL	general-impression	negative	general-impression negative	yes	0	0
+1644	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1655	Eine Tourinepp - Veranstaltung halt .	NULL	general-impression	positive	general-impression positive	no	0	0
+1655	Eine Tourinepp - Veranstaltung halt .	NULL	general-impression	negative	general-impression negative	yes	0	0
+1655	Eine Tourinepp - Veranstaltung halt .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1657	Muss man wiederholen .	NULL	general-impression	positive	general-impression positive	yes	0	0
+1657	Muss man wiederholen .	NULL	general-impression	negative	general-impression negative	no	0	0
+1657	Muss man wiederholen .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1690	Vorspeise gut .	Vorspeise	food	positive	food positive	yes	1	2
+1690	Vorspeise gut .	Vorspeise	food	negative	food negative	no	0	0
+1690	Vorspeise gut .	Vorspeise	food	neutral	food neutral	no	0	0
+1698	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	Tisch	ambience	positive	ambience positive	no	0	0
+1698	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	Tisch	ambience	negative	ambience negative	yes	13	14
+1698	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	Tisch	ambience	neutral	ambience neutral	no	0	0
+1699	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	Personal	service	positive	service positive	yes	9	10
+1699	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	Personal	service	negative	service negative	no	0	0
+1699	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	Personal	service	neutral	service neutral	no	0	0
+1704	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	NULL	service	positive	service positive	no	0	0
+1704	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	NULL	service	negative	service negative	yes	0	0
+1704	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	NULL	service	neutral	service neutral	no	0	0
+1728	Ich kann nur sagen : FINGER WEG ! ! !	NULL	general-impression	positive	general-impression positive	no	0	0
+1728	Ich kann nur sagen : FINGER WEG ! ! !	NULL	general-impression	negative	general-impression negative	yes	0	0
+1728	Ich kann nur sagen : FINGER WEG ! ! !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1741	Kaffee und Teewasser waren kalt .	Kaffee	food	positive	food positive	no	0	0
+1741	Kaffee und Teewasser waren kalt .	Kaffee	food	negative	food negative	yes	1	2
+1741	Kaffee und Teewasser waren kalt .	Kaffee	food	neutral	food neutral	no	0	0
+1741	Kaffee und Teewasser waren kalt .	Teewasser	food	positive	food positive	no	0	0
+1741	Kaffee und Teewasser waren kalt .	Teewasser	food	negative	food negative	yes	3	4
+1741	Kaffee und Teewasser waren kalt .	Teewasser	food	neutral	food neutral	no	0	0
+1767	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	Kellner	service	positive	service positive	yes	18	19
+1767	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	Kellner	service	negative	service negative	no	0	0
+1767	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	Kellner	service	neutral	service neutral	no	0	0
+1767	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	Wagner	general-impression	positive	general-impression positive	yes	1	2
+1767	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	Wagner	general-impression	negative	general-impression negative	no	0	0
+1767	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	Wagner	general-impression	neutral	general-impression neutral	no	0	0
+1768	Frühstück war super lecker .	Frühstück	food	positive	food positive	yes	1	2
+1768	Frühstück war super lecker .	Frühstück	food	negative	food negative	no	0	0
+1768	Frühstück war super lecker .	Frühstück	food	neutral	food neutral	no	0	0
+1790	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	NULL	food	positive	food positive	no	0	0
+1790	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	NULL	food	negative	food negative	yes	0	0
+1790	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	NULL	food	neutral	food neutral	no	0	0
+1792	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	Service	service	positive	service positive	no	0	0
+1792	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	Service	service	negative	service negative	yes	2	3
+1792	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	Service	service	neutral	service neutral	no	0	0
+1796	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	NULL	general-impression	positive	general-impression positive	yes	0	0
+1796	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	NULL	general-impression	negative	general-impression negative	no	0	0
+1796	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1826	Das Lokal war trotz Wochenende wirklich schlecht besucht , so hoch wie ich die Preise in Erinnerung hatte , waren sie aber gar nicht .	Preise	price	positive	price positive	no	0	0
+1826	Das Lokal war trotz Wochenende wirklich schlecht besucht , so hoch wie ich die Preise in Erinnerung hatte , waren sie aber gar nicht .	Preise	price	negative	price negative	no	0	0
+1826	Das Lokal war trotz Wochenende wirklich schlecht besucht , so hoch wie ich die Preise in Erinnerung hatte , waren sie aber gar nicht .	Preise	price	neutral	price neutral	yes	15	16
+1849	Sehr aufmerksame und nette Bedienung .	Bedienung	service	positive	service positive	yes	5	6
+1849	Sehr aufmerksame und nette Bedienung .	Bedienung	service	negative	service negative	no	0	0
+1849	Sehr aufmerksame und nette Bedienung .	Bedienung	service	neutral	service neutral	no	0	0
+1865	Trotz Reservierung unfreundlich abgewiesen .	NULL	service	positive	service positive	no	0	0
+1865	Trotz Reservierung unfreundlich abgewiesen .	NULL	service	negative	service negative	yes	0	0
+1865	Trotz Reservierung unfreundlich abgewiesen .	NULL	service	neutral	service neutral	no	0	0
+1887	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	Schnitzel	food	positive	food positive	no	0	0
+1887	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	Schnitzel	food	negative	food negative	yes	2	3
+1887	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	Schnitzel	food	neutral	food neutral	no	0	0
+1887	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	Schnitzelstücke	food	positive	food positive	no	0	0
+1887	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	Schnitzelstücke	food	negative	food negative	yes	5	6
+1887	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	Schnitzelstücke	food	neutral	food neutral	no	0	0
+1905	Für diesen Preis trotzdem eine Zumutung .	Preis	price	positive	price positive	no	0	0
+1905	Für diesen Preis trotzdem eine Zumutung .	Preis	price	negative	price negative	yes	3	4
+1905	Für diesen Preis trotzdem eine Zumutung .	Preis	price	neutral	price neutral	no	0	0
+1905	Für diesen Preis trotzdem eine Zumutung .	NULL	general-impression	positive	general-impression positive	no	0	0
+1905	Für diesen Preis trotzdem eine Zumutung .	NULL	general-impression	negative	general-impression negative	yes	0	0
+1905	Für diesen Preis trotzdem eine Zumutung .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1914	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	Atmosphäre	ambience	positive	ambience positive	yes	18	19
+1914	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	Atmosphäre	ambience	negative	ambience negative	no	0	0
+1914	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	Atmosphäre	ambience	neutral	ambience neutral	no	0	0
+1917	Die große Platte beinhaltete zwar 12 Beilagen , aber dieser Preis war nicht fair .	Preis	price	positive	price positive	no	0	0
+1917	Die große Platte beinhaltete zwar 12 Beilagen , aber dieser Preis war nicht fair .	Preis	price	negative	price negative	yes	11	12
+1917	Die große Platte beinhaltete zwar 12 Beilagen , aber dieser Preis war nicht fair .	Preis	price	neutral	price neutral	no	0	0
+1936	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	Eigentümer	service	positive	service positive	no	0	0
+1936	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	Eigentümer	service	negative	service negative	yes	10	11
+1936	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	Eigentümer	service	neutral	service neutral	no	0	0
+1939	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	NULL	general-impression	positive	general-impression positive	no	0	0
+1939	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	NULL	general-impression	negative	general-impression negative	yes	0	0
+1939	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1960	Reklamation mit Schulterzucken quittiert	Reklamation	service	positive	service positive	no	0	0
+1960	Reklamation mit Schulterzucken quittiert	Reklamation	service	negative	service negative	yes	1	2
+1960	Reklamation mit Schulterzucken quittiert	Reklamation	service	neutral	service neutral	no	0	0
+1961	Immer wieder gerne , sehr nettes und kompetentes Personal .	Personal	service	positive	service positive	yes	9	10
+1961	Immer wieder gerne , sehr nettes und kompetentes Personal .	Personal	service	negative	service negative	no	0	0
+1961	Immer wieder gerne , sehr nettes und kompetentes Personal .	Personal	service	neutral	service neutral	no	0	0
+1961	Immer wieder gerne , sehr nettes und kompetentes Personal .	NULL	general-impression	positive	general-impression positive	yes	0	0
+1961	Immer wieder gerne , sehr nettes und kompetentes Personal .	NULL	general-impression	negative	general-impression negative	no	0	0
+1961	Immer wieder gerne , sehr nettes und kompetentes Personal .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1963	Immer wieder gerne ! ! !	NULL	general-impression	positive	general-impression positive	yes	0	0
+1963	Immer wieder gerne ! ! !	NULL	general-impression	negative	general-impression negative	no	0	0
+1963	Immer wieder gerne ! ! !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+1971	Qualität der Speisen und Optik in Ordnung .	Speisen	food	positive	food positive	no	0	0
+1971	Qualität der Speisen und Optik in Ordnung .	Speisen	food	negative	food negative	no	0	0
+1971	Qualität der Speisen und Optik in Ordnung .	Speisen	food	neutral	food neutral	yes	3	4
+1975	Der Blick von der Dachterasse ist der Wahnsinn .	Blick von der Dachterasse	ambience	positive	ambience positive	yes	2	6
+1975	Der Blick von der Dachterasse ist der Wahnsinn .	Blick von der Dachterasse	ambience	negative	ambience negative	no	0	0
+1975	Der Blick von der Dachterasse ist der Wahnsinn .	Blick von der Dachterasse	ambience	neutral	ambience neutral	no	0	0
+1979	Pizza nur noch spärlich belegt .	Pizza	food	positive	food positive	no	0	0
+1979	Pizza nur noch spärlich belegt .	Pizza	food	negative	food negative	yes	1	2
+1979	Pizza nur noch spärlich belegt .	Pizza	food	neutral	food neutral	no	0	0
+1996	Hier stimmt alles !	NULL	general-impression	positive	general-impression positive	yes	0	0
+1996	Hier stimmt alles !	NULL	general-impression	negative	general-impression negative	no	0	0
+1996	Hier stimmt alles !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+2001	Tolle Auswahl an Speisen und Getränken .	Speisen	food	positive	food positive	yes	4	5
+2001	Tolle Auswahl an Speisen und Getränken .	Speisen	food	negative	food negative	no	0	0
+2001	Tolle Auswahl an Speisen und Getränken .	Speisen	food	neutral	food neutral	no	0	0
+2001	Tolle Auswahl an Speisen und Getränken .	Getränken	food	positive	food positive	yes	6	7
+2001	Tolle Auswahl an Speisen und Getränken .	Getränken	food	negative	food negative	no	0	0
+2001	Tolle Auswahl an Speisen und Getränken .	Getränken	food	neutral	food neutral	no	0	0
+2006	Bis endlich die Rechnung kam , dauerte es wieder ca . 30min .	Rechnung	service	positive	service positive	no	0	0
+2006	Bis endlich die Rechnung kam , dauerte es wieder ca . 30min .	Rechnung	service	negative	service negative	yes	4	5
+2006	Bis endlich die Rechnung kam , dauerte es wieder ca . 30min .	Rechnung	service	neutral	service neutral	no	0	0
+2031	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	NULL	general-impression	positive	general-impression positive	yes	0	0
+2031	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	NULL	general-impression	negative	general-impression negative	no	0	0
+2031	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	NULL	general-impression	neutral	general-impression neutral	no	0	0
+2073	Sehr leckere Getränke meine Empfehlung ist der Limoncello Spritz sehr erfrischend .	Getränke	food	positive	food positive	yes	3	4
+2073	Sehr leckere Getränke meine Empfehlung ist der Limoncello Spritz sehr erfrischend .	Getränke	food	negative	food negative	no	0	0
+2073	Sehr leckere Getränke meine Empfehlung ist der Limoncello Spritz sehr erfrischend .	Getränke	food	neutral	food neutral	no	0	0
+2073	Sehr leckere Getränke meine Empfehlung ist der Limoncello Spritz sehr erfrischend .	Limoncello Spritz	food	positive	food positive	yes	8	10
+2073	Sehr leckere Getränke meine Empfehlung ist der Limoncello Spritz sehr erfrischend .	Limoncello Spritz	food	negative	food negative	no	0	0
+2073	Sehr leckere Getränke meine Empfehlung ist der Limoncello Spritz sehr erfrischend .	Limoncello Spritz	food	neutral	food neutral	no	0	0
+2078	Die Bedienung Frau Marta war sehr freundlich und speditiv .	Marta	service	positive	service positive	yes	4	5
+2078	Die Bedienung Frau Marta war sehr freundlich und speditiv .	Marta	service	negative	service negative	no	0	0
+2078	Die Bedienung Frau Marta war sehr freundlich und speditiv .	Marta	service	neutral	service neutral	no	0	0
+2080	Bahnhofs - Atmosphäre . . 19 : 35 kam die Vorspeise , wir mussten nach Besteck fragen 19 : 45 kam die Hauptspeise , obwohl wir noch mit der Vorspeise beschäftigt waren .	Bahnhofs - Atmosphäre	ambience	positive	ambience positive	no	0	0
+2080	Bahnhofs - Atmosphäre . . 19 : 35 kam die Vorspeise , wir mussten nach Besteck fragen 19 : 45 kam die Hauptspeise , obwohl wir noch mit der Vorspeise beschäftigt waren .	Bahnhofs - Atmosphäre	ambience	negative	ambience negative	yes	1	4
+2080	Bahnhofs - Atmosphäre . . 19 : 35 kam die Vorspeise , wir mussten nach Besteck fragen 19 : 45 kam die Hauptspeise , obwohl wir noch mit der Vorspeise beschäftigt waren .	Bahnhofs - Atmosphäre	ambience	neutral	ambience neutral	no	0	0
+2080	Bahnhofs - Atmosphäre . . 19 : 35 kam die Vorspeise , wir mussten nach Besteck fragen 19 : 45 kam die Hauptspeise , obwohl wir noch mit der Vorspeise beschäftigt waren .	NULL	service	positive	service positive	no	0	0
+2080	Bahnhofs - Atmosphäre . . 19 : 35 kam die Vorspeise , wir mussten nach Besteck fragen 19 : 45 kam die Hauptspeise , obwohl wir noch mit der Vorspeise beschäftigt waren .	NULL	service	negative	service negative	yes	0	0
+2080	Bahnhofs - Atmosphäre . . 19 : 35 kam die Vorspeise , wir mussten nach Besteck fragen 19 : 45 kam die Hauptspeise , obwohl wir noch mit der Vorspeise beschäftigt waren .	NULL	service	neutral	service neutral	no	0	0
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Atmosphäre	ambience	positive	ambience positive	yes	1	2
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Atmosphäre	ambience	negative	ambience negative	no	0	0
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Atmosphäre	ambience	neutral	ambience neutral	no	0	0
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Inhaber	service	positive	service positive	no	0	0
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Inhaber	service	negative	service negative	yes	22	23
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Inhaber	service	neutral	service neutral	no	0	0
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Personal	service	positive	service positive	no	0	0
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Personal	service	negative	service negative	yes	7	8
+2085	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	Personal	service	neutral	service neutral	no	0	0
+2100	Gastfreundschaft geht anders .	Gastfreundschaft	service	positive	service positive	no	0	0
+2100	Gastfreundschaft geht anders .	Gastfreundschaft	service	negative	service negative	yes	1	2
+2100	Gastfreundschaft geht anders .	Gastfreundschaft	service	neutral	service neutral	no	0	0
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Ambiente	ambience	positive	ambience positive	yes	2	3
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Ambiente	ambience	negative	ambience negative	no	0	0
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Ambiente	ambience	neutral	ambience neutral	no	0	0
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Grüße aus der Küche	food	positive	food positive	yes	6	10
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Grüße aus der Küche	food	negative	food negative	no	0	0
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Grüße aus der Küche	food	neutral	food neutral	no	0	0
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Pr - und Postdesert	food	positive	food positive	yes	11	15
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Pr - und Postdesert	food	negative	food negative	no	0	0
+2121	Entspanntes Ambiente , auch die Grüße aus der Küche sowie Pr - und Postdesert waren unglaublich lecker und besonders !	Pr - und Postdesert	food	neutral	food neutral	no	0	0
+2124	Das bestellte Steak zu zweit war nicht viel größer wie eine plattgedrückte Frikadelle .	Steak	food	positive	food positive	no	0	0
+2124	Das bestellte Steak zu zweit war nicht viel größer wie eine plattgedrückte Frikadelle .	Steak	food	negative	food negative	yes	3	4
+2124	Das bestellte Steak zu zweit war nicht viel größer wie eine plattgedrückte Frikadelle .	Steak	food	neutral	food neutral	no	0	0
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Essen	food	positive	food positive	no	0	0
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Essen	food	negative	food negative	yes	2	3
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Essen	food	neutral	food neutral	no	0	0
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Gambas	food	positive	food positive	no	0	0
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Gambas	food	negative	food negative	yes	10	11
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Gambas	food	neutral	food neutral	no	0	0
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Lauch	food	positive	food positive	no	0	0
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Lauch	food	negative	food negative	yes	14	15
+2126	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	Lauch	food	neutral	food neutral	no	0	0
+2130	Sehr Schade !	NULL	general-impression	positive	general-impression positive	no	0	0
+2130	Sehr Schade !	NULL	general-impression	negative	general-impression negative	yes	0	0
+2130	Sehr Schade !	NULL	general-impression	neutral	general-impression neutral	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Beilagen	food	positive	food positive	yes	7	8
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Beilagen	food	negative	food negative	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Beilagen	food	neutral	food neutral	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Stampf	food	positive	food positive	yes	9	10
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Stampf	food	negative	food negative	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Stampf	food	neutral	food neutral	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Schlotze	food	positive	food positive	yes	11	12
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Schlotze	food	negative	food negative	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Schlotze	food	neutral	food neutral	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Spinat	food	positive	food positive	yes	13	14
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Spinat	food	negative	food negative	no	0	0
+2136	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	Spinat	food	neutral	food neutral	no	0	0
+2147	Für uns hat es sich erledigt !	NULL	general-impression	positive	general-impression positive	no	0	0
+2147	Für uns hat es sich erledigt !	NULL	general-impression	negative	general-impression negative	yes	0	0
+2147	Für uns hat es sich erledigt !	NULL	general-impression	neutral	general-impression neutral	no	0	0

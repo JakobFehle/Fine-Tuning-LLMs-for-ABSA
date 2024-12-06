@@ -1,0 +1,2 @@
+b'K\xc3\x9cCHE:NEGATIVE'
+b'PRICE:14.90\xe2\x82\xac, fand ich total \xc3\xbcberzogen, NEGATIVE'

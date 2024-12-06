@@ -1,0 +1,1 @@
+b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#COOKING#GENERAL', 'NEGATIVE', 'pizza']]"

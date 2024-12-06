@@ -1,0 +1,2 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'baba ganoush'], ['ENTERTAINMENT#GENERAL', 'POSITIVE', 'belly dancers']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'fish tacos'], ['FOOD#GENERAL', 'NEUTRAL', 'everything else']]"

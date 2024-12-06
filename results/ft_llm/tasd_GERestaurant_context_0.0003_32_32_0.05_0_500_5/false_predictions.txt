@@ -1,0 +1,1 @@
+b"[['BIER', 'POSITIVE', 'Bier'], ['SERVICE', 'POSITIVE', 'K\xc3\xb6bes']]"

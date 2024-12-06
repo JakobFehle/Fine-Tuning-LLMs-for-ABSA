@@ -1,0 +1,3 @@
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment'], ['ENTERTAINMENT#GENERAL', 'POSITIVE', 'shows']]"
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment'], ['ENTERTAINMENT#GENERAL', 'POSITIVE', 'shows']]"
+b"[['SERVICE#GENERAL', 'NEGATIVE', 'staff'], ['FOOD#DELIVERY', 'NEGATIVE', 'food']]"

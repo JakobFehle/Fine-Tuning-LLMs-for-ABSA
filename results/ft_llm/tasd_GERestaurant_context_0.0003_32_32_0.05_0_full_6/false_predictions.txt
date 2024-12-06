@@ -1,0 +1,1 @@
+b"[['SERVICE', 'POSITIVE', 'Service'], ['IMAGES', 'POSITIVE', 'Fotos'], ['GENERAL-IMPRESSION', 'POSITIVE', 'NULL']]"

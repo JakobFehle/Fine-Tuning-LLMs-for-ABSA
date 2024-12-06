@@ -1,0 +1,2 @@
+b"[['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'boths']]"
+b"[['FOOD#QUALITY', 'NEGATIVE', 'dinner'], ['FOOD#GENERAL', 'NEGATIVE', 'dinner']]"

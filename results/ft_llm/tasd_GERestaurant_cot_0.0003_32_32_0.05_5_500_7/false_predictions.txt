@@ -1,0 +1,4 @@
+b"[['PEOPLE', 'POSITIVE', 'Menschen'], ['FOOD', 'POSITIVE', 'Essen']]"
+b"[['LOCATION', 'POSITIVE', 'Location'], ['FOOD', 'POSITIVE', 'Essen'], ['SERVICE', 'POSITIVE', 'Kellnerin'], ['FOOD', 'POSITIVE', 'Bier']]"
+b"[['MUSIC', 'POSITIVE', 'Livemusik']]"
+b"[['NAME', 'POSITIVE', 'Name'], ['SERVICE', 'NEGATIVE', 'Service'], ['FOOD', 'NEGATIVE', 'Essen']]"

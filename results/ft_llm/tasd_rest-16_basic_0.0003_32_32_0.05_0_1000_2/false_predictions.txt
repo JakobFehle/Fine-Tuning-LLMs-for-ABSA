@@ -1,0 +1,2 @@
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
+b"[['FOOD#PRICES', 'NEGATIVE', 'NULL'], ['FOOD#GENERAL', 'POSITIVE', 'seafood']]"

@@ -1,0 +1,1 @@
+b"[['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'place'], ['FOOD#STYLE_OPTIONS', 'POSITIVE', 'food'], ['FOOD#PRICES', 'POSITIVE', 'food']]"

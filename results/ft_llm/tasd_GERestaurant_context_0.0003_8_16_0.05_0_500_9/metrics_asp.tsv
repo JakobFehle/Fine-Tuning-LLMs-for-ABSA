@@ -1,0 +1,8 @@
+	precision	recall	f1	accuracy	support
+AMBIENCE	0	0	0	0	0
+FOOD	0	0	0	0	0
+GENERAL-IMPRESSION	0	0	0	0	0
+PRICE	0	0	0	0	0
+SERVICE	0	0	0	0	0
+Micro-AVG	0.9515	0.8376	0.8909	0.8033	122.0
+Macro-AVG	0.0	0.0	0.0		122

@@ -1,0 +1,1 @@
+b"[['FOOD', 'POSITIVE', 'Essen'], ['ENTERTAINMENT', 'POSITIVE', 'DJ'], ['GENERAL-IMPRESSION', 'POSITIVE', 'Kohlparty']]"

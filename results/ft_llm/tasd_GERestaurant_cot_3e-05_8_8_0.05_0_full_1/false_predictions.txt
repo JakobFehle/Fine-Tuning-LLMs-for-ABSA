@@ -1,0 +1,2 @@
+b"[['FOOD', ' ', 'Speck'], ['FOOD', 'NEGATIVE', 'Speck'], ['FOOD', 'NEGATIVE', 'Speck']]"
+b"[['FOOD', 'NULL', 'Preis'], ['PRICE', 'NEGATIVE', '14.90\xe2\x82\xac'], ['FOOD', 'NEGATIVE', '\xc3\xbcberzogen']]"

@@ -1,0 +1,5 @@
+b"[['RESTAURANT#MISCELLANEOUS', 'POSITIVE', 'signs'], ['FOOD#GENERAL', 'POSITIVE', 'specials menus'], ['FOOD#GENERAL', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'waitstaff']]"
+b"[['RESTAURANT#MISCELLANEOUS', 'POSITIVE', 'signs'], ['FOOD#GENERAL', 'POSITIVE', 'specials menus'], ['FOOD#GENERAL', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'waitstaff']]"
+b"[['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'boths']]"
+b"[['RESTAURANT#GENERAL', 'NEGATIVE', 'NULL'], ['FOOD#GENERAL', 'NEGATIVE', 'NULL']]"
+b"[['RESTAURANT#PRICES', 'NEGATIVE', 'lunch buffet'], ['RESTAURANT#QUALITY', 'POSITIVE', 'lunch buffet']]"

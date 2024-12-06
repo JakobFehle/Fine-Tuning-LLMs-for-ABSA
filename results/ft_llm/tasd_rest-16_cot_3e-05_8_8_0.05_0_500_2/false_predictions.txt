@@ -1,0 +1,6 @@
+b"[['SERVICE#GENERAL', 'POSITIVE', 'waitress'], ['FOOD#GENERAL', 'POSITIVE', 'food']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'pepperoni'], ['FOOD#QUALITY', 'POSITIVE', 'pepperoni'], ['FOOD#QUALITY', 'POSITIVE', 'family style salad']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'food'], ['FOOD#GENERAL', 'POSITIVE', 'food']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'food'], ['FOOD#GENERAL', 'POSITIVE', 'food']]"
+b"[['RESTAURANT#GENERAL', 'POSITIVE', 'Everything'], ['FOOD#GENERAL', 'NEGATIVE', 'meals'], ['SERVICE#GENERAL', 'NEGATIVE', 'we']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'food'], ['AMBIENCE#GENERAL', 'POSITIVE', 'environment']]"

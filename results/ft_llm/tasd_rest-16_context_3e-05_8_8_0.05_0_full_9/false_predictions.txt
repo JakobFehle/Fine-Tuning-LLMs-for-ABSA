@@ -1,0 +1,2 @@
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'pad penang'], ['FOOD#GENERAL', 'POSITIVE', 'pad penang'], ['RESTAURANT#GENERAL', 'POSITIVE', 'NULL']]"

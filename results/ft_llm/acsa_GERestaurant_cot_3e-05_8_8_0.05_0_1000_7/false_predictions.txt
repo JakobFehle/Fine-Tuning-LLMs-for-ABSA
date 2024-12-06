@@ -1,0 +1,8 @@
+b'LOCATION:POSITIVE'
+b'aspect1:sentiment1'
+b'aspect2:sentiment2'
+b'aspect:sentiment'
+b'aspect:sentiment'
+b'TABLE:POSITIVE'
+b'aspect_1:sentiment_1'
+b'aspect_2:sentiment_2'

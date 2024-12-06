@@ -1,0 +1,1 @@
+b"[['FOOD', 'POSITIVE', 'essen'], ['AMBIENCE', 'POSITIVE', 'Atmosph\xc3\xa4re'], ['SERVICE', 'POSITIVE', 'Bedienung'], ['FACILITIES', 'POSITIVE', 'Erreichbarkeit']]"

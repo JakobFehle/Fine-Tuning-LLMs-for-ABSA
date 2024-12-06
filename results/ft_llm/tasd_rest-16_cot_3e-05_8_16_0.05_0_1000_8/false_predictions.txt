@@ -1,0 +1,2 @@
+b"[['HYGIENE', 'NEGATIVE', 'floor']]"
+b"[['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"

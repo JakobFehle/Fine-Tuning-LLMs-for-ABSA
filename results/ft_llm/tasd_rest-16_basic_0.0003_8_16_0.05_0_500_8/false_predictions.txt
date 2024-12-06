@@ -1,0 +1,3 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'Shanghai style'], ['FOOD#GENERAL', 'POSITIVE', 'Shanghai place']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['FOOD#GENERAL', 'POSITIVE', 'place'], ['FOOD#PRICES', 'POSITIVE', 'place']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['FOOD#SERVICE', 'POSITIVE', 'NULL']]"

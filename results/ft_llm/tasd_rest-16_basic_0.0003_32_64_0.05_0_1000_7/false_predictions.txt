@@ -1,0 +1,2 @@
+b"[['SERVICE#GENERAL', 'NEGATIVE', 'Service'], ['SERVICE#PRICES', 'NEGATIVE', 'Service']]"
+b"[['FOOD#PRICES', 'NEGATIVE', 'lunch buffet'], ['FOOD#GENERAL', 'POSITIVE', 'lunch buffet']]"

@@ -1,0 +1,5 @@
+b"[['MENU-ABFOLGE', 'NEGATIVE', 'Men\xc3\xbcabfolge'], ['SUPPEN', 'NEGATIVE', 'Suppen']]"
+b"[['MENU-ABFOLGE', 'NEGATIVE', 'Men\xc3\xbcabfolge'], ['SUPPEN', 'NEGATIVE', 'Suppen']]"
+b"[['LOC', 'NEGATIVE', 'LOC'], ['LOC', 'NEGATIVE', 'LOC']]"
+b"[['LOC', 'NEGATIVE', 'LOC'], ['LOC', 'NEGATIVE', 'LOC']]"
+b"[['PERFORMANCE', 'NEGATIVE', 'NULL']]"

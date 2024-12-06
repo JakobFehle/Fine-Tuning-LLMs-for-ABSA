@@ -1,0 +1,7 @@
+b"[['FOOD#STYLE_OPTIONS', 'NEGATIVE', 'ingredients'], ['FOOD#CRUST', 'NEGATIVE', 'crust']]"
+b"[['AMBIENCE#GENERAL', 'POSITIVE', 'signs'], ['AMBIENCE#GENERAL', 'POSITIVE', 'specials menus'], ['FOOD', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'waitstaff']]"
+b"[['PIZZA#PRICES', 'NEGATIVE', 'NULL'], ['TOPPINGS#PRICES', 'NEGATIVE', 'NULL']]"
+b"[['PIZZA#PRICES', 'NEGATIVE', 'NULL'], ['TOPPINGS#PRICES', 'NEGATIVE', 'NULL']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'pad penang'], ['FOOD#GENERAL', 'POSITIVE', 'NULL']]"
+b"[['FOOD#GENERAL', 'NEGATIVE', 'NULL']]"
+b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#COOKING#GENERAL', 'NEGATIVE', 'pizza']]"

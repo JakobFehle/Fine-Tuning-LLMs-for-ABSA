@@ -1,0 +1,1 @@
+b"[['PIZZA#PRICES', 'NEGATIVE', 'NULL']]"

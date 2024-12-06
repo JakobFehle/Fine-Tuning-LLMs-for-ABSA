@@ -1,0 +1,83 @@
+Saul is the best restaurant on Smith Street and in Brooklyn.	RESTAURANT#GENERAL#1
+Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.	SERVICE#GENERAL#-1
+I had to ask her three times before she finally came back with the dish Ive requested.	SERVICE#GENERAL#-1
+I/we will never go back to this place again.	RESTAURANT#GENERAL#-1
+Service is top notch.	SERVICE#GENERAL#1
+It is terrific, as is the value.	FOOD#QUALITY#1	FOOD#PRICES#1
+But the pizza is way to expensive.	FOOD#PRICES#-1
+I went there for lunch and it was not as good as I expected from the reviews I read.	FOOD#QUALITY#-1
+But too far east!	LOCATION#GENERAL#-1
+By far the best salad I have had in a fast food restaurant.	FOOD#QUALITY#1
+When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else.	FOOD#QUALITY#1
+Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.	FOOD#QUALITY#1	FOOD#QUALITY#-1
+If we were to move from the upper east side, we would genuinely miss this restaurant.	RESTAURANT#GENERAL#1
+I definitely wouldn't go back.	RESTAURANT#GENERAL#-1
+Great vibe, lots of people.	AMBIENCE#GENERAL#1
+They have it all -- great price, food, and service.	RESTAURANT#GENERAL#1	RESTAURANT#PRICES#1	FOOD#QUALITY#1	SERVICE#GENERAL#1
+Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.	FOOD#QUALITY#1	AMBIENCE#GENERAL#1
+The portions are large and the servers always surprise us with a different starter.	FOOD#STYLE_OPTIONS#1	SERVICE#GENERAL#1
+No plans to return anytime soon.	RESTAURANT#GENERAL#-1
+It is a lot of fun with live entertainment and all kinds of Disney type special effects.	AMBIENCE#GENERAL#1
+My six year old loved it.	RESTAURANT#GENERAL#1
+Great pizza for lunch place.	FOOD#QUALITY#1
+Not impressed with the food.	FOOD#QUALITY#-1
+I must give it Yon out of Yon stars!	RESTAURANT#GENERAL#1
+Moderate prices.	RESTAURANT#PRICES#0
+I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.	FOOD#QUALITY#1	DRINKS#QUALITY#1	FOOD#PRICES#1	DRINKS#PRICES#1
+Save yourself the time and trouble and skip this one!	RESTAURANT#GENERAL#-1
+the only things u could really taste are the very salty soy sauce (even its low sodium), the vinegar-soaked rice, and the scallion on top of the fish. 	FOOD#QUALITY#-1	FOOD#QUALITY#-1
+The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.	SERVICE#GENERAL#-1
+Overall, excellent restaurant!	RESTAURANT#GENERAL#1
+The place was nice and calm.	AMBIENCE#GENERAL#1
+Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.	FOOD#STYLE_OPTIONS#-1
+The service was excellent and the food was delicious.	SERVICE#GENERAL#1	FOOD#QUALITY#1
+The food arrived 20 minutes after I called, cold and soggy.	FOOD#QUALITY#-1	SERVICE#GENERAL#-1
+Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.	SERVICE#GENERAL#-1
+The blond wood decor is very soothing, the premium sake is excellent and the service is great.	AMBIENCE#GENERAL#1	DRINKS#QUALITY#1	SERVICE#GENERAL#1
+delicious simple food in nice outdoor atmosphere.	FOOD#QUALITY#1	FOOD#STYLE_OPTIONS#1	AMBIENCE#GENERAL#1
+Great sushi experience.	FOOD#QUALITY#1
+I would highly recommend.	RESTAURANT#GENERAL#1
+Well, this place is so Ghetto its not even funny.	AMBIENCE#GENERAL#-1
+As a retired hipster, I can say with some degree of certainty that for the last year Lucky Strike has been the best laid-back late night in the city.	RESTAURANT#GENERAL#1
+I cannot imagine you not rushing out to eat there.	RESTAURANT#GENERAL#1
+Prices are very good.	RESTAURANT#PRICES#1
+This place would be so much better served by being run by a group that actually understands customer service.	SERVICE#GENERAL#-1
+They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place, but also become hostile!	SERVICE#GENERAL#-1
+The baked clams octopus we shared as appetizers were the best we've ever had!! 	FOOD#QUALITY#1
+All the people that I bring there go back on their own and bring THEIR friends!	RESTAURANT#MISCELLANEOUS#1
+Priced at upper intermediate range.	RESTAURANT#PRICES#-1
+It was the first place we ate on our first trip to New York, and it will be the last place we stop as we head out of town on our next trip to New York.	RESTAURANT#MISCELLANEOUS#1
+The portions are small but being that the food was so good makes up for that.	FOOD#STYLE_OPTIONS#-1	FOOD#QUALITY#1
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.	FOOD#QUALITY#1	FOOD#QUALITY#1
+Great Indian food and the service is incredible.	FOOD#QUALITY#1	SERVICE#GENERAL#1
+The owner truly caters to all your needs.	SERVICE#GENERAL#1
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.	SERVICE#GENERAL#-1	FOOD#PRICES#-1	FOOD#QUALITY#-1
+Personal pans are the perfect size for those hungry nights.	FOOD#STYLE_OPTIONS#1
+I love it.	RESTAURANT#GENERAL#1
+Can't wait to go back.	RESTAURANT#GENERAL#1
+Excellent food, although the interior could use some help.	FOOD#QUALITY#1	AMBIENCE#GENERAL#-1
+Reliable, Fresh Sushi	FOOD#QUALITY#1
+We had a very nice time.	RESTAURANT#GENERAL#1
+There is something about their atmosphere that makes me come back nearly every week.	AMBIENCE#GENERAL#1
+my favorite place lol	RESTAURANT#GENERAL#1
+The Dancing, White River and Millenium rolls are musts.	FOOD#QUALITY#1
+When I got there the place was packed but they made sure to seat me quickly.	SERVICE#GENERAL#1
+Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.	FOOD#QUALITY#1	AMBIENCE#GENERAL#1
+What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.	FOOD#QUALITY#1	FOOD#QUALITY#1	FOOD#QUALITY#1	FOOD#QUALITY#1
+The high prices you're going to pay is for the view not for the food.	LOCATION#GENERAL#0	FOOD#QUALITY#-1	RESTAURANT#PRICES#-1
+I go out to eat and like my courses, servers are patient and never rush courses or force another drink.	SERVICE#GENERAL#1
+They have great rolls, the triple color and norwegetan rolls, are awesome and filling.	FOOD#QUALITY#1	FOOD#QUALITY#1	FOOD#STYLE_OPTIONS#1
+great food, great wine list, great service in a great neighborhood...	FOOD#QUALITY#1	DRINKS#STYLE_OPTIONS#1	SERVICE#GENERAL#1	LOCATION#GENERAL#1
+I came across Village Underground by accident, now I go there all the time.	RESTAURANT#GENERAL#1
+We did arrive late for our reservation so I can not complain too much about the wait for a table.	SERVICE#GENERAL#0
+Great Indian food	FOOD#QUALITY#1
+The nakgi-bokum was horrible.	FOOD#QUALITY#-1
+We've tried before but it always packed and doesn't take reservations.	RESTAURANT#MISCELLANEOUS#0
+A quintessential slice of NYC pizza.	FOOD#QUALITY#0
+This was, from start to finish, a mind-bogglingly uncomfortable experience.	RESTAURANT#GENERAL#-1
+I had the Lamb special which was perfect.	FOOD#QUALITY#1
+I highly recommend the fish tacos, everything else was ok.	FOOD#QUALITY#1	FOOD#QUALITY#0
+When the main course finally arrived (another 45mins) half of our order was missing.	SERVICE#GENERAL#-1
+The three of us standing in front of her should have been an indication of how many of us there were.	SERVICE#GENERAL#-1
+We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.	RESTAURANT#MISCELLANEOUS#-1
+I generally like this place.	RESTAURANT#GENERAL#1

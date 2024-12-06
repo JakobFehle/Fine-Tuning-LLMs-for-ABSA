@@ -1,0 +1,1231 @@
+sentence_id	yes_no	aspect_sentiment	sentence	ner_tags
+13	0	food positive	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	food negative	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	food neutral	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	price positive	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	price negative	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	price neutral	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	service positive	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	service negative	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	service neutral	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	general-impression positive	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	1	general-impression negative	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O B O O O O
+13	0	general-impression neutral	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	ambience positive	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	ambience negative	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+13	0	ambience neutral	Im Vergleich zum Personal im Schlüssel und LOC bleibt das Uerige aber doch zurück .	O O O O O O O O O O O O O O O
+126	0	food positive	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	food negative	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	food neutral	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	price positive	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	1	price negative	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O B O O O O O O O B O O O O
+126	0	price neutral	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	service positive	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	service negative	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	service neutral	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	general-impression positive	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	general-impression negative	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	general-impression neutral	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	ambience positive	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	ambience negative	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+126	0	ambience neutral	Das Preisniveau der Hauptspeisen bewegt sich zumeist bei über 30 Euro , Und ein Pils muss ebensowenig 8 Euro kosten wie ein Grappa 10 , 00 !	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+129	0	food positive	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	food negative	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	food neutral	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	price positive	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	price negative	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	price neutral	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	service positive	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	service negative	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	service neutral	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	1	general-impression positive	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O B O O O O O
+129	0	general-impression negative	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	general-impression neutral	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	ambience positive	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	ambience negative	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+129	0	ambience neutral	Insgesamt ein alteingesessenes Lokal das man empfehlen kann .	O O O O O O O O O
+144	1	food positive	Muscheln als Vorspeise fantastisch .	B O O O O
+144	0	food negative	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	food neutral	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	price positive	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	price negative	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	price neutral	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	service positive	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	service negative	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	service neutral	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	general-impression positive	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	general-impression negative	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	general-impression neutral	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	ambience positive	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	ambience negative	Muscheln als Vorspeise fantastisch .	O O O O O
+144	0	ambience neutral	Muscheln als Vorspeise fantastisch .	O O O O O
+186	1	food positive	Das Essen ist mega .	O B O O O
+186	0	food negative	Das Essen ist mega .	O O O O O
+186	0	food neutral	Das Essen ist mega .	O O O O O
+186	0	price positive	Das Essen ist mega .	O O O O O
+186	0	price negative	Das Essen ist mega .	O O O O O
+186	0	price neutral	Das Essen ist mega .	O O O O O
+186	0	service positive	Das Essen ist mega .	O O O O O
+186	0	service negative	Das Essen ist mega .	O O O O O
+186	0	service neutral	Das Essen ist mega .	O O O O O
+186	0	general-impression positive	Das Essen ist mega .	O O O O O
+186	0	general-impression negative	Das Essen ist mega .	O O O O O
+186	0	general-impression neutral	Das Essen ist mega .	O O O O O
+186	0	ambience positive	Das Essen ist mega .	O O O O O
+186	0	ambience negative	Das Essen ist mega .	O O O O O
+186	0	ambience neutral	Das Essen ist mega .	O O O O O
+236	1	food positive	Feines Essen , nette Bedienung .	O B O O O O
+236	0	food negative	Feines Essen , nette Bedienung .	O O O O O O
+236	0	food neutral	Feines Essen , nette Bedienung .	O O O O O O
+236	0	price positive	Feines Essen , nette Bedienung .	O O O O O O
+236	0	price negative	Feines Essen , nette Bedienung .	O O O O O O
+236	0	price neutral	Feines Essen , nette Bedienung .	O O O O O O
+236	1	service positive	Feines Essen , nette Bedienung .	O O O O B O
+236	0	service negative	Feines Essen , nette Bedienung .	O O O O O O
+236	0	service neutral	Feines Essen , nette Bedienung .	O O O O O O
+236	0	general-impression positive	Feines Essen , nette Bedienung .	O O O O O O
+236	0	general-impression negative	Feines Essen , nette Bedienung .	O O O O O O
+236	0	general-impression neutral	Feines Essen , nette Bedienung .	O O O O O O
+236	0	ambience positive	Feines Essen , nette Bedienung .	O O O O O O
+236	0	ambience negative	Feines Essen , nette Bedienung .	O O O O O O
+236	0	ambience neutral	Feines Essen , nette Bedienung .	O O O O O O
+278	0	food positive	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	food negative	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	food neutral	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	price positive	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	price negative	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	price neutral	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	service positive	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	service negative	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	service neutral	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	general-impression positive	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	general-impression negative	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	general-impression neutral	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	1	ambience positive	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O B O O
+278	0	ambience negative	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+278	0	ambience neutral	Wir wurden am Eingang richtig freundlich in Empfang genommen .	O O O O O O O O O O
+367	1	food positive	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O B O O O O O O O O O O
+367	0	food negative	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	food neutral	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	price positive	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	price negative	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	price neutral	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	1	service positive	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O B O O O O O O O O B O O O O O
+367	0	service negative	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	service neutral	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	1	general-impression positive	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	general-impression negative	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	general-impression neutral	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	ambience positive	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	ambience negative	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+367	0	ambience neutral	Ein hervorragender Service , sehr lecheres Essen und eine sehr nette Bedienung , immer wieder gerne .	O O O O O O O O O O O O O O O O O
+394	0	food positive	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	food negative	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	food neutral	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	price positive	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	price negative	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	price neutral	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	service positive	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	service negative	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	service neutral	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	general-impression positive	- Es war schon mal deutlich besser .	O O O O O O O O
+394	1	general-impression negative	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	general-impression neutral	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	ambience positive	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	ambience negative	- Es war schon mal deutlich besser .	O O O O O O O O
+394	0	ambience neutral	- Es war schon mal deutlich besser .	O O O O O O O O
+429	0	food positive	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	food negative	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	food neutral	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	price positive	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	price negative	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	price neutral	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	service positive	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	service negative	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	service neutral	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	1	general-impression positive	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O B O O O O O O O O O O O O
+429	0	general-impression negative	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	general-impression neutral	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	1	ambience positive	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O B O
+429	0	ambience negative	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+429	0	ambience neutral	Das MammaMia ist ein wahrlich schönes Restaurant mit sehr angenehmer und lockerer Atmosphäre .	O O O O O O O O O O O O O O
+436	1	food positive	Brandy rundeten diesen einmaligen Abend ab .	B O O O O O O
+436	0	food negative	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	food neutral	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	price positive	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	price negative	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	price neutral	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	service positive	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	service negative	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	service neutral	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	general-impression positive	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	general-impression negative	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	general-impression neutral	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	ambience positive	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	ambience negative	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+436	0	ambience neutral	Brandy rundeten diesen einmaligen Abend ab .	O O O O O O O
+456	1	food positive	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O B O O O O O O O O O O O O O O
+456	0	food negative	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	food neutral	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	price positive	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	price negative	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	price neutral	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	1	service positive	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O B O O O O O O O O O
+456	0	service negative	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	service neutral	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	general-impression positive	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	general-impression negative	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	general-impression neutral	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	ambience positive	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	ambience negative	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+456	0	ambience neutral	Die Tapas waren grandios , die Mitarbeiterinnen waren sehr aufmerksam . . wir kommen bald wieder	O O O O O O O O O O O O O O O O
+463	0	food positive	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	food negative	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	1	food neutral	Wurst ist ok , aber nicht das non plus ultra .	B O O O O O O O O O O
+463	0	price positive	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	price negative	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	price neutral	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	service positive	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	service negative	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	service neutral	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	general-impression positive	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	general-impression negative	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	general-impression neutral	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	ambience positive	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	ambience negative	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+463	0	ambience neutral	Wurst ist ok , aber nicht das non plus ultra .	O O O O O O O O O O O
+533	0	food positive	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	food negative	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	food neutral	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	price positive	Man fühlt sich völlig abgezockt .	O O O O O O
+533	1	price negative	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	price neutral	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	service positive	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	service negative	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	service neutral	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	general-impression positive	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	general-impression negative	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	general-impression neutral	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	ambience positive	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	ambience negative	Man fühlt sich völlig abgezockt .	O O O O O O
+533	0	ambience neutral	Man fühlt sich völlig abgezockt .	O O O O O O
+567	0	food positive	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	food negative	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	food neutral	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	price positive	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	price negative	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	price neutral	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	service positive	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	service negative	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	service neutral	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	1	general-impression positive	Das Restaurant im Keller war toll und gut besucht .	O B I I O O O O O O
+567	0	general-impression negative	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	general-impression neutral	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	ambience positive	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	ambience negative	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+567	0	ambience neutral	Das Restaurant im Keller war toll und gut besucht .	O O O O O O O O O O
+571	0	food positive	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	food negative	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	food neutral	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	price positive	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	price negative	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	price neutral	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	service positive	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	1	service negative	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	service neutral	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	general-impression positive	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	general-impression negative	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	general-impression neutral	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	ambience positive	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	ambience negative	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+571	0	ambience neutral	Dieser sollte mal an einer Schulung teilnehmen in der Ihm der korrekte Umgang mit Gästen und Kollegen näher gebracht wird .	O O O O O O O O O O O O O O O O O O O O O
+579	1	food positive	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O B O O
+579	0	food negative	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	food neutral	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	price positive	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	price negative	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	price neutral	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	service positive	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	service negative	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	service neutral	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	general-impression positive	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	general-impression negative	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	general-impression neutral	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	ambience positive	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	ambience negative	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+579	0	ambience neutral	Wir konnten uns von der vorzüglichen Qualität der regionalen und selbst gemachten Produkte überzeugen .	O O O O O O O O O O O O O O O
+666	0	food positive	Sehr schade .	O O O
+666	0	food negative	Sehr schade .	O O O
+666	0	food neutral	Sehr schade .	O O O
+666	0	price positive	Sehr schade .	O O O
+666	0	price negative	Sehr schade .	O O O
+666	0	price neutral	Sehr schade .	O O O
+666	0	service positive	Sehr schade .	O O O
+666	0	service negative	Sehr schade .	O O O
+666	0	service neutral	Sehr schade .	O O O
+666	0	general-impression positive	Sehr schade .	O O O
+666	1	general-impression negative	Sehr schade .	O O O
+666	0	general-impression neutral	Sehr schade .	O O O
+666	0	ambience positive	Sehr schade .	O O O
+666	0	ambience negative	Sehr schade .	O O O
+666	0	ambience neutral	Sehr schade .	O O O
+670	0	food positive	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	food negative	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	food neutral	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	price positive	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	price negative	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	price neutral	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	1	service positive	Die Bedienung war freundlich , flott und gut gelaunt .	O B O O O O O O O O
+670	0	service negative	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	service neutral	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	general-impression positive	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	general-impression negative	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	general-impression neutral	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	ambience positive	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	ambience negative	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+670	0	ambience neutral	Die Bedienung war freundlich , flott und gut gelaunt .	O O O O O O O O O O
+686	0	food positive	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	food negative	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	food neutral	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	price positive	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	price negative	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	price neutral	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	1	service positive	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O B O O O O O O
+686	0	service negative	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	service neutral	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	general-impression positive	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	general-impression negative	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	general-impression neutral	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	1	ambience positive	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O B O O O O O O O O O O O O O O O O O O O
+686	0	ambience negative	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+686	0	ambience neutral	Auch das Ambiente ist schön alte Kupferkessel und vor allem hat die sehr freundliche Bedienung Magdalena zu einem gelungenem Abend beigetragen .	O O O O O O O O O O O O O O O O O O O O O O
+721	0	food positive	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	food negative	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	food neutral	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	price positive	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	price negative	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	price neutral	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	service positive	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	service negative	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	service neutral	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	general-impression positive	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	general-impression negative	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	general-impression neutral	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	1	ambience positive	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	ambience negative	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+721	0	ambience neutral	Wers zünftig , laut und gesellig mag , der ist hier richtig .	O O O O O O O O O O O O O
+783	1	food positive	Das Saisonbier schmeckte ebenfalls .	O B O O O
+783	0	food negative	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	food neutral	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	price positive	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	price negative	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	price neutral	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	service positive	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	service negative	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	service neutral	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	general-impression positive	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	general-impression negative	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	general-impression neutral	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	ambience positive	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	ambience negative	Das Saisonbier schmeckte ebenfalls .	O O O O O
+783	0	ambience neutral	Das Saisonbier schmeckte ebenfalls .	O O O O O
+795	0	food positive	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	food negative	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	food neutral	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	price positive	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	price negative	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	price neutral	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	service positive	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	service negative	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	service neutral	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	general-impression positive	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	general-impression negative	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	general-impression neutral	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	ambience positive	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	1	ambience negative	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+795	0	ambience neutral	Es hat gezogen an unserem Platz , es war etwas kalt .	O O O O O O O O O O O O
+840	1	food positive	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	food negative	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	food neutral	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	price positive	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	price negative	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	price neutral	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	service positive	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	service negative	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	service neutral	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	general-impression positive	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	general-impression negative	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	general-impression neutral	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	ambience positive	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	ambience negative	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+840	0	ambience neutral	2mal Fisch , 1mal herzhafte südamerikanische !	O O O O O O O
+857	1	food positive	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O B O O O O O O O O O
+857	0	food negative	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	food neutral	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	price positive	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	price negative	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	price neutral	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	service positive	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	service negative	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	service neutral	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	general-impression positive	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	general-impression negative	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	general-impression neutral	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	ambience positive	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	ambience negative	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+857	0	ambience neutral	Wo gibt es die beste Currywurst LOC , natürlich nur hier mitten im LOC .	O O O O O O O O O O O O O O O
+913	1	food positive	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O B O O O O
+913	0	food negative	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	food neutral	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	price positive	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	price negative	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	price neutral	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	service positive	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	service negative	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	service neutral	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	general-impression positive	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	general-impression negative	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	general-impression neutral	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	ambience positive	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	ambience negative	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+913	0	ambience neutral	Das war eine ausgezeichnete Wahl , denn so hätten wir die Speisen niemals bewusst bestellt .	O O O O O O O O O O O O O O O O
+927	0	food positive	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	food negative	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	food neutral	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	price positive	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	price negative	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	price neutral	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	service positive	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	1	service negative	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	service neutral	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	general-impression positive	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	general-impression negative	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	general-impression neutral	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	ambience positive	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	ambience negative	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+927	0	ambience neutral	Ähnliches beobachteten wir dann wiederholt , wurden immernoch nicht bedient und verließen dann das Caf .	O O O O O O O O O O O O O O O O
+975	0	food positive	Service sehr freundlich und flirty .	O O O O O O
+975	0	food negative	Service sehr freundlich und flirty .	O O O O O O
+975	0	food neutral	Service sehr freundlich und flirty .	O O O O O O
+975	0	price positive	Service sehr freundlich und flirty .	O O O O O O
+975	0	price negative	Service sehr freundlich und flirty .	O O O O O O
+975	0	price neutral	Service sehr freundlich und flirty .	O O O O O O
+975	1	service positive	Service sehr freundlich und flirty .	B O O O O O
+975	0	service negative	Service sehr freundlich und flirty .	O O O O O O
+975	0	service neutral	Service sehr freundlich und flirty .	O O O O O O
+975	0	general-impression positive	Service sehr freundlich und flirty .	O O O O O O
+975	0	general-impression negative	Service sehr freundlich und flirty .	O O O O O O
+975	0	general-impression neutral	Service sehr freundlich und flirty .	O O O O O O
+975	0	ambience positive	Service sehr freundlich und flirty .	O O O O O O
+975	0	ambience negative	Service sehr freundlich und flirty .	O O O O O O
+975	0	ambience neutral	Service sehr freundlich und flirty .	O O O O O O
+984	0	food positive	Sehr guter Service von Lena .	O O O O O O
+984	0	food negative	Sehr guter Service von Lena .	O O O O O O
+984	0	food neutral	Sehr guter Service von Lena .	O O O O O O
+984	0	price positive	Sehr guter Service von Lena .	O O O O O O
+984	0	price negative	Sehr guter Service von Lena .	O O O O O O
+984	0	price neutral	Sehr guter Service von Lena .	O O O O O O
+984	1	service positive	Sehr guter Service von Lena .	O O O O B O
+984	0	service negative	Sehr guter Service von Lena .	O O O O O O
+984	0	service neutral	Sehr guter Service von Lena .	O O O O O O
+984	0	general-impression positive	Sehr guter Service von Lena .	O O O O O O
+984	0	general-impression negative	Sehr guter Service von Lena .	O O O O O O
+984	0	general-impression neutral	Sehr guter Service von Lena .	O O O O O O
+984	0	ambience positive	Sehr guter Service von Lena .	O O O O O O
+984	0	ambience negative	Sehr guter Service von Lena .	O O O O O O
+984	0	ambience neutral	Sehr guter Service von Lena .	O O O O O O
+992	1	food positive	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O B I I O B O B O O O O O O O O O O O O O O O O
+992	0	food negative	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	food neutral	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	price positive	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	price negative	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	price neutral	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	service positive	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	service negative	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	service neutral	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	general-impression positive	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	general-impression negative	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	general-impression neutral	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	ambience positive	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	ambience negative	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+992	0	ambience neutral	Diesmal überzeugte uns das Duett vom Hirsch , Roulade und Frikadelle eine äußerst gelungene Komposition , die wir mehrmals aßen , weil so noch nie gefunden .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	food positive	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	food negative	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	food neutral	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	price positive	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	price negative	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	price neutral	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	service positive	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	1	service negative	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O B O O O O O O O O O O O O
+1021	0	service neutral	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	general-impression positive	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	general-impression negative	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	general-impression neutral	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	ambience positive	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	ambience negative	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1021	0	ambience neutral	Nun - sicher , es ist Urlaubszeit , Touristen , viele Menschen , es ist warm Aber - das Aufgeben einer Bestellung dauert sehr lange , dann auch nur , durch lautstarke Aufforderung .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1023	1	food positive	Die Pizza war perfekt und gut belegt .	O B O O O O O O
+1023	0	food negative	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	food neutral	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	price positive	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	price negative	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	price neutral	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	service positive	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	service negative	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	service neutral	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	general-impression positive	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	general-impression negative	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	general-impression neutral	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	ambience positive	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	ambience negative	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1023	0	ambience neutral	Die Pizza war perfekt und gut belegt .	O O O O O O O O
+1084	0	food positive	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	1	food negative	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	food neutral	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	price positive	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	price negative	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	price neutral	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	service positive	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	service negative	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	service neutral	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	general-impression positive	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	general-impression negative	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	general-impression neutral	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	ambience positive	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	ambience negative	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1084	0	ambience neutral	Teilweise durchgegart , teilweise medium , fast roh und sehr sehr fett .	O O O O O O O O O O O O O
+1099	0	food positive	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	food negative	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	food neutral	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	price positive	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	price negative	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	price neutral	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	1	service positive	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O B O O O O O O O O O O O
+1099	0	service negative	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	service neutral	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	general-impression positive	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	general-impression negative	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	general-impression neutral	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	0	ambience positive	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1099	1	ambience negative	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O B O O O O
+1099	0	ambience neutral	Die Bedienung war nett , auf den verschmutzen Tisch musste ich hinweisen .	O O O O O O O O O O O O O
+1114	0	food positive	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	1	food negative	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O B O O O O O O O O O O O O O O O
+1114	0	food neutral	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	price positive	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	price negative	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	price neutral	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	service positive	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	service negative	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	service neutral	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	general-impression positive	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	general-impression negative	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	general-impression neutral	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	ambience positive	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	ambience negative	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1114	0	ambience neutral	Ich bin LOC und ich weiß , dass ich nicht die gleiche Küche wie in LOC finden kann , aber das ist eine echte Beleidilung für uns .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1118	0	food positive	Der Nachtisch ging gar nicht .	O O O O O O
+1118	1	food negative	Der Nachtisch ging gar nicht .	O B O O O O
+1118	0	food neutral	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	price positive	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	price negative	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	price neutral	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	service positive	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	service negative	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	service neutral	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	general-impression positive	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	general-impression negative	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	general-impression neutral	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	ambience positive	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	ambience negative	Der Nachtisch ging gar nicht .	O O O O O O
+1118	0	ambience neutral	Der Nachtisch ging gar nicht .	O O O O O O
+1122	1	food positive	LOC war auch lecker .	B O O O O
+1122	0	food negative	LOC war auch lecker .	O O O O O
+1122	0	food neutral	LOC war auch lecker .	O O O O O
+1122	0	price positive	LOC war auch lecker .	O O O O O
+1122	0	price negative	LOC war auch lecker .	O O O O O
+1122	0	price neutral	LOC war auch lecker .	O O O O O
+1122	0	service positive	LOC war auch lecker .	O O O O O
+1122	0	service negative	LOC war auch lecker .	O O O O O
+1122	0	service neutral	LOC war auch lecker .	O O O O O
+1122	0	general-impression positive	LOC war auch lecker .	O O O O O
+1122	0	general-impression negative	LOC war auch lecker .	O O O O O
+1122	0	general-impression neutral	LOC war auch lecker .	O O O O O
+1122	0	ambience positive	LOC war auch lecker .	O O O O O
+1122	0	ambience negative	LOC war auch lecker .	O O O O O
+1122	0	ambience neutral	LOC war auch lecker .	O O O O O
+1126	0	food positive	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	food negative	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	food neutral	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	price positive	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	price negative	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	price neutral	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	1	service positive	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O B O
+1126	0	service negative	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	service neutral	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	1	general-impression positive	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	general-impression negative	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	general-impression neutral	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	ambience positive	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	ambience negative	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1126	0	ambience neutral	Aber was den Besuch noch unvergesslicher gemacht hat , war der super nette und kompetente Kellner Bruno .	O O O O O O O O O O O O O O O O O O
+1165	0	food positive	Auch das Essen war so lala .	O O O O O O O
+1165	0	food negative	Auch das Essen war so lala .	O O O O O O O
+1165	1	food neutral	Auch das Essen war so lala .	O O B O O O O
+1165	0	price positive	Auch das Essen war so lala .	O O O O O O O
+1165	0	price negative	Auch das Essen war so lala .	O O O O O O O
+1165	0	price neutral	Auch das Essen war so lala .	O O O O O O O
+1165	0	service positive	Auch das Essen war so lala .	O O O O O O O
+1165	0	service negative	Auch das Essen war so lala .	O O O O O O O
+1165	0	service neutral	Auch das Essen war so lala .	O O O O O O O
+1165	0	general-impression positive	Auch das Essen war so lala .	O O O O O O O
+1165	0	general-impression negative	Auch das Essen war so lala .	O O O O O O O
+1165	0	general-impression neutral	Auch das Essen war so lala .	O O O O O O O
+1165	0	ambience positive	Auch das Essen war so lala .	O O O O O O O
+1165	0	ambience negative	Auch das Essen war so lala .	O O O O O O O
+1165	0	ambience neutral	Auch das Essen war so lala .	O O O O O O O
+1212	0	food positive	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	food negative	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	food neutral	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	price positive	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	price negative	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	price neutral	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	service positive	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	1	service negative	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O B O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	service neutral	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	general-impression positive	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	general-impression negative	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	general-impression neutral	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	ambience positive	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	ambience negative	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1212	0	ambience neutral	Aber die Bedienung war schon sehr unfreundlich und wollte das Menu nicht ein klein wenig erklären , was bei den Preisen schon ganz nett wäre .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+1264	0	food positive	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	food negative	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	food neutral	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	price positive	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	price negative	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	price neutral	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	service positive	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	1	service negative	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	service neutral	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	general-impression positive	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	general-impression negative	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	general-impression neutral	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	ambience positive	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	ambience negative	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1264	0	ambience neutral	Die Möglichkeit , zweimal die Vorspeise zu wählen , wurde verwehrt , selbst nach Angebot , den Betrag zum Selleriegericht aufzustocken .	O O O O O O O O O O O O O O O O O O O O O O
+1296	0	food positive	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	food negative	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	food neutral	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	price positive	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	price negative	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	price neutral	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	service positive	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	service negative	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	service neutral	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	general-impression positive	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	1	general-impression negative	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	general-impression neutral	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	ambience positive	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	ambience negative	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1296	0	ambience neutral	Also für uns definitiv ein no - go und nie mehr wieder .	O O O O O O O O O O O O O
+1320	0	food positive	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	1	food negative	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	food neutral	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	price positive	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	price negative	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	price neutral	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	service positive	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	service negative	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	service neutral	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	general-impression positive	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	general-impression negative	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	general-impression neutral	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	ambience positive	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	ambience negative	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1320	0	ambience neutral	Es war so weich gekocht , dass ich es durch die geschlossenen Zahnreihen ziehen konnte .	O O O O O O O O O O O O O O O O
+1344	0	food positive	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	1	food negative	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O B O O O O O O O O O O O O O O O O
+1344	0	food neutral	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	price positive	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	price negative	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	price neutral	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	service positive	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	service negative	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	service neutral	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	general-impression positive	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	general-impression negative	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	general-impression neutral	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	ambience positive	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	ambience negative	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1344	0	ambience neutral	Die Baguettes billige zum Aufbacken und nicht ansatzweise knusprig , sondern völlig weich und teilweise sogar matschig .	O O O O O O O O O O O O O O O O O O
+1360	0	food positive	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	1	food negative	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O B O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	food neutral	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	price positive	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	price negative	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	price neutral	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	service positive	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	1	service negative	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	service neutral	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	general-impression positive	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	general-impression negative	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	general-impression neutral	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	ambience positive	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	ambience negative	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1360	0	ambience neutral	Ich fragte , ob es frisch gepressten o - Saft gäbe und wieder eine schnoddrige Antwort , dass sie nur frischen Saft hätten , was sich allerdings als frisch aus dem Tetrapack herausstellte .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1375	1	food positive	Die Haxe war knusprig und das Fleisch zart .	O B O O O O B O O
+1375	0	food negative	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	food neutral	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	price positive	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	price negative	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	price neutral	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	service positive	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	service negative	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	service neutral	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	general-impression positive	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	general-impression negative	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	general-impression neutral	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	ambience positive	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	ambience negative	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1375	0	ambience neutral	Die Haxe war knusprig und das Fleisch zart .	O O O O O O O O O
+1404	0	food positive	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	1	food negative	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O B O O O O O O O O O O O O O O O O O O O O O
+1404	0	food neutral	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	price positive	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	price negative	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	price neutral	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	service positive	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	1	service negative	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O B O O O O O O O O O O O O O O O O O O
+1404	0	service neutral	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	general-impression positive	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	general-impression negative	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	general-impression neutral	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	ambience positive	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	ambience negative	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1404	0	ambience neutral	Was wir dort erlebt haben , war Massenabfertigung sowie ein Kellner , der Gäste , die kein Kölsch oder Änderungen beim Essen wollten , eigentlich permanent beleidigt hat .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1417	0	food positive	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	1	food negative	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O B O O O O O O O O O
+1417	0	food neutral	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	price positive	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	price negative	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	price neutral	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	service positive	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	service negative	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	service neutral	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	general-impression positive	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	general-impression negative	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	general-impression neutral	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	ambience positive	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	ambience negative	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1417	0	ambience neutral	Waren dort um den Abend ausklingen zu lassen - habe beide Biere getrunken und muss sagen habe schon besseres getrunken .	O O O O O O O O O O O O O O O O O O O O O
+1491	0	food positive	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	1	food negative	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	B I I O B O B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	food neutral	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	price positive	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	1	price negative	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O B O O O O O O O O O O O O O O O O O O O O O
+1491	0	price neutral	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	service positive	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	service negative	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	service neutral	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	general-impression positive	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	general-impression negative	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	general-impression neutral	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	ambience positive	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	ambience negative	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1491	0	ambience neutral	Schnitzel mit Bratkartoffeln und Salat und Champignonsoße für 19 , 50 Euro , wenn es gut wär dann wäre der Preis OK aber für ein Schnitzel aus der Fritteuse mit Champignons aus der Dose vielleicht 2 Stück Pilze ein no Go .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1565	1	food positive	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O B O O O O O O O O O O O O O O O
+1565	0	food negative	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	food neutral	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	price positive	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	price negative	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	price neutral	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	service positive	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	service negative	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	service neutral	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	general-impression positive	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	general-impression negative	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	general-impression neutral	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	ambience positive	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	ambience negative	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1565	0	ambience neutral	Das Steak , das wir bestellten , war einfach himmlisch - perfekt zubereitet und unglaublich zart .	O O O O O O O O O O O O O O O O O
+1583	0	food positive	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	food negative	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	food neutral	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	1	price positive	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O B O O
+1583	0	price negative	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	price neutral	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	service positive	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	service negative	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	service neutral	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	general-impression positive	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	general-impression negative	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	general-impression neutral	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	ambience positive	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	ambience negative	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1583	0	ambience neutral	Waren zudem vom innerstädtischen fairen Preis überrascht .	O O O O O O O O
+1589	0	food positive	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	food negative	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	food neutral	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	price positive	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	price negative	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	price neutral	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	1	service positive	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O B O O O O O O O O O
+1589	0	service negative	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	service neutral	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	general-impression positive	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	general-impression negative	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	general-impression neutral	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	1	ambience positive	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O B O O O O O O O B O O O O O
+1589	0	ambience negative	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1589	0	ambience neutral	Die herzliche Begrüßung und die freundliche Bedienung sowie das gemütliche Ambiente haben uns sehr gefallen .	O O O O O O O O O O O O O O O O
+1603	0	food positive	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	food negative	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	food neutral	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	price positive	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	price negative	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	price neutral	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	service positive	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	service negative	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	service neutral	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	1	general-impression positive	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O B O O O O O
+1603	0	general-impression negative	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	general-impression neutral	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	ambience positive	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	ambience negative	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1603	0	ambience neutral	Direkt an der LOC im Zentrum gelegen ist das Restaurant ideal für einen Stopp .	O O O O O O O O O O O O O O O
+1644	0	food positive	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	food negative	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	food neutral	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	price positive	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	price negative	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	price neutral	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	service positive	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	service negative	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	service neutral	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	general-impression positive	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	1	general-impression negative	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	general-impression neutral	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	ambience positive	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	ambience negative	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1644	0	ambience neutral	Sooft nach LOC und noch nie hier Essen , was für eine Zeitverschwendung !	O O O O O O O O O O O O O O
+1690	1	food positive	Vorspeise gut .	B O O
+1690	0	food negative	Vorspeise gut .	O O O
+1690	0	food neutral	Vorspeise gut .	O O O
+1690	0	price positive	Vorspeise gut .	O O O
+1690	0	price negative	Vorspeise gut .	O O O
+1690	0	price neutral	Vorspeise gut .	O O O
+1690	0	service positive	Vorspeise gut .	O O O
+1690	0	service negative	Vorspeise gut .	O O O
+1690	0	service neutral	Vorspeise gut .	O O O
+1690	0	general-impression positive	Vorspeise gut .	O O O
+1690	0	general-impression negative	Vorspeise gut .	O O O
+1690	0	general-impression neutral	Vorspeise gut .	O O O
+1690	0	ambience positive	Vorspeise gut .	O O O
+1690	0	ambience negative	Vorspeise gut .	O O O
+1690	0	ambience neutral	Vorspeise gut .	O O O
+1698	0	food positive	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	food negative	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	food neutral	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	price positive	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	price negative	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	price neutral	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	service positive	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	service negative	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	service neutral	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	general-impression positive	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	general-impression negative	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	general-impression neutral	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	0	ambience positive	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1698	1	ambience negative	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O B O O O O O O O O O O O O
+1698	0	ambience neutral	Allerdings gab man uns , trotz Reservierung wochenlang im Voraus , einen Tisch hinter dem ständig das dreckige Geschirr von abgeräumten Tischen deponiert wurde .	O O O O O O O O O O O O O O O O O O O O O O O O O
+1699	0	food positive	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	food negative	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	food neutral	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	price positive	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	price negative	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	price neutral	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	1	service positive	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O B O O O O O O O
+1699	0	service negative	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	service neutral	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	general-impression positive	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	general-impression negative	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	general-impression neutral	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	ambience positive	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	ambience negative	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1699	0	ambience neutral	War zwar viel los , dennoch hat das Personal nicht an Höflichkeit und Spaß verloren .	O O O O O O O O O O O O O O O O
+1704	0	food positive	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	food negative	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	food neutral	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	price positive	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	price negative	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	price neutral	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	service positive	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	1	service negative	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	service neutral	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	general-impression positive	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	general-impression negative	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	general-impression neutral	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	ambience positive	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	ambience negative	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1704	0	ambience neutral	Wir haben über 90 Minuten gewartet , bis wir unser Essen bekommen haben .	O O O O O O O O O O O O O O
+1728	0	food positive	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	food negative	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	food neutral	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	price positive	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	price negative	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	price neutral	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	service positive	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	service negative	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	service neutral	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	general-impression positive	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	1	general-impression negative	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	general-impression neutral	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	ambience positive	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	ambience negative	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1728	0	ambience neutral	Ich kann nur sagen : FINGER WEG ! ! !	O O O O O O O O O O
+1741	0	food positive	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	1	food negative	Kaffee und Teewasser waren kalt .	B O B O O O
+1741	0	food neutral	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	price positive	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	price negative	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	price neutral	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	service positive	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	service negative	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	service neutral	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	general-impression positive	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	general-impression negative	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	general-impression neutral	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	ambience positive	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	ambience negative	Kaffee und Teewasser waren kalt .	O O O O O O
+1741	0	ambience neutral	Kaffee und Teewasser waren kalt .	O O O O O O
+1767	0	food positive	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	food negative	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	food neutral	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	price positive	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	price negative	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	price neutral	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	1	service positive	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O B O O O O O O O O O O O O O O O
+1767	0	service negative	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	service neutral	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	1	general-impression positive	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	general-impression negative	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	general-impression neutral	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	ambience positive	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	ambience negative	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1767	0	ambience neutral	Wagner muss man mögen . . . . . . . . . . . . die Kellner sind schon seit mehr als 20 Jahren die gleichen und man muss Sie mögen .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1768	1	food positive	Frühstück war super lecker .	B O O O O
+1768	0	food negative	Frühstück war super lecker .	O O O O O
+1768	0	food neutral	Frühstück war super lecker .	O O O O O
+1768	0	price positive	Frühstück war super lecker .	O O O O O
+1768	0	price negative	Frühstück war super lecker .	O O O O O
+1768	0	price neutral	Frühstück war super lecker .	O O O O O
+1768	0	service positive	Frühstück war super lecker .	O O O O O
+1768	0	service negative	Frühstück war super lecker .	O O O O O
+1768	0	service neutral	Frühstück war super lecker .	O O O O O
+1768	0	general-impression positive	Frühstück war super lecker .	O O O O O
+1768	0	general-impression negative	Frühstück war super lecker .	O O O O O
+1768	0	general-impression neutral	Frühstück war super lecker .	O O O O O
+1768	0	ambience positive	Frühstück war super lecker .	O O O O O
+1768	0	ambience negative	Frühstück war super lecker .	O O O O O
+1768	0	ambience neutral	Frühstück war super lecker .	O O O O O
+1790	0	food positive	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	1	food negative	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	food neutral	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	price positive	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	price negative	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	price neutral	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	service positive	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	service negative	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	service neutral	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	general-impression positive	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	general-impression negative	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	general-impression neutral	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	ambience positive	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	ambience negative	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1790	0	ambience neutral	Also wer großen Hunger hat wird wahrscheinlich nicht zufrieden gestellt .	O O O O O O O O O O O
+1792	0	food positive	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	food negative	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	food neutral	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	price positive	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	price negative	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	price neutral	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	service positive	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	1	service negative	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O B O O O O O O O O O O O O O O O O O O O O O
+1792	0	service neutral	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	general-impression positive	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	general-impression negative	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	general-impression neutral	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	ambience positive	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	ambience negative	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1792	0	ambience neutral	Der Service wirkte gestresst kein Wunder , war aber freundlich jedoch auch recht unpersönlich , alles musste zackig bestellt werden , Fliessbandfeeling .	O O O O O O O O O O O O O O O O O O O O O O O
+1796	0	food positive	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	food negative	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	food neutral	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	price positive	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	price negative	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	price neutral	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	service positive	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	service negative	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	service neutral	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	1	general-impression positive	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	general-impression negative	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	general-impression neutral	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	ambience positive	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	ambience negative	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1796	0	ambience neutral	Wir waren zufrieden , für den starken Geschäftsgang , kann das Restaurant ja nichts .	O O O O O O O O O O O O O O O
+1849	0	food positive	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	food negative	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	food neutral	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	price positive	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	price negative	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	price neutral	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	1	service positive	Sehr aufmerksame und nette Bedienung .	O O O O B O
+1849	0	service negative	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	service neutral	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	general-impression positive	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	general-impression negative	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	general-impression neutral	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	ambience positive	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	ambience negative	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1849	0	ambience neutral	Sehr aufmerksame und nette Bedienung .	O O O O O O
+1865	0	food positive	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	food negative	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	food neutral	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	price positive	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	price negative	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	price neutral	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	service positive	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	1	service negative	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	service neutral	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	general-impression positive	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	general-impression negative	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	general-impression neutral	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	ambience positive	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	ambience negative	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1865	0	ambience neutral	Trotz Reservierung unfreundlich abgewiesen .	O O O O O
+1887	0	food positive	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	1	food negative	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O B O O B O O O O O O O O O O O O
+1887	0	food neutral	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	price positive	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	price negative	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	price neutral	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	service positive	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	service negative	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	service neutral	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	general-impression positive	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	general-impression negative	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	general-impression neutral	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	ambience positive	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	ambience negative	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1887	0	ambience neutral	Das Schnitzel zwei längliche Schnitzelstücke war von Form und Beschaffenheit der Panade ein Convenient - Produkt .	O O O O O O O O O O O O O O O O O
+1905	0	food positive	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	food negative	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	food neutral	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	price positive	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	1	price negative	Für diesen Preis trotzdem eine Zumutung .	O O B O O O O
+1905	0	price neutral	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	service positive	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	service negative	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	service neutral	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	general-impression positive	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	1	general-impression negative	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	general-impression neutral	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	ambience positive	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	ambience negative	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1905	0	ambience neutral	Für diesen Preis trotzdem eine Zumutung .	O O O O O O O
+1914	0	food positive	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	food negative	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	food neutral	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	price positive	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	price negative	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	price neutral	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	service positive	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	service negative	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	service neutral	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	general-impression positive	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	general-impression negative	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	general-impression neutral	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	1	ambience positive	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O B O O O
+1914	0	ambience negative	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1914	0	ambience neutral	Obwohl es ein sehr großes Lokal ist , konnten wir uns sehr gut unterhalten und fanden die Atmosphäre sehr angenehm .	O O O O O O O O O O O O O O O O O O O O O
+1936	0	food positive	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	food negative	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	food neutral	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	price positive	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	price negative	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	price neutral	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	service positive	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	1	service negative	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O B O O O O
+1936	0	service neutral	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	general-impression positive	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	general-impression negative	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	general-impression neutral	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	ambience positive	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	ambience negative	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1936	0	ambience neutral	Es sei denn , man steht darauf , vom Eigentümer beleidigt zu werden .	O O O O O O O O O O O O O O
+1939	0	food positive	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	food negative	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	food neutral	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	price positive	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	price negative	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	price neutral	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	service positive	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	service negative	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	service neutral	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	general-impression positive	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	1	general-impression negative	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	general-impression neutral	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	ambience positive	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	ambience negative	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1939	0	ambience neutral	Wir waren hier zum Mittagessen und wurden eher enttäuscht .	O O O O O O O O O O
+1961	0	food positive	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	food negative	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	food neutral	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	price positive	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	price negative	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	price neutral	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	1	service positive	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O B O
+1961	0	service negative	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	service neutral	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	1	general-impression positive	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	general-impression negative	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	general-impression neutral	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	ambience positive	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	ambience negative	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1961	0	ambience neutral	Immer wieder gerne , sehr nettes und kompetentes Personal .	O O O O O O O O O O
+1971	0	food positive	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	food negative	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	1	food neutral	Qualität der Speisen und Optik in Ordnung .	O O B O O O O O
+1971	0	price positive	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	price negative	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	price neutral	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	service positive	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	service negative	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	service neutral	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	general-impression positive	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	general-impression negative	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	general-impression neutral	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	ambience positive	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	ambience negative	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1971	0	ambience neutral	Qualität der Speisen und Optik in Ordnung .	O O O O O O O O
+1975	0	food positive	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	food negative	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	food neutral	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	price positive	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	price negative	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	price neutral	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	service positive	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	service negative	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	service neutral	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	general-impression positive	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	general-impression negative	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	general-impression neutral	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	1	ambience positive	Der Blick von der Dachterasse ist der Wahnsinn .	O B I I I O O O O
+1975	0	ambience negative	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1975	0	ambience neutral	Der Blick von der Dachterasse ist der Wahnsinn .	O O O O O O O O O
+1996	0	food positive	Hier stimmt alles !	O O O O
+1996	0	food negative	Hier stimmt alles !	O O O O
+1996	0	food neutral	Hier stimmt alles !	O O O O
+1996	0	price positive	Hier stimmt alles !	O O O O
+1996	0	price negative	Hier stimmt alles !	O O O O
+1996	0	price neutral	Hier stimmt alles !	O O O O
+1996	0	service positive	Hier stimmt alles !	O O O O
+1996	0	service negative	Hier stimmt alles !	O O O O
+1996	0	service neutral	Hier stimmt alles !	O O O O
+1996	1	general-impression positive	Hier stimmt alles !	O O O O
+1996	0	general-impression negative	Hier stimmt alles !	O O O O
+1996	0	general-impression neutral	Hier stimmt alles !	O O O O
+1996	0	ambience positive	Hier stimmt alles !	O O O O
+1996	0	ambience negative	Hier stimmt alles !	O O O O
+1996	0	ambience neutral	Hier stimmt alles !	O O O O
+2001	1	food positive	Tolle Auswahl an Speisen und Getränken .	O O O B O B O
+2001	0	food negative	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	food neutral	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	price positive	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	price negative	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	price neutral	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	service positive	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	service negative	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	service neutral	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	general-impression positive	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	general-impression negative	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	general-impression neutral	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	ambience positive	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	ambience negative	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2001	0	ambience neutral	Tolle Auswahl an Speisen und Getränken .	O O O O O O O
+2031	0	food positive	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	food negative	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	food neutral	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	price positive	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	price negative	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	price neutral	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	service positive	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	service negative	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	service neutral	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	1	general-impression positive	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	general-impression negative	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	general-impression neutral	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	ambience positive	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	ambience negative	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2031	0	ambience neutral	Mal dort und werde wiederkommen wenn ich wieder in LOC bin .	O O O O O O O O O O O O
+2085	0	food positive	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	food negative	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	food neutral	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	price positive	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	price negative	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	price neutral	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	service positive	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	1	service negative	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O B O O O O O O O O O O O O O O B O O O O O
+2085	0	service neutral	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	general-impression positive	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	general-impression negative	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	general-impression neutral	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	1	ambience positive	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	B O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	ambience negative	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2085	0	ambience neutral	Atmosphäre des Lokals ist gut , Personal reagierte auf den Wunsch , beim Salat eine Zutat wegzulassen allerdings unflexibel und der Inhaber ist mehr als unfreundlich .	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2100	0	food positive	Gastfreundschaft geht anders .	O O O O
+2100	0	food negative	Gastfreundschaft geht anders .	O O O O
+2100	0	food neutral	Gastfreundschaft geht anders .	O O O O
+2100	0	price positive	Gastfreundschaft geht anders .	O O O O
+2100	0	price negative	Gastfreundschaft geht anders .	O O O O
+2100	0	price neutral	Gastfreundschaft geht anders .	O O O O
+2100	0	service positive	Gastfreundschaft geht anders .	O O O O
+2100	1	service negative	Gastfreundschaft geht anders .	B O O O
+2100	0	service neutral	Gastfreundschaft geht anders .	O O O O
+2100	0	general-impression positive	Gastfreundschaft geht anders .	O O O O
+2100	0	general-impression negative	Gastfreundschaft geht anders .	O O O O
+2100	0	general-impression neutral	Gastfreundschaft geht anders .	O O O O
+2100	0	ambience positive	Gastfreundschaft geht anders .	O O O O
+2100	0	ambience negative	Gastfreundschaft geht anders .	O O O O
+2100	0	ambience neutral	Gastfreundschaft geht anders .	O O O O
+2126	0	food positive	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	1	food negative	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O B O O O O O O O B O O O B O O O O O O O
+2126	0	food neutral	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	price positive	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	price negative	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	price neutral	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	service positive	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	service negative	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	service neutral	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	general-impression positive	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	general-impression negative	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	general-impression neutral	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	ambience positive	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	ambience negative	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2126	0	ambience neutral	Das Essen war außerdem nicht warm genug , die Gambas trocken und der Lauch war alt und hart und ungenießbar .	O O O O O O O O O O O O O O O O O O O O O
+2136	1	food positive	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O B O B O B O B O O O O O O O O O O O O O
+2136	0	food negative	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	food neutral	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	price positive	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	price negative	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	price neutral	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	service positive	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	service negative	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	service neutral	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	general-impression positive	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	general-impression negative	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	general-impression neutral	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	ambience positive	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	ambience negative	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+2136	0	ambience neutral	Wir haben EntrecotesFilets , dazu superfeine Beilagen zB Stampf , Schlotze oder Spinat gegessen , im Nachgang noch die Spaghetti mit Tomatensauce Eis - Dessert .	O O O O O O O O O O O O O O O O O O O O O O O O O O

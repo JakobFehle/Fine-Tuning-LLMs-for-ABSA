@@ -1,0 +1,4 @@
+b"[['SERVICE#GENERAL', 'POSITIVE', 'wait staff'], ['APPEARANCE#GENERAL', 'POSITIVE', 'wait staff']]"
+b"[['DOG#GENERAL', 'POSITIVE', 'dog'], ['RESTAURANT#MISCELLANEOUS', 'POSITIVE', 'establishment']]"
+b"[['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"
+b"[['FOOD#QUALITY', 'NEGATIVE', 'dinner'], ['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"

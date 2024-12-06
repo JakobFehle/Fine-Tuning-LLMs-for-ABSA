@@ -1,0 +1,1 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['FOOD#STYLE_OPTIONS', 'POSITIVE', 'food'], ['FOOD#TEMPERATURE', 'POSITIVE', 'food']]"

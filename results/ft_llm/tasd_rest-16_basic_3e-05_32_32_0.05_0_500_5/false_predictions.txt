@@ -1,0 +1,2 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'pizza'], ['FOOD#STYLE_OPTIONS', 'POSITIVE', 'thin crust pizza'], ['FOOD#STYLE_OPTIONS', 'POSITIVE', 'Basil slice'], ['FOOD#GENERAL', 'POSITIVE', 'pizza place']]"
+b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#GENERAL', 'NEGATIVE', 'pizza']]"

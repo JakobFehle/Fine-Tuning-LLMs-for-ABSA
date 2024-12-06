@@ -1,0 +1,83 @@
+I have eaten at Saul, many times, the food is always consistently, outrageously good.	FOOD#QUALITY#1
+The wine list is interesting and has many good values.	DRINKS#STYLE_OPTIONS#1	DRINKS#PRICES#1
+Food was okay, nothing great.	FOOD#QUALITY#0
+Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.	SERVICE#GENERAL#1	FOOD#QUALITY#1	FOOD#PRICES#1
+The hostess is rude to the point of being offensive.	SERVICE#GENERAL#-1
+When we sat, we got great and fast service.	SERVICE#GENERAL#1
+This is a fun restaurant to go to.	RESTAURANT#GENERAL#1
+This is the best sushi in new york city - hands down.	FOOD#QUALITY#1
+It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.	AMBIENCE#GENERAL#0	AMBIENCE#GENERAL#1	FOOD#QUALITY#1
+Even after they overcharged me the last time I was there.	SERVICE#GENERAL#-1
+it's delicious!	FOOD#QUALITY#1
+The food was good too.	FOOD#QUALITY#1
+You will not be disapointed at all.	RESTAURANT#GENERAL#1
+We were not dissappointed in the least bit by this little gem.	RESTAURANT#GENERAL#1
+My chow fun and chow see was really bland and oily.	FOOD#QUALITY#-1
+sometimes i get good food and ok service.	FOOD#QUALITY#1	SERVICE#GENERAL#0
+I absolutely love this place!!!	RESTAURANT#GENERAL#1
+My Girlfriend and I stumbled onto this hopping place the other night and had a great time!	RESTAURANT#GENERAL#1
+Service is not what one would expect from a joint in this price category.	SERVICE#GENERAL#-1
+It is simply amazing.	FOOD#QUALITY#1
+I had Lobster Bisque it has 2 oz. of Maine Lobster in it.	FOOD#STYLE_OPTIONS#1
+All in all we're already coming up with excuses to go ahead really soon in the next few wks!!!!	RESTAURANT#GENERAL#1
+The food however, is what one might expect.	FOOD#QUALITY#-1
+It was wonderful.	DRINKS#QUALITY#1
+The quantity is also very good, you will come out satisfied.	FOOD#STYLE_OPTIONS#1
+The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.	FOOD#QUALITY#1	FOOD#QUALITY#1	FOOD#QUALITY#1	FOOD#QUALITY#1
+Overall, not worth the money.	RESTAURANT#GENERAL#-1	RESTAURANT#PRICES#-1
+Of course, it is crowded but who cares.	RESTAURANT#MISCELLANEOUS#0
+it's the only place you can get yummy authentic japanese comfort food.	FOOD#QUALITY#1
+This is a wonderful place on all stand points especially value ofr money.	RESTAURANT#PRICES#1	RESTAURANT#GENERAL#1
+I ordered the smoked salmon and roe appetizer and it was off flavor.	FOOD#QUALITY#-1
+The entree was bland and small, dessert was not inspired.	FOOD#QUALITY#-1	FOOD#STYLE_OPTIONS#-1	FOOD#QUALITY#-1
+I expected quite a bit more from such an expensive menu.	FOOD#PRICES#-1	FOOD#QUALITY#-1
+The sandwiches are dry, tasteless and way overpriced.	FOOD#QUALITY#-1	FOOD#PRICES#-1
+A little pricey but it really hits the spot on a Sunday morning!	RESTAURANT#PRICES#-1	RESTAURANT#GENERAL#1
+Great atmoshere and worth every bit.	AMBIENCE#GENERAL#1	RESTAURANT#GENERAL#1
+The flavors robust and subtle.	FOOD#QUALITY#1
+The food now is inconsistent.	FOOD#QUALITY#-1
+This is the kind of place you'd like to take all your friends to and still keep a secret.	RESTAURANT#MISCELLANEOUS#1
+Drawbacks: service is slow and they don't toast!	SERVICE#GENERAL#-1
+Guaranteed to be a tasty experience!)	DRINKS#QUALITY#1
+Go there once and oh yes...you will go back...you will...	RESTAURANT#GENERAL#1
+Not the typical NYC gimmick theme restaurant.	AMBIENCE#GENERAL#1
+When you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.	AMBIENCE#GENERAL#1	AMBIENCE#GENERAL#1
+They all know you.	SERVICE#GENERAL#1
+While the ambiance and atmosphere were great, the food and service could have been a lot better.	AMBIENCE#GENERAL#1	AMBIENCE#GENERAL#1	FOOD#QUALITY#-1	SERVICE#GENERAL#-1
+Went here last night - nice decor, good service, but the food was surprisingly excellent.	AMBIENCE#GENERAL#1	SERVICE#GENERAL#1	FOOD#QUALITY#1
+My roommate and I LOVE this place.	RESTAURANT#GENERAL#1
+The portion sizes here are huge, and the sushi is good.	FOOD#STYLE_OPTIONS#1	FOOD#QUALITY#1
+The food here does a great service to the name (Cantonese that is...).	FOOD#QUALITY#1
+I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.	FOOD#QUALITY#1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!	AMBIENCE#GENERAL#1	FOOD#QUALITY#1	FOOD#PRICES#1	SERVICE#GENERAL#1	AMBIENCE#GENERAL#1	LOCATION#GENERAL#1	RESTAURANT#PRICES#1
+The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol	FOOD#QUALITY#-1	FOOD#STYLE_OPTIONS#-1
+I recieved prompt service with a smile.	SERVICE#GENERAL#1
+Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.	FOOD#QUALITY#1	FOOD#QUALITY#1	FOOD#QUALITY#1
+The place is a bit hidden away, but once you get there, it's all worth it.	LOCATION#GENERAL#0	RESTAURANT#GENERAL#1
+I'll be back for sure.	RESTAURANT#GENERAL#1
+Went here on sat 1/26 and was disappointed.	RESTAURANT#GENERAL#-1
+The food was excellent as well as service, however, I left The Four Seasons very dissappointed.	FOOD#QUALITY#1	SERVICE#GENERAL#1	RESTAURANT#GENERAL#-1
+I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.	FOOD#PRICES#-1
+We were offered water for the table but were not told the Voss bottles of water were $8 a piece.	DRINKS#PRICES#-1
+Raymond the bartender rocks!	SERVICE#GENERAL#1
+Pacifico is a great place to casually hang out.	RESTAURANT#MISCELLANEOUS#1
+Delicious, creative and fun.	FOOD#QUALITY#1	FOOD#STYLE_OPTIONS#1
+Service was wonderful;	SERVICE#GENERAL#1
+Thank you everyone at Water's Edge.	RESTAURANT#GENERAL#1
+BEST DINING EXPERIENCE IN THE WEST VILLAGE!	RESTAURANT#GENERAL#1
+Sushi experience was unbelievable with my fiance.	FOOD#QUALITY#1
+The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.	AMBIENCE#GENERAL#-1	AMBIENCE#GENERAL#-1
+If you're into being lost when you're just five feet from your table then hey, that's a good thing.	AMBIENCE#GENERAL#-1
+Great, original taste.	FOOD#QUALITY#1
+Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had.	FOOD#QUALITY#1
+Gorgeous place ideal for a romantic dinner	AMBIENCE#GENERAL#1	RESTAURANT#MISCELLANEOUS#1
+The real problem I had with this place was the complete lack of service.	SERVICE#GENERAL#-1
+The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.	FOOD#QUALITY#1	FOOD#QUALITY#1	FOOD#QUALITY#1
+Over all it was a very nice romantic place .	RESTAURANT#GENERAL#1	AMBIENCE#GENERAL#1
+The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.	FOOD#QUALITY#1	DRINKS#QUALITY#0
+Single Worst Restaurant in Manhattan	RESTAURANT#GENERAL#-1
+The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.	RESTAURANT#MISCELLANEOUS#-1
+I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she "had a BBQ to go to" that night - WTF??	SERVICE#GENERAL#-1
+Again, I'd be super upset if that were my employee.	SERVICE#GENERAL#-1
+His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.	SERVICE#GENERAL#-1
+I can't believe that it was, but please put the bag down before delivering food!	SERVICE#GENERAL#-1

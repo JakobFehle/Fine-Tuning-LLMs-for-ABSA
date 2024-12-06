@@ -1,0 +1,2 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['AMBIENCE#GENERAL', 'POSITIVE', 'place'], ['RESTAURANT#PRICES', 'NULL', 'NULL']]"
+b"[['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"

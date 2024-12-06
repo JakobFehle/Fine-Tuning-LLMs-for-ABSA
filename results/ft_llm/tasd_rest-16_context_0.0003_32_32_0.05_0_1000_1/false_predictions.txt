@@ -1,0 +1,2 @@
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
+b"[['WINE#STYLE_OPTIONS', 'POSITIVE', 'wine list']]"

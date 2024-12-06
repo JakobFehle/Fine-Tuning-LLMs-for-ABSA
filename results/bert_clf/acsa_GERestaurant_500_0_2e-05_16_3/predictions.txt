@@ -1,0 +1,84 @@
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b'[]'
+b"['(GENERAL-IMPRESSION, NEGATIVE)']"
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b'[]'
+b"['(SERVICE, NEGATIVE)']"
+b"['(FOOD, POSITIVE)', '(SERVICE, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b"['(SERVICE, NEGATIVE)']"
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(SERVICE, NEGATIVE)']"
+b'[]'
+b'[]'
+b"['(SERVICE, POSITIVE)']"
+b"['(FOOD, POSITIVE)']"
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b"['(FOOD, POSITIVE)', '(SERVICE, POSITIVE)']"
+b"['(FOOD, POSITIVE)', '(SERVICE, POSITIVE)']"
+b'[]'
+b"['(FOOD, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(SERVICE, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'

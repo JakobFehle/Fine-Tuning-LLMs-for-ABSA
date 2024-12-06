@@ -1,0 +1,1 @@
+b"[['LOCATION', 'POSITIVE', 'Lage'], ['SERVICE', 'POSITIVE', 'Bedienung'], ['FOOD', 'POSITIVE', 'Essen']]"

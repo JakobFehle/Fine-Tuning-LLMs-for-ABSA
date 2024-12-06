@@ -1,0 +1,1 @@
+b"[['RESTAURANT#QUALITY', 'NEGATIVE', 'Haru on Park S']]"

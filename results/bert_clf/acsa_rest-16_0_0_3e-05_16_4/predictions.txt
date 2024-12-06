@@ -1,0 +1,285 @@
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b"['(FOOD#QUALITY, POSITIVE)']"
+b'[]'
+b'[]'
+b'[]'
+b'[]'
+b'[]'

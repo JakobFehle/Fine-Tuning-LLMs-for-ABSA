@@ -1,0 +1,3 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'service'], ['RESTAURANT#VALUE', 'POSITIVE', 'value']]"
+b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#GENERAL', 'NEGATIVE', 'pizza']]"
+b"[['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'boths']]"

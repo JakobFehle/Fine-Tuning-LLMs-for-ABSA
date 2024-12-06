@@ -1,0 +1,2 @@
+b"['LOCATION']"
+b"['ACTIVITY']"

@@ -1,0 +1,1 @@
+b"[['AMBIENCE', 'POSITIVE', 'ambiente'], ['FOOD', 'NEGATIVE', 'Cesarsalat'], ['FOOD', 'POSITIVE', 'Hauptgang'], ['FOOD', 'NEGative', 'dessert'], ['PRICE', 'NEGATIVE', 'Preis Leistung']]"

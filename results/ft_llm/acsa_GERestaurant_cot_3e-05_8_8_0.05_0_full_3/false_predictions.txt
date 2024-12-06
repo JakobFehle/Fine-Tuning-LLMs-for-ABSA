@@ -1,0 +1,5 @@
+b'aspect1:sentiment1'
+b'aspect2:sentiment2'
+b'aspect3:sentiment3'
+b'aspect4:sentiment4'
+b'aspect5:sentiment5'

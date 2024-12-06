@@ -1,0 +1,1 @@
+b'[[\'FOOD\', \'"Essen"\', \'Einzig die Portionen beim Essen sind mittel.\']]'

@@ -1,0 +1,3 @@
+b"[['PIZZA#PRICES', 'NEGATIVE', 'large'], ['PIZZA#PRICES', 'NEGATIVE', 'toppings']]"
+b"[['PIZZA#PRICES', 'NEGATIVE', 'large'], ['PIZZA#PRICES', 'NEGATIVE', 'toppings']]"
+b"[['FOOD#QUALITY', 'AVERAGE', 'Thai food'], ['SERVICE#GENERAL', 'NEGATIVE', 'delivery']]"

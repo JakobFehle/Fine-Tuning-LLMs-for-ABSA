@@ -1,0 +1,2 @@
+b"[['ENTERTAINMENT#QUALITY', 'POSITIVE', 'entertainment']]"
+b"[['RESTAURANT#STYLE_OPTIONS', 'NEUTRAL', 'boths']]"

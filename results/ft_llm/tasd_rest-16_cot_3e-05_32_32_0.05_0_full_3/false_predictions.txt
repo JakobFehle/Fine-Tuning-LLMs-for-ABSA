@@ -1,0 +1,2 @@
+b"[['FOOD#GENERAL', 'POSITIVE', 'food'], ['DRINKS#GENERAL', 'POSITIVE', 'drinks']]"
+b"[['FOOD#GENERAL', 'POSITIVE', 'food'], ['DRINKS#GENERAL', 'POSITIVE', 'drinks']]"

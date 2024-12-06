@@ -1,0 +1,2 @@
+b"[['SEATS#GENERAL', 'NEGATIVE', 'seats'], ['SEATS#GENERAL', 'NEGATIVE', 'wooden benches']]"
+b"[['SEATS#GENERAL', 'NEGATIVE', 'seats'], ['SEATS#GENERAL', 'NEGATIVE', 'wooden benches']]"

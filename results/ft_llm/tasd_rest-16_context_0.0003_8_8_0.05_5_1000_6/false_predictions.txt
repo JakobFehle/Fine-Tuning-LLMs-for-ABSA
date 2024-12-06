@@ -1,0 +1,5 @@
+b"[['FOOD#GENERAL', 'POSITIVE', 'food']]"
+b"[['RESTAURANT#GENERAL', 'POSITIVE', 'restaurant'], ['FOOD#GENERAL', 'POSITIVE', 'dinner'], ['DRINKS#GENERAL', 'POSITIVE', 'drinks']]"
+b"[['RESTAURANT#GENERAL', 'POSITIVE', 'restaurant'], ['FOOD#GENERAL', 'POSITIVE', 'dinner'], ['DRINKS#GENERAL', 'POSITIVE', 'drinks']]"
+b"[['FOOD#GENERAL', 'NEGATIVE', 'NULL']]"
+b"[['MUSIC#QUALITY', 'POSITIVE', 'jazz duo']]"

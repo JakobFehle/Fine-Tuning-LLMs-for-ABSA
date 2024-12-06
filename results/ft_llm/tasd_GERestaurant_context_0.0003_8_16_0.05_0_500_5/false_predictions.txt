@@ -1,0 +1,2 @@
+b"[['PRICE', 'OKAY', 'NULL'], ['GENERAL-IMPRESSION', 'POSITIVE', 'NULL']]"
+b"[['LOCATION', 'POSITIVE', 'Location'], ['FOOD', 'POSITIVE', 'Essen'], ['SERVICE', 'POSITIVE', 'Service']]"

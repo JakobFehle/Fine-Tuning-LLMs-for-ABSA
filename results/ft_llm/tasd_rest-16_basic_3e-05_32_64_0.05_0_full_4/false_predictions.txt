@@ -1,0 +1,1 @@
+b"[['FOOD#QUALITY', 'AVERAGE', 'Thai food'], ['SERVICE#GENERAL', 'NEGATIVE', 'delivery']]"

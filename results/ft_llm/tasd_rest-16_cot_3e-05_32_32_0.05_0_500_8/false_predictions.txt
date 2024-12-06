@@ -1,0 +1,3 @@
+b"[['FOOD#SERVICE', 'NEGATIVE', 'toast'], ['FOOD#SERVICE', 'NEGATIVE', 'eggs']]"
+b"[['FOOD#SERVICE', 'NEGATIVE', 'toast'], ['FOOD#SERVICE', 'NEGATIVE', 'eggs']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['FOOD#GENERAL', 'NEUTRAL', 'food']]"

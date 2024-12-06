@@ -1,0 +1,4 @@
+b"[['AMBIENCE#GENERAL', 'POSITIVE', 'signs'], ['AMBIENCE#GENERAL', 'POSITIVE', 'specials menus'], ['FOOD', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'waitstaff']]"
+b"[['PIZZA#STYLE_OPTIONS', 'NEUTRAL', 'NULL'], ['PIZZA#PRICES', 'NEGATIVE', 'NULL']]"
+b"[['PIZZA#STYLE_OPTIONS', 'NEUTRAL', 'NULL'], ['PIZZA#PRICES', 'NEGATIVE', 'NULL']]"
+b"[['FOOD#QUALITY', 'AVERAGE', 'Thai food'], ['SERVICE#GENERAL', 'NEGATIVE', 'delivery']]"

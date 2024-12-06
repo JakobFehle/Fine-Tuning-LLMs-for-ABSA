@@ -1,0 +1,2 @@
+b"[['AMBIENCE#GENERAL', 'NEUTRAL', 'atmosphere'], ['FOOD#STYLE_OPTIONS', 'NEUTRAL', 'dishes'], ['SERVICE#GENERAL', 'NEUTRAL', 'NULL'], ['DRINKS#STYLE_OPTIONS', 'NEUTRAL', 'wine'], ['DRINKS#SERVE', 'NEUTRAL', 'wine']]"
+b"[['RESTAURANT#GENERAL', 'NEGATIVE', 'restaurant'], ['FOOD#GENERAL', 'NEUTRAL', 'food'], ['RESTAURANT#PRICES', 'NEGATIVE', 'restaurant']]"

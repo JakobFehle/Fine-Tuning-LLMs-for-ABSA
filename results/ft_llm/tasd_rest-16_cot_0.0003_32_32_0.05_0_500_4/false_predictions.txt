@@ -1,0 +1,3 @@
+b"[['FOOD', 'POSITIVE', 'food'], ['SERVICE', 'POSITIVE', 'service'], ['VALUE', 'POSITIVE', 'value']]"
+b"[['FOOD', 'POSITIVE', 'food'], ['SERVICE', 'POSITIVE', 'service'], ['VALUE', 'POSITIVE', 'value']]"
+b"[['FOOD', 'POSITIVE', 'food'], ['SERVICE', 'POSITIVE', 'service'], ['VALUE', 'POSITIVE', 'value']]"

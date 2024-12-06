@@ -1,0 +1,2 @@
+b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'shows']]"
+b"[['SEATING#GENERAL', 'POSITIVE', 'booths']]"

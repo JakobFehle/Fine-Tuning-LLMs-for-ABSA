@@ -1,0 +1,3 @@
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], [' AMBIENCE#GENERAL', 'POSITIVE', 'decor'], [' SERVICE#GENERAL', 'POSITIVE', 'service']]"
+b"[['FOOD#QUALITY', 'POSITIVE', 'food'], [' AMBIENCE#GENERAL', 'POSITIVE', 'decor'], [' SERVICE#GENERAL', 'POSITIVE', 'service']]"
+b"[['SERVICE', 'NEGATIVE', '$170 down the toilet...']]"

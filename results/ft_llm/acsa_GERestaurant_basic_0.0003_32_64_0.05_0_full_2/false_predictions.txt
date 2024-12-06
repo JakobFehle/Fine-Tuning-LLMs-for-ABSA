@@ -1,0 +1,4 @@
+b'FOOD:POS'
+b'FOOD:POS'
+b'FOOD:NEG'
+b'FOOD:NEG'

@@ -1,0 +1,3 @@
+b"[['QUALITY', 'NEGATIVE', 'Qualit\xc3\xa4t']]"
+b"[['LOCATION', 'POSITIVE', 'Lage'], ['AMBIENCE', 'POSITIVE', 'Keller-R\xc3\xa4umlichkeiten'], ['GENERAL-IMPRESSION', 'POSITIVE', 'Lokal']]"
+b"[['LOCATION', 'POSITIVE', 'Location'], ['FOOD', 'POSITIVE', 'Essen'], ['SERVICE', 'POSITIVE', 'Kellnerin'], ['FOOD', 'POSITIVE', 'Bier'], ['FOOD', 'POSITIVE', 'Essen']]"

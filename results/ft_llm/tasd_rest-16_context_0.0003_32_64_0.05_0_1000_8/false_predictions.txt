@@ -1,0 +1,3 @@
+b"[['FOOD#SERVICE#GENERAL', 'POSITIVE', 'NULL']]"
+b"[['FOOD#CRavings', 'POSITIVE', 'Pizza']]"
+b"[['FOOD#DELIVERY', 'POSITIVE', 'food']]"

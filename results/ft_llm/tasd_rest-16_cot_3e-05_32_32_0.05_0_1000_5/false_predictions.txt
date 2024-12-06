@@ -1,0 +1,1 @@
+b"[['CLEANLINESS', 'NEGATIVE', 'floor']]"
