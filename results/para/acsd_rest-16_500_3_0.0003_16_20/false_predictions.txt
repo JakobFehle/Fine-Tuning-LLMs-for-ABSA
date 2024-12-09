@@ -1,3 +1,0 @@
-b'Hooka:NEGATIVE'
-b'food quality:POSITIVE'
-b'Scene general:POSITIVE'

@@ -1,4 +1,0 @@
-b'Desserts:NEGATIVE'
-b'Restaurant location general:POSITIVE'
-b'Restaurant name:NEGATIVE'
-b'Sauce quality:POSITIVE'

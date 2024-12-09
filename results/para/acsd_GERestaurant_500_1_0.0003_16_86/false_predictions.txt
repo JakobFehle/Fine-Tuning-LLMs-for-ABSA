@@ -1,2 +1,0 @@
-b'Happy Hour:POSITIVE'
-b'Musik:POSITIVE'

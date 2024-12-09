@@ -1,2 +1,0 @@
-b'margherita pizza:POSITIVE'
-b'Scenery general:POSITIVE'

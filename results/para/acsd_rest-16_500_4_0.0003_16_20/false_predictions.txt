@@ -1,3 +1,0 @@
-b'Outdoor seating:POSITIVE'
-b'Music quality:POSITIVE'
-b'DJ:POSITIVE'
