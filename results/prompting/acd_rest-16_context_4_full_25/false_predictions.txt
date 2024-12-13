@@ -1,0 +1,8 @@
+b'DRINKS#GENERAL'
+b'FOOD#GENERAL'
+b'FOOD#GENERAL'
+b'List of aspects addressed in the sentence'
+b'FOOD#GENERAL'
+b'FOOD#GENERAL'
+b'FOOD#GENERAL'
+b'FOOD#GENERAL'
