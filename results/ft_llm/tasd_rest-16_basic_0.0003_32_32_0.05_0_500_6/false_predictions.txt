@@ -1,3 +1,0 @@
-b"[['FOOD#QUALITY', 'POSITIVE', 'menu'], ['FOOD#STYLE_OPTIONS', 'POSITIVE', 'menu'], ['FOOD#QUALITY', 'POSITIVE', 'prepared'], ['FOOD#QUALITY', 'POSITIVE', 'fresh'], ['FOOD#ART', 'POSITIVE', 'food']]"
-b"[['ORGANIC#GENERAL', 'POSITIVE', 'dog'], ['ECO_FRIENDLY#GENERAL', 'POSITIVE', 'establishment']]"
-b"[['ORGANIC#GENERAL', 'POSITIVE', 'dog'], ['ECO_FRIENDLY#GENERAL', 'POSITIVE', 'establishment']]"

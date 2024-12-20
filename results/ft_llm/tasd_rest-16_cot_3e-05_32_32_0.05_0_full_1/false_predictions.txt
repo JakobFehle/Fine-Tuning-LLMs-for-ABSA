@@ -1,2 +1,0 @@
-b"[['FOOD#QUALITY', 'MIXED', 'Thai food']]"
-b"[['FOOD#QUALITY', 'POSITIVE', 'meat'], ['FOOD#QUALITY', 'POSITIVE', 'sauces'], ['FOOD#GENERAL', 'POSITIVE', 'kimchi']]"

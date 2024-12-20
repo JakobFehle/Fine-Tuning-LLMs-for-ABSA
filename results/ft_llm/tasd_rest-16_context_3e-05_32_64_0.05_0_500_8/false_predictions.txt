@@ -1,2 +1,0 @@
-b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#COOKING', 'NEGATIVE', 'pizza']]"
-b"[['FOOD#DELIVERY_TIME', 'NEGATIVE', 'NULL']]"

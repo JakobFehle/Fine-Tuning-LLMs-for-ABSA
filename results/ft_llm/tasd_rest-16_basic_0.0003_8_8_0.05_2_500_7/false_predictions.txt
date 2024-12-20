@@ -1,2 +1,0 @@
-b"[['RESTAURANT#GENERAL', '1', 'Yon']]"
-b"[['BATHROOM#QUALITY', 'NEGATIVE', 'bathroom']]"

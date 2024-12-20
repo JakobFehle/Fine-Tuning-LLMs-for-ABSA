@@ -1,3 +1,0 @@
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
-b"[['RESTAURANT#LOCATION', 'POSITIVE', 'joint']]"
-b"[['SIZE#GENERAL', 'POSITIVE', 'boths']]"

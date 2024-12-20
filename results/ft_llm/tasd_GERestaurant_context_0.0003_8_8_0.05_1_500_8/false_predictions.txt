@@ -1,2 +1,0 @@
-b"[['BIER', 'POSITIVE', 'Bier'], ['SERVICE', 'POSITIVE', 'Kellner']]"
-b"[['LOCATION', 'POSITIVE', 'Location'], ['SERVICE', 'POSITIVE', 'Personal'], ['FOOD', 'NEUTRAL', 'Fr\xc3\xbchst\xc3\xbcck']]"

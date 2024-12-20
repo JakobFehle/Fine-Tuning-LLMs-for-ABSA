@@ -1,5 +1,0 @@
-b'aspect:sentiment'
-b'aspect:sentiment'
-b'RESTAURANT#QUALITY:POSITIVE'
-b'aspect:sentiment'
-b'aspect:sentiment'

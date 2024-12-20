@@ -1,6 +1,0 @@
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'hand towels'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'hand towels'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'hand towels'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'hand towels'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['FOOD#PRICES', 'MIXED', 'lunch buffet']]"

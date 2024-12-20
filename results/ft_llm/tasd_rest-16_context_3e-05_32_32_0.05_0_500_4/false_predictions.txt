@@ -1,3 +1,0 @@
-b"[['RESTAURANT#GENERAL', 'NEUTRAL', 'place'], ['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'BISTRO']]"
-b"[['FOOD#QUALITY#NULL', 'NEUTRAL', 'side dishes'], ['SERVICE#GENERAL#NULL', 'POSITIVE', 'refill']]"
-b"[['FOOD#QUALITY#NULL', 'NEUTRAL', 'side dishes'], ['SERVICE#GENERAL#NULL', 'POSITIVE', 'refill']]"

@@ -1,2 +1,0 @@
-b"[['BANKER', 'POSITIVE', 'Banker']]"
-b"[['PRICE', '14.90\xe2\x82\xac', 'Preis']]"

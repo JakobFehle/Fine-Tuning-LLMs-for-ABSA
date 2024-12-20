@@ -1,7 +1,0 @@
-b"[['AMBIENCE#GENERAL', 'POSITIVE', 'live jazz band'], ['AMBIENCE#GENERAL', 'POSITIVE', 'atmosphere'], ['FOOD#GENERAL', 'NEUTRAL', 'Lobster Cobb Salad']]"
-b"[['SEATS#COMFORT', 'NEGATIVE', 'seats']]"
-b"[['FOOD#QUALITY', 'POSITIVE', 'bagels'], ['DRINKS#STYLE_OPTIONS', 'POSITIVE', 'beverage selections'], ['FOOD#GENERAL', 'POSITIVE', 'spreads']]"
-b"[['SERVICE#GENERAL', 'POSITIVE', 'service'], ['FOOD#QUALITY', 'POSITIVE', 'food'], ['FOOD#MISCELLANEOUS', 'POSITIVE', 'hot sauce']]"
-b"[['FOOD#STYLE_OPTIONS', 'POSITIVE', 'special roll'], ['FOOD#STYLE_OPTIONS', 'POSITIVE', 'regular roll'], ['FOOD#GENERAL', 'POSITIVE', 'dessert']]"
-b'[[\'FOOD#GENERAL\', \'POSITIVE\', "Patsy\'s Pizza"]]'
-b"[['FOOD#QUALITY', 'POSITIVE', 'NULL'], ['FOOD#PRICES', 'NEGATIVE', 'NULL'], ['FOOD#FRESHNESS', 'POSITIVE', 'NULL']]"

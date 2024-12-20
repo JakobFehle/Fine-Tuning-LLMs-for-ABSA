@@ -1,2 +1,0 @@
-b"[['DOG#QUALITY', 'POSITIVE', 'organic dog'], ['SERVICE#GENERAL', 'POSITIVE', 'conscious eco friendly establishment']]"
-b"[['FOOD#PRICES', 'EXPENSIVE', 'lunch buffet'], ['FOOD#QUALITY', 'POSITIVE', 'lunch buffet']]"

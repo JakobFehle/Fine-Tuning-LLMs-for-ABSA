@@ -1,2 +1,0 @@
-b"[['LOCATION', 'POSITIVE', 'Location'], ['SERVICE', 'POSITIVE', 'Personal'], ['FOOD', 'POSITIVE', 'Essen'], ['FOOD', 'POSITIVE', 'Bier'], ['FACILITIES', 'POSITIVE', 'Tisch']]"
-b"[['LOCATION', 'POSITIVE', 'Location'], ['SERVICE', 'POSITIVE', 'Personal'], ['FOOD', 'POSITIVE', 'Essen'], ['FOOD', 'POSITIVE', 'Bier'], ['FACILITIES', 'POSITIVE', 'Tisch']]"

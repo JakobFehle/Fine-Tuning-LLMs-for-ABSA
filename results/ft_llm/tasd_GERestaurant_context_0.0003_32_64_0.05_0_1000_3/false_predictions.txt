@@ -1,4 +1,0 @@
-b"[['FOOD', 'PRICE', 'Pizza']]"
-b"[['FOOD', 'PRICE', 'Essen']]"
-b"[['FOOD', 'SERVICE', 'Menu']]"
-b"[['FOOD', 'PRICE', 'Bier']]"

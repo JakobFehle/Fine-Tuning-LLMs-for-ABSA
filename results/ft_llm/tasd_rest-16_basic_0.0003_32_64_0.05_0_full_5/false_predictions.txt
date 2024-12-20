@@ -1,3 +1,0 @@
-b"[['FOOD#STYLE_OPTIONS', 'NEUTRAL', 'dishes'], ['DRINKS#SERVICE', 'POSITIVE', 'wine'], ['AMBIENCE#GENERAL', 'POSITIVE', 'atmosphere']]"
-b"[['FOOD#SPICE_LEVEL', 'NEUTRAL', 'NULL']]"
-b"[['FOOD#QUALITY', 'NEUTRAL', 'Thai food'], ['FOOD#DELIVERY', 'NEGATIVE', 'delivery']]"

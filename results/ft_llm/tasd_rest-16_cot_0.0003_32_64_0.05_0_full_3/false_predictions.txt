@@ -1,3 +1,0 @@
-b"[['FOOD# STYLE_OPTIONS', 'POSITIVE', 'decor'], ['FOOD# QUALITY', 'POSITIVE', 'pita'], ['FOOD# QUALITY', 'POSITIVE', 'hummus']]"
-b"[['FOOD# STYLE_OPTIONS', 'POSITIVE', 'decor'], ['FOOD# QUALITY', 'POSITIVE', 'pita'], ['FOOD# QUALITY', 'POSITIVE', 'hummus']]"
-b"[['FOOD# STYLE_OPTIONS', 'POSITIVE', 'decor'], ['FOOD# QUALITY', 'POSITIVE', 'pita'], ['FOOD# QUALITY', 'POSITIVE', 'hummus']]"

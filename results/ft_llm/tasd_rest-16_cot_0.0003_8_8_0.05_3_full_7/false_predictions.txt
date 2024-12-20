@@ -1,2 +1,0 @@
-b"[['CULTURE#GENERAL', 'POSITIVE', 'place']]"
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'shows and actors']]"

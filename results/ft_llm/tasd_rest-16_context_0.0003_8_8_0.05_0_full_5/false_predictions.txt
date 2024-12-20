@@ -1,1 +1,0 @@
-b"[['FOOD#STYLE_OPTIONS', 'NEGATIVE', 'ingredients'], ['FOOD#CRUST', 'NEGATIVE', 'crust']]"

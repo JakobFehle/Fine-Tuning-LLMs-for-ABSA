@@ -1,3 +1,0 @@
-b"['PERSONAL']"
-b"['WAITING-TIME']"
-b"['LOCATION']"

@@ -1,1 +1,0 @@
-b"[['FOOD', 'POSITIVE', 'Essen'], ['PRICE', 'POSITIVE', 'Preis-Leistungsverh\xc3\xa4ltnis'], ['AMBIENCE', 'POSITIVE', 'Ambiente'], ['BIERAUSWahl', 'POSITIVE', 'Bierauswahl'], ['SERVICE', 'POSITIVE', 'Wartezeit'], ['SERVICE', 'POSITIVE', 'Bedienung Lena']]"

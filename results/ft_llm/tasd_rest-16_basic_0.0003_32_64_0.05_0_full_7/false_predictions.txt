@@ -1,2 +1,0 @@
-b"[['DRINKS#DRINKS#QUALITY', 'POSITIVE', 'wine']]"
-b"[['DRINKS#DRINKS#STYLE_OPTIONS', 'POSITIVE', 'drinks menu']]"

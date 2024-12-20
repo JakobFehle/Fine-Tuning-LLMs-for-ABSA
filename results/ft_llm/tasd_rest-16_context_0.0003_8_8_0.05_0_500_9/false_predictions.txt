@@ -1,1 +1,0 @@
-b"[['AMBIENCE#GENERAL', 'POSITIVE', 'atmosphere'], ['FOOD#STYLE_OPTIONS', 'POSITIVE', 'dishes'], ['DRINKS#SERVICE', 'POSITIVE', 'wine']]"

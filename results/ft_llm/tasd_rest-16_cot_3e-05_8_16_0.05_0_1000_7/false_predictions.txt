@@ -1,4 +1,0 @@
-b"[['LANGUAGE', 'NEUTRAL', 'signs, the specials menus, food, and even all the waitstaff']]"
-b"[['ENTERTAINMENT', 'POSITIVE', 'entertainment']]"
-b"[['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'boths']]"
-b"[['ENTERTAINMENT', 'NEGATIVE', 'belly dancers']]"

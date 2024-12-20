@@ -1,1 +1,0 @@
-b"[['RESTAURANT#GENERAL', 'NEGATIVE', 'NULL'], ['SERVICE#GENERAL', 'NEGATIVE', 'staff'], ['WAITING#GENERAL', 'NEGATIVE', 'wait for a table']]"

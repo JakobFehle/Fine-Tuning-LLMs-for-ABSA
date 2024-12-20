@@ -1,6 +1,0 @@
-b"[['AMBIENCE', 'POSITIVE', 'garden terrace']]"
-b"[['AMBIENCE', 'POSITIVE', 'entertainment']]"
-b"[['AMBIENCE', 'POSITIVE', 'NULL']]"
-b"[['AMBIENCE', 'NEUTRAL', 'atmosphere']]"
-b"[['AMBIENCE', 'POSITIVE', 'booth']]"
-b"[['AMBIENCE', 'POSITIVE', 'NULL']]"

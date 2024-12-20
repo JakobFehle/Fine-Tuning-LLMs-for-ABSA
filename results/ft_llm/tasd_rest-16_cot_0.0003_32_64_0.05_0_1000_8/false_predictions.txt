@@ -1,2 +1,0 @@
-b"[['FOOD#PREPARATION', 'NEGATIVE', 'chef']]"
-b"[['FOOD#MISCELLANEOUS', 'POSITIVE', 'food']]"

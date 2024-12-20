@@ -1,1 +1,0 @@
-b"[['PRICE', 'NEGATIVE', 'NULL'], ['QUALITY', 'NEGATIVE', 'Quality'], ['SERVICE', 'NEGATIVE', 'Koch']]"

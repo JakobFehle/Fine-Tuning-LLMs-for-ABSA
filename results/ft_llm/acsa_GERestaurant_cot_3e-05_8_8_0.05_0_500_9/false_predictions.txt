@@ -1,2 +1,0 @@
-b'aspect_label:sentiment_label'
-b'aspect_label:sentiment_label'

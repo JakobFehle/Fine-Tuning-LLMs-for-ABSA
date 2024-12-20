@@ -1,1 +1,0 @@
-b"[['RESTAURANT#STYLE_OPTIONS', 'NEGATIVE', 'wines by the glass']]"

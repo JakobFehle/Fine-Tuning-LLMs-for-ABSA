@@ -1,3 +1,0 @@
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
-b"[['FOOD#QUALITY', 'POSITIVE', 'meat'], ['FOOD#QUALITY', 'POSITIVE', 'sauces'], ['FOOD#GENERAL', 'POSITIVE', 'kimchi'], ['FOOD#GENERAL', 'POSITIVE', 'salad'], ['SERVICE#GENERAL', 'POSITIVE', 'service']]"
-b"[['FOOD#QUALITY', 'POSITIVE', 'meat'], ['FOOD#QUALITY', 'POSITIVE', 'sauces'], ['FOOD#GENERAL', 'POSITIVE', 'kimchi'], ['FOOD#GENERAL', 'POSITIVE', 'salad'], ['SERVICE#GENERAL', 'POSITIVE', 'service']]"

@@ -1,2 +1,0 @@
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
-b"[['LOCATION#MISCELLANEOUS', 'POSITIVE', 'spot'], ['AMBIENCE#GENERAL', 'POSITIVE', 'zen and intimate d\xc3\xa9cor']]"

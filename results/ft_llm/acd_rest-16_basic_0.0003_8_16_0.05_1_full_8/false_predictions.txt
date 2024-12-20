@@ -1,7 +1,0 @@
-b"['AMBIENCE', 'FOOD']"
-b"['FOOD#GENERAL']"
-b"['FOOD#GENERAL']"
-b"['AMBIENCE']"
-b"['AMBIENCE', 'SERVICE', 'FOOD']"
-b"['AMBIENCE', 'SERVICE', 'FOOD']"
-b"['AMBIENCE']"

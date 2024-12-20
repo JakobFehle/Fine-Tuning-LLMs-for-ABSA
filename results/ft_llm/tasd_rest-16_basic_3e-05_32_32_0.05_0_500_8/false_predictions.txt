@@ -1,2 +1,0 @@
-b"[['STYLE_OPTIONS#GENERAL', 'POSITIVE', 'BISTRO']]"
-b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#GENERAL', 'NEGATIVE', 'pizza']]"

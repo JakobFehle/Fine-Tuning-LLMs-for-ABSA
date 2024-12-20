@@ -1,2 +1,0 @@
-b"[['FOOD#GENERAL', 'POSITIVE', 'japanese restaurant']]"
-b"[['FOOD#GENERAL', 'NEGATIVE', 'restaurant']]"

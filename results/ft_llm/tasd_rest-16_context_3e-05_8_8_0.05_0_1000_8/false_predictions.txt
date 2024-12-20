@@ -1,2 +1,0 @@
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment'], ['ENTERTAINMENT#GENERAL', 'POSITIVE', 'shows']]"
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment'], ['ENTERTAINMENT#GENERAL', 'POSITIVE', 'shows']]"

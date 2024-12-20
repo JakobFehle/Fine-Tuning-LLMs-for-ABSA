@@ -1,3 +1,0 @@
-b"[['FOOD', 'POSITIVE', 'Essen'], ['DJ', 'POSITIVE', 'DJ']]"
-b"[['SERVICE', 'POSITIVE', 'Service'], ['PHOTOS', 'POSITIVE', 'Fotos'], ['GENERAL-IMPRESSION', 'POSITIVE', 'Gespr\xc3\xa4ch']]"
-b'[[\'AMBIENCE\', \'POSITIVE\', \'Tisch\'], [\'"Kerzenhalter"\', \'POSITIVE\', \'Kerzenhalter\']]'

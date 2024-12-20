@@ -1,1 +1,0 @@
-b"[['SERVICE', 'POSITIVE', 'Service'], ['K\xc3\x9cCHE', 'NEGATIVE', 'K\xc3\xbcche']]"

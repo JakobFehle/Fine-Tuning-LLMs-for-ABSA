@@ -1,1 +1,0 @@
-b"[['AMBIENCE', 'POSITIVE', 'Ambiente'], ['WEATHER', 'POSITIVE', 'Wetter'], ['SERVICE', 'POSITIVE', 'Bedienung']]"

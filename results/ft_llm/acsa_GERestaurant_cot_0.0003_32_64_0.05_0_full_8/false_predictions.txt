@@ -1,5 +1,0 @@
-b'FOOD:POSitiv'
-b'DJ:POSITIVE'
-b'FOOD:POSitiv'
-b'auf die Frage:ob weniger K\xc3\xa4se auf der Pizza m\xc3\xb6glich w\xc3\xa4re, gabs nur ein nein als Antwort'
-b'SERVICE:POSitiv'

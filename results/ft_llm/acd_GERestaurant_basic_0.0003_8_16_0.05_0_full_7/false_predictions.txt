@@ -1,3 +1,0 @@
-b"['PEOPLE']"
-b"['PHOTOS']"
-b"['EVENT']"

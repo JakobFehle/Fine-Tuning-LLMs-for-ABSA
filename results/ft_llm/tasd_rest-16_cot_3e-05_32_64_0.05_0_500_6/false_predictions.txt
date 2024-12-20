@@ -1,2 +1,0 @@
-b'[[\'FOOD#SERVICE\', \'NEGATIVE\', "toast your bagel, and they don\'t make eggs for the bagel"]]'
-b"[['FOOD#PRICES', 'MIXED', 'lunch buffet']]"

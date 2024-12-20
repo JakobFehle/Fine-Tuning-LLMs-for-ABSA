@@ -1,2 +1,0 @@
-b"[['AMBIENCE#GENERAL', 'POSITIVE', 'ambient'], ['AMBIENCE#PRICES', 'POSITIVE', 'ambient']]"
-b"[['SERVICE#GENERAL', 'NEUTRAL', 'Service'], ['SERVICE#PRICES', 'NEGATIVE', 'Service']]"

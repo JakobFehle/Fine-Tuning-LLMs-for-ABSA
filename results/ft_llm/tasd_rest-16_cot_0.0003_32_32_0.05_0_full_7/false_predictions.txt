@@ -1,3 +1,0 @@
-b'[[\'FOOD#STYLE_OPTIONS\', \'NULL\', \'NULL\'], [\'FOOD#QUALITY\', \'"pistachio ice cream"\', \'pistachio ice cream\']]'
-b'[[\'FOOD#STYLE_OPTIONS\', \'NULL\', \'NULL\'], [\'FOOD#QUALITY\', \'"pistachio ice cream"\', \'pistachio ice cream\']]'
-b"[['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"

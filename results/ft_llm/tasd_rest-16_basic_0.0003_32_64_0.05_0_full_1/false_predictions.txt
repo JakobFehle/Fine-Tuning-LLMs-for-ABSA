@@ -1,3 +1,0 @@
-b"[['AMUSEMENT', 'POSITIVE', 'place']]"
-b"[['AMUSEMENT', 'POSITIVE', 'entertainment']]"
-b"[['AMUSEMENT', 'POSITIVE', 'entertainment']]"

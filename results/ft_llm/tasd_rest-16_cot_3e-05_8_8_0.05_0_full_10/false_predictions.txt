@@ -1,2 +1,0 @@
-b"[['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"
-b"[['FOOD#PRICES', 'MIXED', 'lunch buffet']]"

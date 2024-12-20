@@ -1,3 +1,0 @@
-b"[['LOCATION', 'POSITIVE', 'Location'], ['SERVICE', 'POSITIVE', 'Personal'], ['FOOD', 'POSITIVE', 'Essen'], ['FOOD', 'POSITIVE', 'Bier'], ['SERVICE', 'POSITIVE', 'Personal']]"
-b"[['FOOD', 'POSITIVE', 'Essen'], ['AMBIENCE', 'POSITIVE', 'Ambiente'], ['SERVICE', 'POSITIVE', 'Service'], ['ACTIVITIES', 'POSITIVE', 'Turmbesteigung'], ['SERVICE', 'POSITIVE', 'Lotter-F\xc3\xbchrung']]"
-b"[['WAITING-TIMES', 'POSITIVE', 'Wartezeit']]"

@@ -1,3 +1,0 @@
-b'PRICE:grenzwertig'
-b'PRICE:geht gar LOC hat deutlich Luft nach oben'
-b'SERVICE:bem\xc3\xbcht, bei \xe2\x80\x9avoller H\xc3\xbctte\xe2\x80\x98 allerdings nicht zu beneiden.'

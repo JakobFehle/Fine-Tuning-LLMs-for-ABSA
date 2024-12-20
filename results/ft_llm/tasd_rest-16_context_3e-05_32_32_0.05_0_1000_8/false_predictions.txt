@@ -1,2 +1,0 @@
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'shows']]"
-b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#COOKING#TEMPERATURE', 'NEGATIVE', 'pizza']]"

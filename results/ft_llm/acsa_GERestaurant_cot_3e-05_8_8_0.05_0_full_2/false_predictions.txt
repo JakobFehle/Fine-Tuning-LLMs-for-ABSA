@@ -1,4 +1,0 @@
-b'aspect_1:sentiment_1'
-b'aspect_2:sentiment_2'
-b'aspect_1:sentiment_1'
-b'aspect_2:sentiment_2'

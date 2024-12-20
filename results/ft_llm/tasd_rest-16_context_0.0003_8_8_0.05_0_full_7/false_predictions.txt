@@ -1,1 +1,0 @@
-b"[['DOG#GENERAL', 'POSITIVE', 'dog'], ['RESTAURANT#MISCELLANEOUS', 'POSITIVE', 'establishment']]"

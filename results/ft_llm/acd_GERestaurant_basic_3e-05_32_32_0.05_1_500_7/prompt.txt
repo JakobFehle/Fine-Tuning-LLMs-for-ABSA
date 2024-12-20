@@ -1,1 +1,0 @@
-b'### Instruction:\nYou are an advanced AI for text classification, specialized in aspect-based sentiment analysis for texts in German. Identify all aspects (FOOD, SERVICE, PRICE, AMBIENCE, GENERAL-IMPRESSION) that are addressed in the sentence.\n\n### Input:\nGem\xc3\xbctliche Atmung und rustikale Deko an W\xc3\xa4nden. \n\n### Output:\n'

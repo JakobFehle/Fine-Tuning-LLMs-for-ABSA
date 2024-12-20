@@ -1,2 +1,0 @@
-b"[['WAITING-TIMES', 'NEGATIVE', 'NULL']]"
-b"[['LOCATION', 'POSITIVE', 'Location'], ['FOOD', 'POSITIVE', 'Essen'], ['SERVICE', 'POSITIVE', 'Service']]"

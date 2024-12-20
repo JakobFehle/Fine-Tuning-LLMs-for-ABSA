@@ -1,2 +1,0 @@
-b"[['FOOD#GENERAL', 'POSITIVE', 'chicken lollipop'], ['FOOD#GENERAL', 'NEGATIVE', 'NULL']]"
-b"[['FOOD#GENERAL', 'POSITIVE', 'chicken lollipop'], ['FOOD#GENERAL', 'NEGATIVE', 'NULL']]"

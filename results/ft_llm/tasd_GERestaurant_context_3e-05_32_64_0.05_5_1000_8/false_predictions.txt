@@ -1,2 +1,0 @@
-b"[['AMBIENCE', 'NEUTRAL', 'Ambiente'], ['NOISE', 'NEGATIVE', 'Umgebungsger\xc3\xa4usche']]"
-b"[['FOOD', 'POSITIVE', 'Bier'], ['PRICE', 'POSITIVE', 'Bier'], ['FOOD', 'POSITIVE', 'Augustiner Schmakerl'], ['PRICE', 'MODERATE', 'Augustiner Schmakerl']]"

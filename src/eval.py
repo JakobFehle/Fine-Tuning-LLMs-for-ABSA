@@ -8,15 +8,20 @@ import time
 import glob
 import pandas as pd
 import numpy as np
+import sys
+
+utils = os.path.abspath('../../src/utils/')
+sys.path.append(utils)
+
 from tqdm import tqdm
 from datetime import datetime
 from transformers import set_seed
 from vllm import LLM, SamplingParams
 from vllm.lora.request import LoRARequest
 from accelerate.utils import release_memory
-from utils.preprocessing import loadDataset, createPrompts
-from utils.config import Config
-from utils.evaluation import (
+from preprocessing import loadDataset, createPrompts
+from config import Config
+from evaluation import (
     StoppingCriteriaSub, createResults, extractAspects, convertLabels, sortCheckpoints
 )
 

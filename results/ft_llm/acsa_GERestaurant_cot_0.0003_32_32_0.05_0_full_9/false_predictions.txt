@@ -1,7 +1,0 @@
-b''
-b'9:80'
-b'8:90'
-b''
-b''
-b''
-b'trotz teilweise hochwertiger Zutaten:wie Tr\xc3\xbcffel'

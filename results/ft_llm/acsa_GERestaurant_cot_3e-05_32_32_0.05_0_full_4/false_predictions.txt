@@ -1,3 +1,0 @@
-b'-1:PRICE'
-b'1:PRICE'
-b'-:PRICE'

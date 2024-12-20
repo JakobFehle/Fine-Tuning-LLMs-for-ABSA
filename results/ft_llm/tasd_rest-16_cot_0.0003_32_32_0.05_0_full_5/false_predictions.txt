@@ -1,1 +1,0 @@
-b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['AMBIENCE#GENERAL', 'POSITIVE', 'place'], ['AMBIENCE#PRICES', 'POSITIVE', 'place']]"

@@ -1,7 +1,0 @@
-b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#COOKING', 'NEGATIVE', 'pizza']]"
-b"[['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'trash can'], ['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'soap'], ['RESTROOM#GENERAL', 'NEGATIVE', 'hand towels']]"
-b"[['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'trash can'], ['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'soap'], ['RESTROOM#GENERAL', 'NEGATIVE', 'hand towels']]"
-b"[['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'trash can'], ['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'soap'], ['RESTROOM#GENERAL', 'NEGATIVE', 'hand towels']]"
-b"[['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'trash can'], ['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'soap'], ['RESTROOM#GENERAL', 'NEGATIVE', 'hand towels']]"
-b"[['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'trash can'], ['RESTROOM#GENERAL', 'NEGATIVE', 'floor'], ['RESTROOM#GENERAL', 'NEGATIVE', 'soap'], ['RESTROOM#GENERAL', 'NEGATIVE', 'hand towels']]"
-b"[['RESTAURANT#STYLE_OPTIONS', 'POSITIVE', 'boths']]"

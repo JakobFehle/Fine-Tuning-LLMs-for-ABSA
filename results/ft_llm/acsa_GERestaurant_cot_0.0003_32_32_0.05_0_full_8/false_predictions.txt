@@ -1,2 +1,0 @@
-b'AMBIence:POSITIVE'
-b'AMBIence:NEGATIVE'

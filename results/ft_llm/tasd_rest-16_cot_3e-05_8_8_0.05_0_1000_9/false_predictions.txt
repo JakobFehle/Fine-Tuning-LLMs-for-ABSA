@@ -1,2 +1,0 @@
-b"[['HYGIENE', 'NEGATIVE', 'floor']]"
-b"[['RESTAURANT#PRICES', 'MIXED', 'lunch buffet']]"

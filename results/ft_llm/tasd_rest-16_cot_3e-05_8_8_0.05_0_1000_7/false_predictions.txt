@@ -1,5 +1,0 @@
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'soap'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'soap'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'soap'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['HYGIENE', 'NEGATIVE', 'floor'], ['HYGIENE', 'NEGATIVE', 'trash can'], ['HYGIENE', 'NEGATIVE', 'soap'], ['HYGIENE', 'NEGATIVE', 'hand towels']]"
-b"[['FOOD#QUALITY', 'MIXED', 'food']]"

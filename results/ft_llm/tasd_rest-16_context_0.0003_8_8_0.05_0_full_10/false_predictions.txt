@@ -1,2 +1,0 @@
-b"[['RESTAURANT#GENERAL', 'POSITIVE', 'signs'], ['RESTAURANT#GENERAL', 'POSITIVE', 'specials menus'], ['FOOD#GENERAL', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'waitstaff']]"
-b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#COOKING', 'NEGATIVE', 'pizza']]"

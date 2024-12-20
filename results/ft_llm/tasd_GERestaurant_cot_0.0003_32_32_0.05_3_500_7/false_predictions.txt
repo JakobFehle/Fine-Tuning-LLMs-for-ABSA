@@ -1,4 +1,0 @@
-b"[['Bier', 'NEGATIVE', 'Bier'], ['Haxe', 'NEGATIVE', 'Haxe'], ['Krautsalat', 'NEGATIVE', 'Krautsalat']]"
-b"[['Bier', 'NEGATIVE', 'Bier'], ['Haxe', 'NEGATIVE', 'Haxe'], ['Krautsalat', 'NEGATIVE', 'Krautsalat']]"
-b"[['Bier', 'NEGATIVE', 'Bier'], ['Haxe', 'NEGATIVE', 'Haxe'], ['Krautsalat', 'NEGATIVE', 'Krautsalat']]"
-b"[['TIME', 'NEGATIVE', 'NULL']]"

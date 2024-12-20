@@ -1,5 +1,0 @@
-b"[['DRINKS#STYLE_OPTIONS', 'POSITIVE', 'drinks'], ['PRICES', 'POSITIVE', 'wine']]"
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
-b"[['ENTERTAINMENT#GENERAL', 'POSITIVE', 'entertainment']]"
-b"[['FOOD#QUALITY', 'POSITIVE', 'food'], ['PRICES', 'POSITIVE', 'price']]"
-b"[['PRICES', 'POSITIVE', 'price']]"

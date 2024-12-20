@@ -1,1 +1,0 @@
-b"[['DOG#GENERAL', 'POSITIVE', 'organic dog'], ['RESTAURANT#MISCELLANEOUS', 'POSITIVE', 'conscious eco friendly establishment']]"

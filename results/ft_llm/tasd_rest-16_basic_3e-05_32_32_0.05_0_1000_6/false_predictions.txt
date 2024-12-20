@@ -1,3 +1,0 @@
-b"[['RESTAURANT#STYLE_OPTIONS', 'NEUTRAL', 'place'], ['AMBIENCE#GENERAL', 'POSITIVE', 'atmosphere'], ['FOOD#STYLE_OPTIONS', 'NEUTRAL', 'dishes'], ['SERVICE#GENERAL', 'POSITIVE', 'wine'], ['SERVICE#GENERAL', 'POSITIVE', 'efficiently']]"
-b"[['FOOD#QUALITY', 'NEGATIVE', 'pizza'], ['FOOD#COOKING', 'NEGATIVE', 'pizza']]"
-b"[['RESTAURANT#STYLE_OPTIONS', 'NEUTRAL', 'boths']]"

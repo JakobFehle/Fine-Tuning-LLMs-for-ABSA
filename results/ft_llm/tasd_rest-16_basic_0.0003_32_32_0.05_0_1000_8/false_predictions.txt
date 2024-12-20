@@ -1,2 +1,0 @@
-b"[['AMBIENCE#MISCELLANEOUS', 'POSITIVE', 'booths']]"
-b"[['FOOD#SERVICE', 'POSITIVE', 'NULL']]"

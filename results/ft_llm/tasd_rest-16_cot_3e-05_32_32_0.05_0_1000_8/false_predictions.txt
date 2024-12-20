@@ -1,3 +1,0 @@
-b"[['FOOD#GENERAL', 'NEGATIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'waitstaff']]"
-b"[['ENTERTAINMENT#GENERAL', 'NEGATIVE', 'belly dancers']]"
-b"[['FOOD#QUALITY', 'NEGATIVE', 'food'], ['ENTERTAINMENT#GENERAL', 'NEUTRAL', 'show']]"

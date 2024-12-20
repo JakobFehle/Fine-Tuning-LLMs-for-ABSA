@@ -1,1 +1,0 @@
-b"[['AMBIENCE#GENERAL', 'POSITIVE', 'signs'], ['SPECIALS#STYLE_OPTIONS', 'POSITIVE', 'specials menus'], ['FOOD#QUALITY', 'POSITIVE', 'food'], ['SERVICE#GENERAL', 'POSITIVE', 'waitstaff']]"
