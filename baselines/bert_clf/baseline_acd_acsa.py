@@ -1,9 +1,13 @@
 import pandas as pd
 import numpy as np
 import torch
-import os
+import os, sys
 import transformers
 import argparse
+
+utils = os.path.abspath('../src/utils/') # Relative path to utils scripts
+print(utils)
+sys.path.append(utils)
 
 from dataclasses import dataclass, field
 from datasets import Dataset
@@ -11,8 +15,8 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trai
 from scipy.special import expit
 from torch.utils.data import Dataset as TorchDataset
 from transformers import DataCollatorWithPadding
-from utils.preprocessing import loadDataset
-from utils.evaluation import createResults, convertLabels, extractAspects
+from preprocessing import loadDataset
+from evaluation import createResults, convertLabels, extractAspects
 from sklearn.preprocessing import MultiLabelBinarizer
 from typing import Optional
 
@@ -43,10 +47,10 @@ class DataArgs:
     
 @dataclass
 class TrainingArgs:
-    output_path: Optional[str] = field(
-        default="../results/bert-clf"
-    )
     model_name: str = field()
+    output_path: Optional[str] = field(
+        default="../results/bert_clf"
+    )
     learning_rate: Optional[float] = field(
         default=5e-5
     )
@@ -76,9 +80,10 @@ class CustomDataset(TorchDataset):
 class MultiLabelABSA:
     def __init__(self, args):
         self.task = args.task
+        self.model_name = args.model_name
         self.split = args.split
         self.lr_setting = args.lr_setting
-        train, evaluation, self.label_space = loadDataset(args.dataset, args.lr_setting, args.task, args.split, args.original_split)
+        train, evaluation, self.label_space = loadDataset(args.data_path, args.dataset, args.lr_setting, args.task, args.split)
         self.dataset_name = args.dataset
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
         self.train, self.eval = self.preprocessData(train, self.task, self.tokenizer, True), self.preprocessData(evaluation, self.task, self.tokenizer)
@@ -161,7 +166,7 @@ class MultiLabelABSA:
             logging_dir="logs",
             logging_steps=100,
             logging_strategy="epoch",
-            max_steps = args.max_steps,
+            max_steps = args.steps,
             bf16=True,
             report_to="none"
         )
@@ -189,19 +194,19 @@ class MultiLabelABSA:
 
         # Save results as tsv
         if not os.path.exists(results_path):
-            os.makedirs(output_path, exist_ok=True)
+            os.makedirs(results_path, exist_ok=True)
             
         if self.task == 'acd':
-            results, predictions = trainer.evaluate()
+            results = trainer.evaluate()
             results_asp, _, _, _, _ = self.results
             
-            pd.DataFrame.from_dict(self.results_asp).transpose().to_csv(results_path + 'metrics_asp.tsv', sep = "\t")
+            pd.DataFrame.from_dict(results_asp).transpose().to_csv(results_path + 'metrics_asp.tsv', sep = "\t")
                 
         else:
-            results, predictions = trainer.evaluate()
+            results = trainer.evaluate()
             results_asp, results_asp_pol, results_pairs, results_pol, _ = self.results
             
-            pd.DataFrame.from_dict(sesults_asp).transpose().to_csv(results_path + 'metrics_asp.tsv', sep = "\t")
+            pd.DataFrame.from_dict(results_asp).transpose().to_csv(results_path + 'metrics_asp.tsv', sep = "\t")
             pd.DataFrame.from_dict(results_asp_pol).transpose().to_csv(results_path + 'metrics_asp_pol.tsv', sep = "\t")
             pd.DataFrame.from_dict(results_pairs).transpose().to_csv(results_path + 'metrics_pairs.tsv', sep = "\t")
             pd.DataFrame.from_dict(results_pol).transpose().to_csv(results_path + 'metrics_pol.tsv', sep = "\t")
@@ -219,7 +224,7 @@ class MultiLabelABSA:
 
         trainer = self.trainModel(args.learning_rate, args.epochs, int(args.batch_size/self.gpu_count))
 
-        results_path = f'{self.output_path}{self.task}_{self.dataset_name}_{self.lr_setting}_6_{round(args.batch_size,9)}_{args.batch_size}_{args.epochs}/' 
+        results_path = f'{args.output_path}{self.task}_{self.dataset_name}_{self.lr_setting}_{self.split}_{round(args.learning_rate,9)}_{args.batch_size}_{args.epochs}/' 
 
         
         self.evalModel(trainer, results_path)

@@ -8,7 +8,8 @@ import numpy as np
 BATCH_SIZE = 16
 BASE_EPOCHS = 3
 MAX_STEPS = 0
-RESULTS_PATH = '../results/bert-clf/'
+RESULTS_PATH = '../results/bert_clf/'
+DATA_PATH = '../../data/'
 
 ###
 # Hyperparameter Validation Phase
@@ -37,7 +38,7 @@ for LR_SETTING in [0, 1000, 500]:
     
                         # Transform to #Epochs for Output-Path
                         EPOCHS = round(MAX_STEPS / low_resource_steps_per_e)
-                    command = f"CUDA_VISIBLE_DEVICES={int(sys.argv[1])} python3 bert_clf/baseline_acd_acsa.py --task {TASK} --lr_setting {LR_SETTING} --split {SPLIT} --dataset {DATASET} --model_name {MODEL_NAME} --learning_rate {LEARNING_RATE} --batch_size {BATCH_SIZE} --epochs {BASE_EPOCHS if STEPS == False else EPOCHS} --steps {MAX_STEPS} --output_path {RESULTS_PATH}"
+                    command = f"CUDA_VISIBLE_DEVICES={int(sys.argv[1])} python3 bert_clf/baseline_acd_acsa.py --task {TASK} --lr_setting {LR_SETTING} --split {SPLIT} --dataset {DATASET} --model_name {MODEL_NAME} --learning_rate {LEARNING_RATE} --batch_size {BATCH_SIZE} --epochs {BASE_EPOCHS if STEPS == False else EPOCHS} --steps {MAX_STEPS} --output_path {RESULTS_PATH} --data_path {DATA_PATH}"
                     process = subprocess.Popen(command, shell=True)
                     process.wait()
 
@@ -46,14 +47,11 @@ for LR_SETTING in [0, 1000, 500]:
 # Cross-Evaluation Phase
 ###
 
-METHOD = 'mlcf'
-RESULTS_PATH = '../results'
-
-col_names = ['task', 'dataset', 'lr-setting', 'split', 'learning-rate', 'batch_size', 'epochs', 'f1-micro', 'f1-macro', 'accuracy']
-folder_names = [folder for folder in os.listdir(os.path.join(RESULTS_PATH, METHOD)) if os.path.isdir(os.path.join(RESULTS_PATH, METHOD, folder)) and folder != '.ipynb_checkpoints']
+col_names = ['task', 'dataset', 'lr_setting', 'split', 'learning_rate', 'batch_size', 'epochs', 'f1-micro', 'f1-macro', 'accuracy']
+folder_names = [folder for folder in os.listdir(os.path.join(RESULTS_PATH)) if os.path.isdir(os.path.join(RESULTS_PATH, folder)) and folder != '.ipynb_checkpoints']
 
 runs = []
-
+print(folder_names)
 for folder_name in folder_names:
     try:
         
@@ -70,7 +68,7 @@ for folder_name in folder_names:
         elif cond_parameters[0] == 'acsd':
             filename = 'metrics_phrases.tsv'
 
-        df = pd.read_csv(os.path.join(RESULTS_PATH, METHOD, folder_name,filename), sep = '\t')
+        df = pd.read_csv(os.path.join(RESULTS_PATH, folder_name,filename), sep = '\t')
         df = df.set_index(df.columns[0])
         
         cond_parameters.append(df.loc['Micro-AVG', 'f1'])
@@ -80,19 +78,20 @@ for folder_name in folder_names:
     except:
         pass
 
+
 results_all = pd.DataFrame(runs, columns = col_names)
-results_all['learning-rate'] = results_all['learning-rate'].astype(float)
+results_all['learning_rate'] = results_all['learning_rate'].astype(float)
 
 for LR_SETTING in [0, 1000, 500]:
     for TASK in ['acd', 'acsa']:
         for SPLIT in [1,2,3,4,5]:
-            results_sub = results_all[np.logical_and.reduce([results_all['lr_setting'] == str(LOW_RESOURCE_SETTING), results_all['dataset'] == DATASET, results_all['task'] == TASK, results_all['split'] == '0'])].sort_values(by = ['f1-micro'], ascending = False)
+            results_sub = results_all[np.logical_and.reduce([results_all['lr_setting'] == str(LR_SETTING), results_all['dataset'] == DATASET, results_all['task'] == TASK, results_all['split'] == '0'])].sort_values(by = ['f1-micro'], ascending = False)
             results_sub = results_sub.reset_index()
         
             print(results_sub.head(3))
             
             LEARNING_RATE = results_sub.at[0, 'learning_rate']
-            EPOCHS = int(results_sub.at[0, 'epoch'])
+            EPOCHS = int(results_sub.at[0, 'epochs'])
 
             STEPS = True if EPOCHS != BASE_EPOCHS else False
 
@@ -110,6 +109,6 @@ for LR_SETTING in [0, 1000, 500]:
                 # Transform to #Epochs for Output-Path
                 EPOCHS = round(MAX_STEPS / low_resource_steps_per_e)
             
-            command = f"CUDA_VISIBLE_DEVICES={int(sys.argv[1])} python3 bert_clf/baseline_acd_acsa.py --task {TASK} --lr_setting {LR_SETTING} --split {SPLIT} --dataset {DATASET} --model_name {MODEL_NAME} --learning_rate {LEARNING_RATE} --batch_size {BATCH_SIZE} --epochs {BASE_EPOCHS if STEPS == False else EPOCHS} --steps {MAX_STEPS} --output_path {RESULTS_PATH}"
-                    process = subprocess.Popen(command, shell=True)
-                    process.wait()
+            command = f"CUDA_VISIBLE_DEVICES={int(sys.argv[1])} python3 bert_clf/baseline_acd_acsa.py --task {TASK} --lr_setting {LR_SETTING} --split {SPLIT} --dataset {DATASET} --model_name {MODEL_NAME} --learning_rate {LEARNING_RATE} --batch_size {BATCH_SIZE} --epochs {BASE_EPOCHS if STEPS == False else EPOCHS} --steps {MAX_STEPS} --output_path {RESULTS_PATH} --data_path {DATA_PATH}"
+            process = subprocess.Popen(command, shell=True)
+            process.wait()
