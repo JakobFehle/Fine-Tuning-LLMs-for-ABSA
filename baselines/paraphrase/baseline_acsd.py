@@ -253,10 +253,11 @@ class ParaphraseABSA:
                             labels_extracted.append([self.term_to_cat_dict[match.group(1)] if match.group(1) in self.term_to_cat_dict else match.group(1), self.term_to_pol_dict[match.group(2)] if match.group(2) in self.term_to_pol_dict else match.group(2), 'NULL' if match.group(3) == 'es' or match.group(3) == 'it' else match.group(3)])
             ground_truth_tuples.append(labels_extracted)
 
-        predictions, false_predictions = convertLabels(predictions_tuples, self.task, self.label_space)
+        self.predictions, self.false_predictions = convertLabels(predictions_tuples, self.task, self.label_space)
         ground_truths, _ = convertLabels(ground_truth_tuples, self.task, self.label_space)
-                
-        return createResults(predictions, ground_truths, self.label_space, self.task), predictions, false_predictions
+
+        self.results = createResults(self.predictions, ground_truths, self.label_space, self.task)
+        return self.results[4]
 
     def trainModel(self, lr, epochs, batch_size, args):
 
@@ -302,9 +303,9 @@ class ParaphraseABSA:
         if not os.path.exists(output_path):
             os.makedirs(output_path, exist_ok=True)
 
-        result, predictions, false_predictions = trainer.evaluate()
+        _ = trainer.evaluate()
         
-        results_asp, results_asp_pol, results_pairs, results_pol, results_phrases = result
+        results_asp, results_asp_pol, results_pairs, results_pol, results_phrases = self.results
         pd.DataFrame.from_dict(results_asp).transpose().to_csv(output_path + 'metrics_asp.tsv', sep = "\t")
         pd.DataFrame.from_dict(results_asp_pol).transpose().to_csv(output_path + 'metrics_asp_pol.tsv', sep = "\t")
         pd.DataFrame.from_dict(results_pairs).transpose().to_csv(output_path + 'metrics_pairs.tsv', sep = "\t")
@@ -317,17 +318,17 @@ class ParaphraseABSA:
         
         # Save outputs to file
         with open(output_path + 'predictions.txt', 'w') as f:
-            for line in predictions:
+            for line in self.predictions:
                 f.write(f"{str(line).encode('utf-8')}\n")
 
         # Save false output labels to file
-        if(len(false_predictions) > 0):
+        if(len(self.false_predictions) > 0):
             with open(output_path + 'false_predictions.txt', 'w') as f:
-                for line in false_predictions:
+                for line in self.false_predictions:
                     f.write(f"{str(line).encode('utf-8')}\n")
                 
     def train_eval(self, args):
-        results_path = f'{self.output_path}{self.task}_{self.dataset_name}_{self.lr_setting}_{self.split}_{round(learning_rate,9)}_{batch_size}_{num_train_epochs}/' 
+        results_path = f'{self.output_path}{self.task}_{self.dataset_name}_{self.lr_setting}_{self.split}_{round(args.learning_rate,9)}_{args.batch_size}_{args.epochs}/' 
         
         trainer = self.trainModel(args.learning_rate, args.epochs, int(args.batch_size/(self.gpu_count * args.gradient_steps)), args)
 

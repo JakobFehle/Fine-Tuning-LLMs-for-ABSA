@@ -1,0 +1,1246 @@
+yes_not	yes_not_pre	sentence	true_ner	predict_ner
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+1	1	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O B O O O O O O O O O	[CLS] O B O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] der kel lauf plan durch die gegen und wirkt u .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	1	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O B O O O O O O O O O O O O O O
+1	1	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O B O O O O O O O O O O B O O O	[CLS] O B O O O O O O O O O O O O O O B O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das trin steht aber mit auf dem kass . . . auf alle fa sind die preis ein echter ha - 4 , 20 eur fuer einen te ist schon de	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	1	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O B O O O O O O O	[CLS] O B O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der rot wurde zweimal viel zu warm serviert .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+1	1	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O B O O O O O O O	[CLS] O O O B I I O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] feine und gehoben gericht aus su , loc vor allem .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+1	1	[CLS] kann das restaur empfehlen !	[CLS] O O B O O	[CLS] O O B O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] kann das restaur empfehlen !	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+1	1	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O B O O O O O O O O O O O O O	[CLS] O O O B I I O O O O O O O B O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] damit war die sau in su ein wenig zu sal und hat die stein komplett u .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O B O O O O O O O O O O O
+0	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+1	0	[CLS] das amb ist einiger geblieben , mal abgesehen von ein paar bild .	[CLS] O B O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+1	1	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O B O O O O O O O B O B O	[CLS] O B O O O O O O O B O B O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] umfangreiche spe , fur jeden was dabei , von vor bis des .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O B O O O O O O O B O O O O	[CLS] O B O O O O O O O O O O O O B O O O O O O O B O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das preis der haupt bewegt sich zumeist bei u 30 eur , und ein p muss ebenso 8 eur kosten wie ein gra 10 , 00 !	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O B O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	1	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O B I I O O O O O O O O O O O O O O O O O
+0	0	[CLS] schlechter und un loc mehrere tis im außen noch tel und leer gl standen , hab ich mich fur den einzig leeren tis entschieden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	1	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O B O	[CLS] O O O O O O O B O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] es gibt auch eine große aus an bie .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O B O O O O O B O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O B O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O B O O O O O B O O O O O O O O O O O O O B O	[CLS] O B O O O O O O O O O O O O O O O B O O O O O B O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] liebe te der ste man , vielen dank fur den schon abend bei euch , den herzlich empf , den tollen und zuvor service und das sehr schm essen von hoher qualit , tolle zu und klass tim .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O B O O O O O O O O O	[CLS] O O B O B O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] sehr nette person und verstand , wenn man langer sitzen bleibt .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+1	1	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O B O O O O O O	[CLS] O O O B O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] so einen schlechten service hatten wir noch nicht erlebt .	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+1	1	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O B O O O O O O O O O O O O O O	[CLS] O O O B O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+1	1	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O B O O O	[CLS] O O O O O O O O O O O O O O B O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da auch der preis weiterhin absolut fair und angemessen ist , kon wir das restaur absolut empfehlen .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O B O	[CLS] O O O O O O O O O O O O B O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O B I I O O O B O O O O	[CLS] O O O B O B O O O B O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache und schnelle reserv via interne , super nette service , klass essen .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	1	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O B O O O O O
+1	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O B O O O B O	[CLS] O O O O O O O O O
+0	0	[CLS] loc mir wenig at und sehr viel gew .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+1	1	[CLS] sal waren ok , mehr auch nicht .	[CLS] B O O O O O O O	[CLS] B O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sal waren ok , mehr auch nicht .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O B O B O O O	[CLS] O O O O O O O O B O B O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	1	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O B O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] sehr freundlich und professionell , seine empf fur essen und wei waren top !	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O B O O O O O O O O O O O O O
+1	1	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O B O O O O O O O O O O O O O	[CLS] O O O O O O B O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] - : das vermein kn gebr ha war lau in der mi gemacht und kn war auch was anderes .	[CLS] O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O B I O O O O O O O O O O O O B I O O O O O O	[CLS] O B I O O O O O O O O O B O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die getr kur bestand darin , dass man statt dem u loc kur einfach nur getr ol auf die su getr hatte .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+1	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O B O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] insgesamt fehlen aber bei , wenigstens die eine to oder die drei kar zur beg waren nett .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+1	1	[CLS] das essen war hervorragend .	[CLS] O B O O O	[CLS] O B O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] das essen war hervorragend .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O B O O O O	[CLS] O O O O O O O O O O O O O O O O B O O O O
+0	1	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O B O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] als nicht - bayer brauchte wir ein paar erl bei der spe , wobei uns die kel freundlich beh war .	[CLS] O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+1	1	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O B O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] schon im gl sieht er un tr aus und schmeckt noch schlechter als er aussieht .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	1	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O B O O O O O O O O O
+1	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O B O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist loc und die at gleich eher fast fo als ver cu it !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+1	1	[CLS] das fr ist sehr schm und viel .	[CLS] O B O O O O O O	[CLS] O B O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das fr ist sehr schm und viel .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+1	1	[CLS] preis deutlich zu hoch .	[CLS] B O O O O	[CLS] B O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] preis deutlich zu hoch .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+1	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O B O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] dieses ca passt so gar nicht in die uns u entgegen gebracht lei freundlich .	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+1	1	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O B O O O O O O O O O O O O O O	[CLS] O O O O O B O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wir hatten ein a als kel und sie war sehr freundlich und hat uns nach w gefragt .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O B O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] beim vor mal hatten wir das gleiche erl mit den extrem langen warte .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+1	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O B O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das restaur ist sehr zentral gelegen , gerade beim loc .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+1	1	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O B O O O O O O O O O B I O	[CLS] O O B O O O O O O O O O B I O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] auch die wei ist sehr zu empfehlen sowie eine hervorragende aus an gra spezial !	[CLS] O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+1	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O B O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+1	1	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O B O O O O O O O O O O O	[CLS] O O O O O O B O O O O O O O O O O O
+0	0	[CLS] befried aus , leider sehr dre tis , platz direkt vor loc obwohl loc nur zu ca .	[CLS] O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	1	[CLS] der ap hat besch . . . gem .	[CLS] O B O O O O O O O	[CLS] O B O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] der ap hat besch . . . gem .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+1	0	[CLS] das essen war mehr als kost .	[CLS] O B O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	1	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O B O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das essen war mehr als kost .	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+1	1	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O B O B O O B O O O O O O O O O O	[CLS] O B O O O O B O O B O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+1	1	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O B O O O	[CLS] O O O O O O O O O O O O O B O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] von ta u ste und tollen des hat das essen und der tolle service das 1 .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	1	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O B O O
+1	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O B O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc . . . trotz reserv wo im voraus wurden wir im neben mit null amb pla .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	1	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O B O O O O O B O O O O O O O O O O O
+1	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O B O O O O O B O O O O O O O B O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] der gr schmeckt sehr me und die hei waren mit 3 st . und einer hi sehr u .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O B O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O B O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] da wurde wohl etwas geschl , als wir mal vorsichtig nach ob es noch lange dauern wurde . . . person war der abend komplett fehl .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+1	1	[CLS] kein preis , keine ru ! !	[CLS] O B O O O O O	[CLS] O B O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+1	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O B O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] kein preis , keine ru ! !	[CLS] O O O O O O O	[CLS] O O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+1	1	[CLS] das car war sehr le .	[CLS] O B O O O O	[CLS] O B O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das car war sehr le .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+1	1	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O B O	[CLS] O O O O O O O O B O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+1	1	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O B O O O O O O	[CLS] O O O B O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] guter und freundlich service und ein echt gutes essen !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O B O O O	[CLS] O O O O O O O O B O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O B O O O O O O O O O	[CLS] O O B O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] , die bed zuvor und lieben , die wei dazu passend .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+1	1	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O B O O O O O O O	[CLS] O O O O O B O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] im loc hat man die preis stark angehoben und die qualit verschlechter .	[CLS] O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+1	1	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O B I I O B O O O O	[CLS] O O B O I O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+1	1	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O B O	[CLS] O O O O O O O O O B O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] sehr le la mit kar und gem in schon amb .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+1	0	[CLS] service also lasst sehr zu w u .	[CLS] B O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] service also lasst sehr zu w u .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	1	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O B O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich bin loc und ich weiß , dass ich nicht die gleiche ku wie in loc finden kann , aber das ist eine echte beleid fur uns .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O B O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] hoff u bei mi qualit und einem ko , der kein deutsch versteht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	1	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O B O O O O O O
+1	1	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O B O O O O O O	[CLS] O O O O B O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] fur uns war das essen nur ok und nichts mehr .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+1	1	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O B O O O O O	[CLS] O O B O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] ein traditionelle restaur wie aus dem bild .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+1	1	[CLS] das schlechte schn seit langem .	[CLS] O O B O O O	[CLS] O O B O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] das schlechte schn seit langem .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] B O O O O O O O O O O O	[CLS] B O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O B O O O O	[CLS] O O O O O O O B O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] bie kann man gut trinken und der service war sehr nett .	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+1	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O B O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	1	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O B O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nach dem hin dazu an die ansonsten sehr aufmerksam service wurde lediglich ein hin an die ku ent .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O B O O O O O O O O O O O O	[CLS] O O O O O O B O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	1	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O B O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+1	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O B O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nette menschen , gutes und le essen - bin u tri drauf gekommen und werde definitiv wieder hing !	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O B O O	[CLS] O O O O O O O O O O B O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] ich hatte vor kurzem eine außer ent erf mit dem restaur loc gemacht .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O B O O O O O O O O O O	[CLS] O B O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O B O	[CLS] O O O O O O O O O O B O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+1	1	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O B O O O O O O O	[CLS] O O O O B O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] tolle essen , tolle at und ganz nette und aufmerksam service !	[CLS] O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O B O O O O O	[CLS] O O O O O O O O B O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O B O O O B O O O O O O O O	[CLS] O B O O O B O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O B	[CLS] O O O O O O O O O O O O O B
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] einfache reserv , sehr freundlich mit , le essen im schon und sauber amb	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+1	1	[CLS] le essen , nette person .	[CLS] O B O O O O	[CLS] O B O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+1	1	[CLS] le essen , nette person .	[CLS] O O O O B O	[CLS] O O O O B O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] le essen , nette person .	[CLS] O O O O O O	[CLS] O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+1	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O B I I I O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der fest gedeckt tis willkommen mit ke war ein echter hing und wur ra zum an .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+1	1	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O B O O O O O O O O O O O O O O O	[CLS] O B O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+1	1	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O B O O O O O O	[CLS] O O O O O O O O O O B O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] der service war me freundlich und es hatte eine famili at , obwohl es voll war .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+1	1	[CLS] es war leider kalt .	[CLS] B O O O O	[CLS] B O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] es war leider kalt .	[CLS] O O O O O	[CLS] O O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+1	1	[CLS] port auch ordentlich .	[CLS] B O O O	[CLS] B O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] port auch ordentlich .	[CLS] O O O O	[CLS] O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	1	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O B O O O O O O	[CLS] O O B O B O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O B I O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] kinder lieben trat , trat te liebt kinder .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+1	1	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O B O O O	[CLS] O O O O O O B O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] ich habe noch nie so le essen gegessen ! !	[CLS] O O O O O O O O O O	[CLS] O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O B O O O O B O O O O B O O O O O O O O O O	[CLS] O B O O O O B O O O O B O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] die loc war hart , das fe darunter fest und das fl z , trocken und ging nur schwer zu schneiden .	[CLS] O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O B I I O B I O O O O O O	[CLS] O O O O O O O O B I O O B O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe als haupt ein sk auf rote be pur und sau spitz gegessen und war sehr zufrieden .	[CLS] O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+1	1	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O B O O O O O O O O O O O	[CLS] O O O O O B O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] ich habe mich bei der bed u das loc besch , dies wurde aber gek ignoriert .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+1	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O B O O O	[CLS] O O O O O O O O B O O O B O O O
+1	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O B O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+1	1	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O B O O O O O O O O O O O O O O	[CLS] O B O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] das person ist nur aufge freundlich , das essen durchschnitt , die spe wenig attraktiv .	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+1	1	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O B O O O O O O O O	[CLS] O O B O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] die schon platz sind draußen an den ma der kirch !	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+1	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O B O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] anschließend hatte jeder ein maß bestellt , wo die fast die half des bie aus schau bestand , allein das grenzt an betrug .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O B O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O B O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] am end waren wir sehr ent von dem sehr un service , weshalb wir kein trin gegeben haben , daraufhin bekamen wir zum absch nicht mal ein ts .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	1	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O B O O O
+1	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O B O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] so ließen wir einen groß des sal stehen , weil wir eigentlich gute es satt waren .	[CLS] O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+1	1	[CLS] die ste und bu sahen me aus .	[CLS] O B O B O O O O	[CLS] O B O B O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] die ste und bu sahen me aus .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	1	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O B O B I I I O	[CLS] O O B O B I I I O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] sehr schon lag mit bl auf die loc .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	1	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O B I I O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O B O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O B O O O O O O O O O O B O O O O O O O O O O O O O O O O O O O O	[CLS] O O B O O O O O O O O O O B O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O B O O O O O O O O O B O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O B B O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O B O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O B O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] me le essen , super preis - leistungs , schon amb , le bie , kurze warte und das absolute high war unsere super sympath bed len , ein spezielle danke an sie .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+1	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O B O	[CLS] O O O O O O O O O O O
+0	1	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O B O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] nur noch 1 punkt u . . . der service .	[CLS] O O O O O O O O O O O	[CLS] O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O B O O	[CLS] O O O O O O O O O O O B O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	1	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O B O O O O O O O O O O O O	[CLS] O B O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+1	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O B O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] das essen war in ord , der service durchschnitt , der preis mittel .	[CLS] O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O B O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O B O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	1	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O B O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1	1	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O B O O O O B O O O O O O O	[CLS] O O O O O O O O O O O O O O O O B O O O O B O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer etwas besonderes sucht und das gewiss etwas , ist hier richtig : char , unauf fl , famili und person at und besondere , u unbekannte nud .	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O B I O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] wer sich best mo bestellt ein ste tar .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+1	1	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] B O O O O O O O O O O O O O O O	[CLS] B O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+1	1	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O B O O O O	[CLS] O O O O O O O O O O O B O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] essen le , vielleicht ein klein wenig zu lange gebraucht , bed freundlich und sauber !	[CLS] O O O O O O O O O O O O O O O O	[CLS] O O O O O O O O O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+1	1	[CLS] der kel war un und voll un .	[CLS] O B O O O O O O	[CLS] O B O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] der kel war un und voll un .	[CLS] O O O O O O O O	[CLS] O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+1	1	[CLS] auch die lag ist wie in bel it .	[CLS] O O B O O O O O O	[CLS] O O B O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O
+0	0	[CLS] auch die lag ist wie in bel it .	[CLS] O O O O O O O O O	[CLS] O O O O O O O O O

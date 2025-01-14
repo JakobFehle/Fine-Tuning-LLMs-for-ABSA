@@ -30,12 +30,8 @@ def sortCheckpoints(folders):
 
 def safe_recursive_pattern(depth, max_depth):
     quoted_content = r'"(?:[^"\\]|\\.)*"'  # Matches anything inside quotes.
-    
-    if depth == max_depth:
-        # Base case: stop recursion at max_depth, match anything except parentheses
+    if depth >= max_depth:
         return rf'(?:{quoted_content}|[^()])*'
-    
-    # Recursive case: match parentheses content, excluding quoted strings
     return rf'\((?:{quoted_content}|[^()]|{safe_recursive_pattern(depth + 1, max_depth)})*\)'
 
 def extract_valid_e2e_tuples(text):
@@ -55,8 +51,12 @@ def extractAspects(output, task, cot = False, evaluation = False):
     def strip_cot_output(output, keywords):
         for keyword in keywords:
             if keyword in output:
-                return output.split(keyword)[1]
+                return output.split(keyword)[-1]
         return output
+
+    # Validate Output
+    if output.count('(') != output.count(')'):
+        return []
 
     if cot and evaluation:
         keywords = [
@@ -65,7 +65,7 @@ def extractAspects(output, task, cot = False, evaluation = False):
             'folgenden Aspekt-Sentiment-Phrasen-Tripeln:', 'folgenden Aspekt-Sentiment-Phrasen-Tripel:',
             'the following aspect-sentiment-phrase-triple:', 'the following aspect-sentiment-phrase-triples:',
             'the following phrase-polarity-tuple:','the following phrase-polarity-tuples:'
-        ]
+        ]     
         output = strip_cot_output(output, keywords)
         
     if task == 'acd':
@@ -94,7 +94,7 @@ def extractAspects(output, task, cot = False, evaluation = False):
             #     for pair in pairs if pattern_phrase.search(pair) and pattern_pol.search(pair)
             # ]
         else:  # task == 'tasd'
-            max_depth = 1
+            max_depth = 5
             pattern_targets = re.compile(safe_recursive_pattern(0, max_depth))
             pairs = pattern_targets.findall(output)
             

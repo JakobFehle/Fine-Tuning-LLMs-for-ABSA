@@ -132,15 +132,21 @@ class MultiLabelABSA:
         
         # Extract Labels from outputs
         for gt in gold:
-            gold_extracted.append(extractAspects(', '.join(gt), self.task, False, False))
+            gold_extracted.append(extractAspects(f"[{', '.join(gt)}]", self.task, False, False))
     
         for pred in predictions:
-            pred_extracted.append(extractAspects(', '.join(pred), self.task, False, True))
+            pred_extracted.append(extractAspects(f"[{', '.join(pred)}]", self.task, False, True))
         
         gold_labels, _ = convertLabels(gold_extracted, self.task, self.label_space)
         pred_labels, false_predictions = convertLabels(pred_extracted, self.task, self.label_space)
         
-        return createResults(pred_labels, gold_labels, self.label_space, self.task), predictions
+        self.results = createResults(pred_labels, gold_labels, self.label_space, self.task)
+        self.predictions = predictions
+
+        if self.task == 'acd':
+            return self.results[0]
+        else:
+            return self.results[1]
 
     def trainModel(self, lr, epochs, batch_size):
 
@@ -187,13 +193,13 @@ class MultiLabelABSA:
             
         if self.task == 'acd':
             results, predictions = trainer.evaluate()
-            results_asp, _, _, _, _ = results
+            results_asp, _, _, _, _ = self.results
             
             pd.DataFrame.from_dict(self.results_asp).transpose().to_csv(results_path + 'metrics_asp.tsv', sep = "\t")
                 
         else:
             results, predictions = trainer.evaluate()
-            results_asp, results_asp_pol, results_pairs, results_pol, _ = results
+            results_asp, results_asp_pol, results_pairs, results_pol, _ = self.results
             
             pd.DataFrame.from_dict(sesults_asp).transpose().to_csv(results_path + 'metrics_asp.tsv', sep = "\t")
             pd.DataFrame.from_dict(results_asp_pol).transpose().to_csv(results_path + 'metrics_asp_pol.tsv', sep = "\t")
@@ -202,7 +208,7 @@ class MultiLabelABSA:
 
         # Save outputs to file
         with open(results_path + 'predictions.txt', 'w') as f:
-            for line in predictions:
+            for line in self.predictions:
                 f.write(f"{str(line).encode('utf-8')}\n")
 
         with open(results_path + 'config.txt', 'w') as f:

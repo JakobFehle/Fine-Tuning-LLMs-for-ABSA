@@ -1,4 +1,4 @@
-from transformers import HfArgumentParser
+from argparse import ArgumentParser
 
 class Config(object):
     def __init__(self):
@@ -45,6 +45,7 @@ class Config(object):
         self.top_p = 1
         self.temperature = 0
         self.gpu_memory_utilization = 0.8
+        self.few_shots = None
         
         # Model Params
         self.model_name_or_path = "meta-llama/Meta-Llama-3-8B"
@@ -64,9 +65,14 @@ class Config(object):
         self.model_task = self.task
         
         self.parser = self.setup_parser()
-        self.args = vars(self.parser.parse_args()) 
-        self.__dict__.update(self.args)
+        self.args = vars(self.parser.parse_args())
+        self.update_config_with_args()
 
+    def update_config_with_args(self):
+        for key, value in self.args.items():
+            if value is not None:
+                setattr(self, key, value)
+                
     def setup_parser(self):
 
         parser = ArgumentParser()
@@ -74,7 +80,7 @@ class Config(object):
         # Model-related arguments
         parser.add_argument('--model_name_or_path', type=str, help='Base model name for training or inference')
         parser.add_argument('--seed', type=int, help='Seed to ensure reproducability.')
-        parser.add_argument('--model_task', type=str, required=True, help="Which ABSA Task the model was trained on. ['acd', 'acsa', 'e2e', 'tasd']")
+        parser.add_argument('--model_task', type=str, help="Which ABSA Task the model was trained on. ['acd', 'acsa', 'e2e', 'tasd']")
         parser.add_argument('--model_shots', type=str, help='Amount and style of few shot examples the model is trained on.')
         parser.add_argument('--model_prompt_style', type=str, help='Style of the prompt the model is trained on.')
         parser.add_argument('--model_lang', type=str, help='Language of the prompt.')
@@ -87,7 +93,7 @@ class Config(object):
         parser.add_argument('--bf16', action='store_true', help="Compute dtype of the model (uses bf16 if set).")
         parser.add_argument('--flash_attention', action='store_true', help='If to enable flash attention.')
         parser.add_argument('--run_tag', type=str, help='Additional run-specific tag for the output-folder')
-        parser.add_argument('--epoch', type=int, required=True, help='Epoch checkpoint of the model.')
+        parser.add_argument('--epoch', type=int, help='Epoch checkpoint of the model.')
         parser.add_argument('--output_dir', type=str, help='Relative path to output directory.')
         # Dataset-related arguments
         parser.add_argument('--dataset', type=str, required=True, help="Which dataset to use: ['hotel', 'rest' or 'germeval']")
@@ -106,10 +112,10 @@ class Config(object):
         parser.add_argument('--per_device_eval_batch_size', type=int, help='The evaluation batch size per GPU.')
         parser.add_argument('--gpu_memory_utilization', type=float, help='Percentage to which vllm can use GPU VRAM.')
         parser.add_argument('--gradient_accumulation_steps', type=int, help='Amount of gradients to accumulate before performing an optimizer step.')
-        parser.add_argument('--learning_rate', type=float, required=True, help='The learning rate.')
+        parser.add_argument('--learning_rate', type=float, help='The learning rate.')
         parser.add_argument('--lr_scheduler_type', type=str, help='Learning rate schedule. Constant a bit better than cosine, and has advantage for analysis.')
         parser.add_argument('--group_by_length', action='store_true', help='Group sequences into batches with same length.')
-        parser.add_argument('--num_train_epochs', type=int, required=True, help='Amount of epochs to train.')
+        parser.add_argument('--num_train_epochs', type=int, help='Amount of epochs to train.')
         parser.add_argument('--logging_steps', type=int, help='The frequency of update steps after which to log the loss.')
         parser.add_argument('--save_strategy', type=str, help='When to save checkpoints.')
         parser.add_argument('--evaluation_strategy', type=str, help='When to compute eval loss on eval dataset.')
@@ -117,8 +123,8 @@ class Config(object):
         parser.add_argument('--neftune_noise_alpha', type=int)
 
         # LORA-related arguments
-        parser.add_argument('--lora_r', type=int, required=True, help="Lora R dimension.")
-        parser.add_argument('--lora_alpha', type=int, required=True, help="Lora alpha.")
+        parser.add_argument('--lora_r', type=int, help="Lora R dimension.")
+        parser.add_argument('--lora_alpha', type=int, help="Lora alpha.")
         parser.add_argument('--lora_dropout', type=float, help="Lora dropout.")
         parser.add_argument('--from_checkpoint', action='store_true', help="If resuming from checkpoint.")
 
@@ -127,5 +133,6 @@ class Config(object):
         parser.add_argument('--top_k', type=float, help="Top-k sampling parameter.")
         parser.add_argument('--top_p', type=float, help="Top-p sampling parameter.")
         parser.add_argument('--temperature', type=float, help="Temperature for sampling.")
+        parser.add_argument('--few_shots', type=int)
         
         return parser

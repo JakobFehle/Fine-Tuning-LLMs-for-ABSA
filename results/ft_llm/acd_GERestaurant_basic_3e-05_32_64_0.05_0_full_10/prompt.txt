@@ -1,1 +1,0 @@
-b'### Instruction:\nYou are an advanced AI for text classification, specialized in aspect-based sentiment analysis for texts in German. Identify all aspects (FOOD, SERVICE, PRICE, AMBIENCE, GENERAL-IMPRESSION) that are addressed in the sentence.\n\n### Input:\nDiese sind sehr schmackhaft und die Portionen sind gro\xc3\x9fz\xc3\xbcgig. \n\n### Output:\n'
