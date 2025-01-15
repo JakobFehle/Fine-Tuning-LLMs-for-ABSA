@@ -1,18 +1,21 @@
 import pandas as pd
 import numpy as np
 import torch
-import os
+import os, sys
 import transformers
 import argparse
 import re
+
+utils = os.path.abspath('../src/utils/') # Relative path to utils scripts
+sys.path.append(utils)
 
 from dataclasses import dataclass, field
 from datasets import Dataset
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
 from torch.utils.data import Dataset as TorchDataset
 from transformers import DataCollatorForSeq2Seq
-from utils.preprocessing import loadDataset
-from utils.evaluation import createResults, convertLabels, extractAspects
+from preprocessing import loadDataset
+from evaluation import createResults, convertLabels, extractAspects
 from datetime import datetime, timedelta
 from typing import Optional
 
@@ -166,7 +169,7 @@ class ParaphraseABSA:
         self.dataset_name = args.dataset
         self.model_name = args.model_name
         self.output_path = args.output_path
-        train, eval, self.label_space = loadDataset(args.dataset, args.lr_setting, args.task, args.split, args.original_split)
+        train, eval, self.label_space = loadDataset(args.data_path, args.dataset, args.lr_setting, args.task, args.split)
         self.cat_to_term_dict, self.term_to_cat_dict, self.pol_to_term_dict, self.term_to_pol_dict, self.text_template, self.text_pattern, self.it_token = self.loadPhraseDicts(args.dataset)
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
         print("Device count: ", torch.cuda.device_count())
@@ -272,7 +275,7 @@ class ParaphraseABSA:
             logging_dir="logs",
             logging_steps=100,
             logging_strategy="epoch",
-            max_steps = args.max_steps,
+            max_steps = args.steps,
             bf16=True,
             report_to="none",
             predict_with_generate=True,
@@ -297,33 +300,33 @@ class ParaphraseABSA:
 
         return trainer
 
-    def evalModel(self, trainer, output_path, test = True):
+    def evalModel(self, trainer, results_path, test = True):
 
         # Save results as tsv
-        if not os.path.exists(output_path):
-            os.makedirs(output_path, exist_ok=True)
+        if not os.path.exists(results_path):
+            os.makedirs(results_path, exist_ok=True)
 
         _ = trainer.evaluate()
         
         results_asp, results_asp_pol, results_pairs, results_pol, results_phrases = self.results
-        pd.DataFrame.from_dict(results_asp).transpose().to_csv(output_path + 'metrics_asp.tsv', sep = "\t")
-        pd.DataFrame.from_dict(results_asp_pol).transpose().to_csv(output_path + 'metrics_asp_pol.tsv', sep = "\t")
-        pd.DataFrame.from_dict(results_pairs).transpose().to_csv(output_path + 'metrics_pairs.tsv', sep = "\t")
-        pd.DataFrame.from_dict(results_pol).transpose().to_csv(output_path + 'metrics_pol.tsv', sep = "\t")
-        pd.DataFrame.from_dict(results_phrases).transpose().to_csv(output_path + 'metrics_phrases.tsv', sep = "\t")
+        pd.DataFrame.from_dict(results_asp).transpose().to_csv(results_path + 'metrics_asp.tsv', sep = "\t")
+        pd.DataFrame.from_dict(results_asp_pol).transpose().to_csv(results_path + 'metrics_asp_pol.tsv', sep = "\t")
+        pd.DataFrame.from_dict(results_pairs).transpose().to_csv(results_path + 'metrics_pairs.tsv', sep = "\t")
+        pd.DataFrame.from_dict(results_pol).transpose().to_csv(results_path + 'metrics_pol.tsv', sep = "\t")
+        pd.DataFrame.from_dict(results_phrases).transpose().to_csv(results_path + 'metrics_phrases.tsv', sep = "\t")
 
-        with open(output_path + 'config.txt', 'w') as f:
+        with open(results_path + 'config.txt', 'w') as f:
             for k,v in vars(trainer.args).items():
                 f.write(f"{k}: {v}\n")
         
         # Save outputs to file
-        with open(output_path + 'predictions.txt', 'w') as f:
+        with open(results_path + 'predictions.txt', 'w') as f:
             for line in self.predictions:
                 f.write(f"{str(line).encode('utf-8')}\n")
 
         # Save false output labels to file
         if(len(self.false_predictions) > 0):
-            with open(output_path + 'false_predictions.txt', 'w') as f:
+            with open(results_path + 'false_predictions.txt', 'w') as f:
                 for line in self.false_predictions:
                     f.write(f"{str(line).encode('utf-8')}\n")
                 
