@@ -103,13 +103,13 @@ class Rest16ACSAProcessor(DataProcessor):
             fn_suffix = '_full'
 
         if split == 0:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/rest-16/train{fn_suffix}.tsv")))
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"rest-16/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/train{fn_suffix}.tsv")), "train")
         else:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/rest-16/split_{split}/train{fn_suffix}.tsv")))
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"rest-16/split_{split}/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/split_{split}/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/split_{split}/train{fn_suffix}.tsv")), "train")
 
     def get_dev_examples(self, data_dir, split, low_resource_setting):
         """See base class."""
@@ -122,10 +122,10 @@ class Rest16ACSAProcessor(DataProcessor):
 
         if split == 0:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/val{fn_suffix}.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/val{fn_suffix}.tsv")), "test")
         else:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/split_{split}/test_full.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/split_{split}/test_full.tsv")), "test")
         # return self._create_examples(
         #     self._read_tsv(os.path.join(data_dir, "data/"+"rest_2015_test_notarget.tsv")), "test")
 
@@ -190,13 +190,13 @@ class Rest16ACDProcessor(DataProcessor):
             fn_suffix = '_full'
             
         if split == 0:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/rest-16/train{fn_suffix}.tsv")))
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"rest-16/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/train{fn_suffix}.tsv")), "train")
         else:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/rest-16/split_{split}/train{fn_suffix}.tsv")))
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"rest-16/split_{split}/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/split_{split}/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/split_{split}/train{fn_suffix}.tsv")), "train")
 
     def get_dev_examples(self, data_dir, split, low_resource_setting):
         """See base class."""
@@ -209,12 +209,12 @@ class Rest16ACDProcessor(DataProcessor):
             
         if split == 0:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/val{fn_suffix}.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/val{fn_suffix}.tsv")), "test")
         else:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/rest-16/split_{split}/test_full.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"rest-16/split_{split}/test_full.tsv")), "test")
         # return self._create_examples(
-        #     self._read_tsv(os.path.join(data_dir, "data/"+"rest_2015_test_notarget.tsv")), "test")
+        #     self._read_tsv(os.path.join(data_dir, ""+"rest_2015_test_notarget.tsv")), "test")
 
     def get_labels(self):
         """See base class."""
@@ -253,13 +253,14 @@ class GERestaurantACSAProcessor(DataProcessor):
             fn_suffix = '_full'
             
         if split == 0:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/GERestaurant/train{fn_suffix}.tsv")))
+            print(os.getcwd())
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"GERestaurant/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/train{fn_suffix}.tsv")), "train")
         else:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/GERestaurant/split_{split}/train{fn_suffix}.tsv")))
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"GERestaurant/split_{split}/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/split_{split}/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/split_{split}/train{fn_suffix}.tsv")), "train")
 
     def get_dev_examples(self, data_dir, split, low_resource_setting):
         """See base class."""
@@ -272,12 +273,12 @@ class GERestaurantACSAProcessor(DataProcessor):
             
         if split == 0:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/val{fn_suffix}.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/val{fn_suffix}.tsv")), "test")
         else:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/split_{split}/test_full.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/split_{split}/test_full.tsv")), "test")
         # return self._create_examples(
-        #     self._read_tsv(os.path.join(data_dir, "data/"+"rest_2015_test_notarget.tsv")), "test")
+        #     self._read_tsv(os.path.join(data_dir, ""+"rest_2015_test_notarget.tsv")), "test")
 
     def get_labels(self):
         """See base class."""
@@ -318,13 +319,13 @@ class GERestaurantACDProcessor(DataProcessor):
             fn_suffix = '_full'
             
         if split == 0:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/GERestaurant/train{fn_suffix}.tsv")))
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"GERestaurant/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/train{fn_suffix}.tsv")), "train")
         else:
-            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"data/GERestaurant/split_{split}/train{fn_suffix}.tsv")))
+            logger.info("LOOKING AT {}".format(os.path.join(data_dir, f"GERestaurant/split_{split}/train{fn_suffix}.tsv")))
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/split_{split}/train{fn_suffix}.tsv")), "train")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/split_{split}/train{fn_suffix}.tsv")), "train")
 
     def get_dev_examples(self, data_dir, split, low_resource_setting):
         """See base class."""
@@ -337,10 +338,10 @@ class GERestaurantACDProcessor(DataProcessor):
             
         if split == 0:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/val{fn_suffix}.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/val{fn_suffix}.tsv")), "test")
         else:
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, f"data/GERestaurant/split_{split}/test_full.tsv")), "test")
+                self._read_tsv(os.path.join(data_dir, f"GERestaurant/split_{split}/test_full.tsv")), "test")
         # return self._create_examples(
         #     self._read_tsv(os.path.join(data_dir, "data/"+"rest_2015_test_notarget.tsv")), "test")
 
@@ -368,15 +369,15 @@ class JCSCProcessor(DataProcessor):
     def get_train_examples(self, data_dir, domain_type, year):
         """See base class."""
         string = domain_type
-        logger.info("LOOKING AT {}".format(os.path.join(data_dir, "data/"+string+"_"+year+"_train.tsv")))
+        logger.info("LOOKING AT {}".format(os.path.join(data_dir, string+"_"+year+"_train.tsv")))
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "data/"+string+"_"+year+"_train.tsv")), "train")
+            self._read_tsv(os.path.join(data_dir, string+"_"+year+"_train.tsv")), "train")
 
     def get_dev_examples(self, data_dir,domain_type, year):
         """See base class."""
         string = domain_type
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "data/"+string+"_"+year+"_test.tsv")), "test")
+            self._read_tsv(os.path.join(data_dir, string+"_"+year+"_test.tsv")), "test")
         # return self._create_examples(
         #     self._read_tsv(os.path.join(data_dir, "data/"+"rest_2015_test_notarget.tsv")), "test")
 
@@ -442,15 +443,15 @@ class JCSC14Processor(DataProcessor):
     def get_train_examples(self, data_dir, domain_type):
         """See base class."""
         string = domain_type
-        logger.info("LOOKING AT {}".format(os.path.join(data_dir, "data/"+string+"_2014_train.tsv")))
+        logger.info("LOOKING AT {}".format(os.path.join(data_dir, string+"_2014_train.tsv")))
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "data/"+string+"_2014_train.tsv")), "train")
+            self._read_tsv(os.path.join(data_dir, string+"_2014_train.tsv")), "train")
 
     def get_dev_examples(self, data_dir,domain_type):
         """See base class."""
         string = domain_type
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "data/"+string+"_2014_test.tsv")), "test")
+            self._read_tsv(os.path.join(data_dir, string+"_2014_test.tsv")), "test")
 
     def get_labels(self, domain_type):
         """See base class."""
