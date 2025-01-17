@@ -78,7 +78,7 @@ class Config(object):
         parser.add_argument('-max_token_length', help='Sets maximum token output length', default=128, type=bool)
         parser.add_argument('-test_input', help='The input review to test', type=str)
 
-        parser.add_argument('-max_steps', type=int)
+        parser.add_argument('-steps', type=int)
         parser.add_argument('-lr_setting', type=str)
         parser.add_argument('-dataset', type=str)
         parser.add_argument('-split', type=int)

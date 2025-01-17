@@ -1,6 +1,8 @@
 import subprocess
 import sys
 import os
+import pandas as pd
+import numpy as np
 
 # Enable HT
 ORIGINAL_SPLIT = False 
@@ -38,7 +40,7 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/instructABSA']]:
             command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 instructABSA/run_model.py \
                         -mode train -model_checkpoint {MODEL} \
                         -task joint \
-                        -output_dir ../Models \
+                        -output_dir instructABSA/Models \
                         -inst_type 2 \
                         -id_tr_data_path instructABSA/{DATA_PATH}/{DATASET}/train_{LR_SETTING}.csv \
                         -id_te_data_path instructABSA/{DATA_PATH}/{DATASET}/val_{LR_SETTING}.csv \
@@ -53,11 +55,11 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/instructABSA']]:
             process = subprocess.Popen(command, shell=True)
             process.wait()
         
-            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 ../run_model.py \
+            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 instructABSA/run_model.py \
                         -mode eval  \
                         -model_checkpoint {MODEL} \
                         -task joint \
-                        -output_dir ../Models \
+                        -output_dir instructABSA/Models \
                         -inst_type 2 \
                         -id_tr_data_path instructABSA/{DATA_PATH}/{DATASET}/train_{LR_SETTING}.csv \
                         -id_te_data_path instructABSA/{DATA_PATH}/{DATASET}/val_{LR_SETTING}.csv \
@@ -77,21 +79,22 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/instructABSA']]:
 # Cross Evaluation Phase
 ###
 
+OUTPUT_PATH = '../results/instructABSA'
 
-METHOD = 'instructABSA'
-RESULTS_PATH = '../results'
-
-col_names = ['dataset', 'lr-setting', 'split', 'learning-rate', 'epochs', 'f1-micro']
-filenames = [file for file in os.listdir(os.path.join(RESULTS_PATH, METHOD)) if file != '.ipynb_checkpoints']
+col_names = ['dataset', 'lr_setting', 'split', 'learning_rate', 'epochs', 'f1-micro']
+filenames = [file for file in os.listdir(os.path.join(OUTPUT_PATH)) if file != '.ipynb_checkpoints']
 
 runs = []
 
 for file in filenames:
     try:
-        cond_name = file.split('/')[-1]
+        print(file)
+        cond_name = file.split('.tsv')[0]
+        print(cond_name)
         cond_parameters = cond_name.split('_')
+        print(cond_parameters)
         
-        with open(os.path.join(RESULTS_PATH, METHOD, file), 'r') as f:
+        with open(os.path.join(OUTPUT_PATH, file), 'r') as f:
             f1 = f.readlines()[-1].split('\t')[1]
         
         cond_parameters.append(f1)
@@ -100,6 +103,8 @@ for file in filenames:
         pass
 
 results_all = pd.DataFrame(runs, columns = col_names)
+results_all['epochs'] = results_all['epochs'].astype(float).astype(int)
+
 
 # CV with Test Set
 for DATA_PATH, OUTPUT_PATH in [['data', '../results/instructABSA']]:
@@ -110,7 +115,7 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/instructABSA']]:
     
         print(results_sub.head(3))
         
-        EPOCHS = int(results_sub.at[0, 'epoch'])
+        EPOCHS = results_sub.at[0, 'epochs']
         STEPS = True if EPOCHS != BASE_EPOCHS else False
         
         if STEPS == True:
@@ -128,14 +133,14 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/instructABSA']]:
             EPOCHS = round(MAX_STEPS / low_resource_steps_per_e)
         
         for SPLIT in [1,2,3,4,5]:
-            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 ../run_model.py \
+            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 instructABSA/run_model.py \
                         -mode train \
                         -model_checkpoint {MODEL} \
                         -task joint \
-                        -output_dir ../Models \
+                        -output_dir instructABSA/Models \
                         -inst_type 2 \
-                        -id_tr_data_path ../{DATA_PATH}/{DATASET}/split_{SPLIT}/train_{LR_SETTING}.csv \
-                        -id_te_data_path ../{DATA_PATH}/{DATASET}/split_{SPLIT}/test_{LR_SETTING}.csv \
+                        -id_tr_data_path instructABSA/{DATA_PATH}/{DATASET}/split_{SPLIT}/train_{LR_SETTING}.csv \
+                        -id_te_data_path instructABSA/{DATA_PATH}/{DATASET}/split_{SPLIT}/test_{LR_SETTING}.csv \
                         -evaluation_strategy no \
                         -learning_rate {LEARNING_RATE} \
                         -per_device_train_batch_size {BATCH_SIZE} \
@@ -147,11 +152,11 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/instructABSA']]:
             process = subprocess.Popen(command, shell=True)
             process.wait()
         
-            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 ../run_model.py \
+            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 instructABSA/run_model.py \
                         -mode eval  \
                         -model_checkpoint {MODEL} \
                         -task joint \
-                        -output_dir ../Models \
+                        -output_dir instructABSA/Models \
                         -inst_type 2 \
                         -id_tr_data_path instructABSA/{DATA_PATH}/{DATASET}/split_{SPLIT}/train_{LR_SETTING}.csv \
                         -id_te_data_path instructABSA/{DATA_PATH}/{DATASET}/split_{SPLIT}/test_full.csv \

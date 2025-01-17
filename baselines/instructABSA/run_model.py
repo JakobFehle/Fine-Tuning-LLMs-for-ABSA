@@ -164,6 +164,7 @@ if config.mode != 'cli':
             id_tr_df = pd.DataFrame(id_ds['train'])[['text', 'labels']]
             id_tr_df['labels'] = id_tr_df['labels'].apply(lambda x: x.strip())
             id_tr_df['pred_labels'] = id_tr_pred_labels
+            os.makedirs(config.output_path, exist_ok=True)
             id_tr_df.to_csv(os.path.join(config.output_path, f'{config.experiment_name}_id_train.csv'), index=False)
             print('*****Train Metrics*****')
             precision, recall, f1, accuracy = t5_exp.get_metrics(id_tr_df['labels'], id_tr_pred_labels)
@@ -181,6 +182,7 @@ if config.mode != 'cli':
             id_te_df = pd.DataFrame(id_ds['test'])[['text', 'labels']]
             id_te_df['labels'] = id_te_df['labels'].apply(lambda x: x.strip())
             id_te_df['pred_labels'] = id_te_pred_labels
+            os.makedirs(config.output_path, exist_ok=True)
             id_te_df.to_csv(os.path.join(config.output_path, f'{config.experiment_name}_id_test.csv'), index=False)
             print('*****Test Metrics*****')
             precision, recall, f1, accuracy = t5_exp.get_metrics(id_te_df['labels'], id_te_pred_labels)
@@ -202,6 +204,7 @@ if config.mode != 'cli':
             ood_tr_df = pd.DataFrame(ood_ds['train'])[['text', 'labels']]
             ood_tr_df['labels'] = ood_tr_df['labels'].apply(lambda x: x.strip())
             ood_tr_df['pred_labels'] = ood_tr_pred_labels
+            os.makedirs(config.output_path, exist_ok=True)
             ood_tr_df.to_csv(os.path.join(config.output_path, f'{config.experiment_name}_ood_train.csv'), index=False)
             print('*****Train Metrics - OOD*****')
             precision, recall, f1, accuracy = t5_exp.get_metrics(ood_tr_df['labels'], ood_tr_pred_labels)
@@ -218,6 +221,7 @@ if config.mode != 'cli':
             ood_te_df = pd.DataFrame(ood_ds['test'])[['text', 'labels']]
             ood_te_df['labels'] = ood_te_df['labels'].apply(lambda x: x.strip())
             ood_te_df['pred_labels'] = ood_te_pred_labels
+            os.makedirs(config.output_path, exist_ok=True)
             ood_te_df.to_csv(os.path.join(config.output_path, f'{config.experiment_name}_ood_test.csv'), index=False)
             print('*****Test Metrics - OOD*****')
             precision, recall, f1, accuracy = t5_exp.get_metrics(ood_te_df['labels'], ood_te_pred_labels)
