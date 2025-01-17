@@ -1,4 +1,4 @@
-# Code derived from https://github.com/artidoro/qlora
+# Code overall dirty but functional
 
 import os
 import gc
@@ -106,18 +106,10 @@ def evaluate(model, config, results_path, prompts_test, ground_truth_labels, lab
         with open(results_path + 'false_predictions.txt', 'w') as f:
             for line in false_predictions:
                 f.write(f"{line.encode('utf-8')}\n")
-
-    # # Save Evaluation Config
-    # with open(results_path_epoch + 'eval_config.json', 'w') as f:
-    #     config = vars(config)
-    #     config['inference_tokens'] = tokens_generated / eval_time
-    #     config['inference_tokens_w_prompt'] = (tokens_generated + tokens_prompt) / eval_time
-    #     json.dump(config, f)
         
 def main():
 
     config = Config()
-    print(config)      
     
     # Load model with vllm
     model = LLM(
