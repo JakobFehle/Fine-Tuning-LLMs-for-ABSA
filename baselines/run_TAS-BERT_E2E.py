@@ -1,11 +1,9 @@
 import subprocess
 import sys
 import os
-
-# Enable HT
-ORIGINAL_SPLIT = False 
-BATCH_SIZE = 8
-EPOCHS = 4
+import pandas as pd
+import numpy as np
+import glob
 
 ###
 # HT
@@ -16,15 +14,15 @@ BATCH_SIZE = 24
 
 DATASET, MODEL_NAME = [['GERestaurant', 'gbert-base'], ['rest-16', 'uncased_L-12_H-768_A-12']][int(sys.argv[1])]
 
-for DATA_PATH, OUT_DIR in [['data', '../results/tas_bert/']]:
+for DATA_PATH, OUT_DIR in [['tas_bert/data', '../results/tas_bert/']]:
     for LR_SETTING in ['500', '1000', 'full']:
         for SPLIT in [0]:
-            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 TAS_BERT_joint.py \
+            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 tas_bert/TAS_BERT_joint.py \
                         --data_dir {DATA_PATH} \
                         --output_dir {OUT_DIR} \
-                        --vocab_file {MODEL_NAME}/vocab.txt \
-                        --bert_config_file {MODEL_NAME}/bert_config.json \
-                        --init_checkpoint {MODEL_NAME}/pytorch_model.bin \
+                        --vocab_file tas_bert/{MODEL_NAME}/vocab.txt \
+                        --bert_config_file tas_bert/{MODEL_NAME}/bert_config.json \
+                        --init_checkpoint tas_bert/{MODEL_NAME}/pytorch_model.bin \
                         --tokenize_method word_split \
                         --use_crf \
                         --eval_test \
@@ -40,8 +38,8 @@ for DATA_PATH, OUT_DIR in [['data', '../results/tas_bert/']]:
             process = subprocess.Popen(command, shell=True)
             process.wait()
 
-            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 evaluation_for_TSD_ASD_TASD.py \
-                        --output_dir {OUT_DIR}/{DATASET}/three_joint/BIO/{DATASET}_{LR_SETTING}_{SPLIT}_{LEARNING_RATE}_{BATCH_SIZE}_{EPOCHS}.0 \
+            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 tas_bert/evaluation_for_TSD_ASD_TASD.py \
+                        --output_dir {OUT_DIR}{DATASET}/three_joint/BIO/{DATASET}_{LR_SETTING}_{SPLIT}_{LEARNING_RATE}_{BATCH_SIZE}_{EPOCHS}.0 \
                         --num_epochs {EPOCHS} \
                         --tag_schema BIO"
             process = subprocess.Popen(command, shell=True)
@@ -52,20 +50,22 @@ for DATA_PATH, OUT_DIR in [['data', '../results/tas_bert/']]:
 # Cross Evaluation Phase
 ###
 
-METHOD = 'tas_bert'
-RESULTS_PATH = '../results'
+col_names = ['dataset', 'lr_setting', 'split', 'learning_rate', 'batch_size', 'epochs', 'f1-micro']
+folder_names = [folder for folder in os.listdir(OUT_DIR) if os.path.isdir(os.path.join(OUT_DIR, folder)) and folder != '.ipynb_checkpoints']
 
-col_names = ['dataset', 'lr-setting', 'split', 'learning-rate', 'batch_size', 'epochs', 'f1-micro']
-folder_names = [folder for folder in os.listdir(os.path.join(RESULTS_PATH, METHOD)) if os.path.isdir(os.path.join(RESULTS_PATH, METHOD, folder)) and folder != '.ipynb_checkpoints']
+result_files = glob.glob(f"{OUT_DIR}/*/three_joint/BIO/*/results.txt")
 
 runs = []
-
-for folder_name in folder_names:
+for results_file in result_files:
+    print(results_file)
     try:
-        cond_parameters = folder_name.split('_')[:4]
+        cond_parameters = results_file.split('/')[-2]
+        print(cond_parameters)
+        cond_parameters = cond_parameters.split('_')[:5]
+        print(cond_parameters)
         
         if cond_parameters[2] == '0':
-            df = pd.read_csv(os.path.join(RESULTS_PATH, METHOD, folder_name, 'results.txt'), sep = '\t')
+            df = pd.read_csv(results_file, sep = '\t')
             df = df.set_index(df.columns[0])
     
             max_epoch = df['f1'].idxmax()
@@ -76,10 +76,11 @@ for folder_name in folder_names:
         pass
 
 results_all = pd.DataFrame(runs, columns = col_names)
+print(results_all)
 
 # CV with Test Set
-for DATA_PATH, OUTPUT_PATH in [['data', '../results/tas_bert/']]:
-    for LR_SETTING in ['full', '1000', '500']:
+for DATA_PATH, OUTPUT_PATH in [['tas_bert/data', '../results/tas_bert/']]:
+    for LR_SETTING in ['500', '1000', 'full']:
 
         results_sub = results_all[np.logical_and.reduce([results_all['lr_setting'] == LR_SETTING, results_all['dataset'] == DATASET])].sort_values(by = ['f1-micro'], ascending = False)
         results_sub = results_sub.reset_index()
@@ -87,12 +88,12 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/tas_bert/']]:
         EPOCHS = int(results_sub.at[0, 'epochs'])
         
         for SPLIT in [1,2,3,4,5]:
-            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 TAS_BERT_joint.py \
+            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 tas_bert/TAS_BERT_joint.py \
             --data_dir {DATA_PATH} \
             --output_dir {OUTPUT_PATH} \
-            --vocab_file {MODEL_NAME}/vocab.txt \
-            --bert_config_file {MODEL_NAME}/bert_config.json \
-            --init_checkpoint {MODEL_NAME}/pytorch_model.bin \
+            --vocab_file tas_bert/{MODEL_NAME}/vocab.txt \
+            --bert_config_file tas_bert/{MODEL_NAME}/bert_config.json \
+            --init_checkpoint tas_bert/{MODEL_NAME}/pytorch_model.bin \
             --tokenize_method word_split \
             --use_crf \
             --eval_test \
@@ -108,8 +109,8 @@ for DATA_PATH, OUTPUT_PATH in [['data', '../results/tas_bert/']]:
             process = subprocess.Popen(command, shell=True)
             process.wait()
     
-            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 evaluation_for_TSD_ASD_TASD.py \
-            --output_dir {OUT_DIR}/{DATASET}/three_joint/BIO/{DATASET}_{LR_SETTING}_{SPLIT}_{LEARNING_RATE}_{BATCH_SIZE}_{EPOCHS}.0 \
+            command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 tas_bert/evaluation_for_TSD_ASD_TASD.py \
+            --output_dir {OUT_DIR}{DATASET}/three_joint/BIO/{DATASET}_{LR_SETTING}_{SPLIT}_{LEARNING_RATE}_{BATCH_SIZE}_{EPOCHS}.0 \
             --num_epochs {EPOCHS} \
             --tag_schema BIO"
             process = subprocess.Popen(command, shell=True)
