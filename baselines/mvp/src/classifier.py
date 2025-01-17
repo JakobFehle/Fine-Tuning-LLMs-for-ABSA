@@ -684,7 +684,7 @@ def calc_entropy(input_tensor):
     entropy = -p_log_p.sum()
     return entropy
 
-add_start_docstrings("""T5 Model with a `language modeling` head on top. """, T5_START_DOCSTRING)
+# add_start_docstrings("""T5 Model with a `language modeling` head on top. """, T5_START_DOCSTRING)
 @add_start_docstrings("""T5 Model with a `language modeling` head on top. """, T5_START_DOCSTRING)
 class MyT5ForConditionalGenerationScore(T5PreTrainedModel):
     authorized_missing_keys = [r"encoder\.embed_tokens\.weight", r"decoder\.embed_tokens\.weight", r"lm_head\.weight"]
@@ -920,7 +920,7 @@ class MyT5ForConditionalGenerationScore(T5PreTrainedModel):
             reordered_decoder_past = reordered_decoder_past + (reordered_layer_past_states,)
         return reordered_decoder_past
 
-add_start_docstrings("""T5 Model with a `language modeling` head on top. """, T5_START_DOCSTRING)
+# add_start_docstrings("""T5 Model with a `language modeling` head on top. """, T5_START_DOCSTRING)
 @add_start_docstrings("""T5 Model with a `language modeling` head on top. """, T5_START_DOCSTRING)
 class MyT5ForConditionalGeneration(T5PreTrainedModel):
     authorized_missing_keys = [r"encoder\.embed_tokens\.weight", r"decoder\.embed_tokens\.weight", r"lm_head\.weight"]
@@ -1788,8 +1788,7 @@ def init_args():
     if not os.path.exists('./outputs'):
         os.mkdir('./outputs')
 
-    if not os.path.exists(args.output_dir):
-        os.mkdir(args.output_dir)
+    os.makedirs(args.output_dir, exist_ok=True)
 
     return args
     

@@ -8,19 +8,19 @@ import os
 ###
 
 LEARNING_RATE = 1e-4
-DATA_PATH = '../data/'
+DATA_PATH = 'mvp/data/'
 TASK = 'tasd'
 MODEL = 't5-base'
 SEED = 42
 
-current_dir = os.path.dirname(os.path.abspath(__file__))
 output_path = "../results/mvp/"
-OUTPUT_PATH = os.path.abspath(os.path.join(current_file_dir, relative_output_path))
+OUTPUT_PATH = os.path.abspath(output_path)
+
 
 CV_SETTINGS = [ # LR_SETTING, BATCH_SIZE, EPOCHS
-    ['full', 16, 20],
-    ['1000', 8, 30],
     ['500', 8, 50],
+    ['1000', 8, 30],
+    ['full', 16, 20],
 ]
 
 DATASET = ['rest-16', 'GERestaurant'][int(sys.argv[1])]
@@ -30,7 +30,7 @@ for SPLIT in [1,2,3,4,5]:
         OUT_DIR = f"{OUTPUT_PATH}/{DATASET}_{TASK}_{SPLIT}_{LR_SETTING}_{EPOCHS}"
         command = [
             sys.executable,  # The Python interpreter
-            "../src/classifier.py",  # The script to run
+            "mvp/src/classifier.py",  # The script to run
             "--data_path", DATA_PATH,
             "--dataset", DATASET,
             "--split", str(SPLIT),
