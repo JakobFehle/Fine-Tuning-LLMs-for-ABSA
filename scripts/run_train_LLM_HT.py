@@ -19,7 +19,6 @@ ORIGINAL_SPLIT = False
 LORA_R_ALPHA_COMB = [[8,8],[8,16],[32,32],[32,64]]
 
 RUN_TAG = ''
-RESULTS_PATH = '../results/'
 
 ###
 # Hyperparameter Validation Phase
@@ -27,7 +26,7 @@ RESULTS_PATH = '../results/'
 
 DATASET = ['GERestaurant', 'rest-16'][int(sys.argv[1])]
 
-for TASK in [['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']]:
+for TASK in ['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']:
     for LOW_RESOURCE_SETTING in [0, 500, 1000]:
         PROMPT_STYLES = ['basic', 'context'] if TASK == 'acd' else ['basic', 'context', 'cot']
         for PROMPT_STYLE in PROMPT_STYLES:
@@ -35,7 +34,7 @@ for TASK in [['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']]:
                 for LORA_R, LORA_ALPHA in LORA_R_ALPHA_COMB:
                     SPLIT = 0
                         
-                    command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 train.py \
+                    command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 ../src/train.py \
                     --model_name_or_path {MODEL_NAME} \
                     --lora_r {LORA_R} \
                     --lora_alpha {LORA_ALPHA} \
@@ -53,7 +52,12 @@ for TASK in [['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']]:
                     --task {TASK} \
                     --split {SPLIT} \
                     --lr_scheduler {LR_SCHEDULER} \
-                    --original_split {ORIGINAL_SPLIT} \
-                    --run_tag {RUN_TAG}"
+                    --bf16 \
+                    --group_by_length \
+                    --flash_attention \
+                    --neftune_noise_alpha 5"
+                    command += f" --run_tag {RUN_TAG}" if RUN_TAG != '' else ''
+                    command += f" --original_split" if ORIGINAL_SPLIT == True else ''
+                    
                     process = subprocess.Popen(command, shell=True)
                     process.wait()

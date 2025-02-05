@@ -1,10 +1,8 @@
 import subprocess
 import sys
-import time
 import os
 import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
 
 # CONSTANTS
 
@@ -17,11 +15,8 @@ LR_SCHEDULER = 'constant'
 LANG = 'en'
 ORIGINAL_SPLIT = True
 
-start = time.time()
-counter = 0
-
 RUN_TAG = ''
-RESULTS_PATH = '../results/'
+RESULTS_PATH = '../results/ft_llm'
 
 ###
 # Final Evaluation Phase
@@ -39,13 +34,13 @@ for folder_name in folder_names:
         
         filename = ''
         
-        if cond_parameters[4] == 'acd':
+        if cond_parameters[0] == 'acd':
             filename = 'metrics_asp.tsv'
-        elif cond_parameters[4] == 'acsa':
+        elif cond_parameters[0] == 'acsa':
             filename = 'metrics_asp_pol.tsv'
-        elif cond_parameters[4] == 'e2e':
+        elif cond_parameters[0] == 'e2e':
             filename = 'metrics_pol.tsv'
-        elif cond_parameters[4] == 'tasd':
+        elif cond_parameters[0] == 'tasd':
             filename = 'metrics_phrases.tsv'
             
         df = pd.read_csv(os.path.join(RESULTS_PATH, folder_name, filename), sep = '\t')
@@ -60,7 +55,7 @@ for folder_name in folder_names:
 
 results_all = pd.DataFrame(runs, columns = col_names)
 
-DATASET = ['rest-16', 'GERestaurant'][int(sys.argv[1])]
+DATASET = ['GERestaurant', 'rest-16'][int(sys.argv[1])]
 
 for TASK in ['acd', 'acsa', 'e2e','e2e-e', 'tasd']:
     PROMPT_STYLES = ['basic', 'context'] if TASK == 'acd' else ['basic', 'context', 'cot']
@@ -71,16 +66,13 @@ for TASK in ['acd', 'acsa', 'e2e','e2e-e', 'tasd']:
         results_sub = results_all[np.logical_and.reduce([results_all['lr_setting'] == str('full' if LOW_RESOURCE_SETTING == 0 else LOW_RESOURCE_SETTING), results_all['dataset'] == DATASET, results_all['task'] == TASK, results_all['split'] == '0', results_all['prompt'] == PROMPT_STYLE])].sort_values(by = ['f1-micro'], ascending = False)
         results_sub = results_sub[['dataset', 'task', 'prompt', 'learning_rate', 'lr_setting', 'lora_r', 'lora_alpha', 'epoch', 'f1-micro', 'f1-macro']]
         results_sub = results_sub.reset_index()
-    
-        print(results_sub.head(3))
-        
+            
         LEARNING_RATE = results_sub.at[0, 'learning_rate']
         LORA_R = int(results_sub.at[0, 'lora_r'])
         LORA_ALPHA = int(results_sub.at[0, 'lora_alpha'])
         EPOCHS = int(results_sub.at[0, 'epoch'])
                         
-        counter += 1
-        command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 train.py \
+        command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 ../src/train.py \
         --model_name_or_path {MODEL_NAME} \
         --lora_r {LORA_R} \
         --lora_alpha {LORA_ALPHA} \
@@ -98,21 +90,13 @@ for TASK in ['acd', 'acsa', 'e2e','e2e-e', 'tasd']:
         --task {TASK} \
         --split {SPLIT} \
         --lr_scheduler {LR_SCHEDULER}  \
-        --original_split {ORIGINAL_SPLIT} \
-        --run_tag {RUN_TAG}"
+        --bf16 \
+        --group_by_length \
+        --flash_attention \
+        --neftune_noise_alpha 5"
+        
+        command += f" --run_tag {RUN_TAG}" if RUN_TAG != '' else ''
+        command += f" --original_split" if ORIGINAL_SPLIT == True else ''
+        
         process = subprocess.Popen(command, shell=True)
         process.wait()
-
-
-end = time.time()
-
-training_time = end - start
-training_time = str(timedelta(seconds=training_time))
-print('################')
-print('##')
-print(f'##  Total Training Time of {counter} runs: {training_time}')
-print('##')
-print('################')
-
-
-

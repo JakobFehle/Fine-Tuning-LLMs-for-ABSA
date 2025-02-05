@@ -1,10 +1,8 @@
 import subprocess
 import sys
-import time
 import os
 import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
 
 # CONSTANTS
 
@@ -18,11 +16,8 @@ LR_SCHEDULER = 'constant'
 LANG = 'en'
 ORIGINAL_SPLIT = False
 
-start = time.time()
-counter = 0
-
 RUN_TAG = ''
-RESULTS_PATH = '../results/'
+RESULTS_PATH = '../results/ft_llm/'
 
 ###
 # Cross Evaluation Phase
@@ -40,15 +35,15 @@ for folder_name in folder_names:
         
         filename = ''
         
-        if cond_parameters[4] == 'acd':
+        if cond_parameters[0] == 'acd':
             filename = 'metrics_asp.tsv'
-        elif cond_parameters[4] == 'acsa':
+        elif cond_parameters[0] == 'acsa':
             filename = 'metrics_asp_pol.tsv'
-        elif cond_parameters[4] == 'e2e':
+        elif cond_parameters[0] == 'e2e':
             filename = 'metrics_pol.tsv'
-        elif cond_parameters[4] == 'tasd':
+        elif cond_parameters[0] == 'tasd':
             filename = 'metrics_phrases.tsv'
-            
+
         df = pd.read_csv(os.path.join(RESULTS_PATH, folder_name, filename), sep = '\t')
         df = df.set_index(df.columns[0])
         
@@ -61,7 +56,7 @@ for folder_name in folder_names:
 
 results_all = pd.DataFrame(runs, columns = col_names)
 
-DATASET = ['rest-16', 'GERestaurant'][int(sys.argv[1])]
+DATASET = ['GERestaurant', 'rest-16'][int(sys.argv[1])]
 
 for TASK in ['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']:
     for LOW_RESOURCE_SETTING in [0, 500, 1000]:
@@ -79,7 +74,7 @@ for TASK in ['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']:
 
             for SPLIT in [1,2,3,4,5]:
            
-                command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 train.py \
+                command = f"CUDA_VISIBLE_DEVICES={sys.argv[1]} python3 ../src/train.py \
                 --model_name_or_path {MODEL_NAME} \
                 --lora_r {LORA_R} \
                 --lora_alpha {LORA_ALPHA} \
@@ -97,7 +92,14 @@ for TASK in ['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']:
                 --task {TASK} \
                 --split {SPLIT} \
                 --lr_scheduler {LR_SCHEDULER} \
-                --run_tag {RUN_TAG}"
+                --bf16 \
+                --group_by_length \
+                --flash_attention \
+                --neftune_noise_alpha 5"
+
+                command += f" --run_tag {RUN_TAG}" if RUN_TAG != '' else ''
+                command += f" --original_split" if ORIGINAL_SPLIT == True else ''
+                
                 process = subprocess.Popen(command, shell=True)
                 process.wait()
 

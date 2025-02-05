@@ -1,10 +1,8 @@
 import subprocess
 import sys
-import time
 import os
 import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
 
 # CONSTANTS
 
@@ -17,7 +15,7 @@ MAX_NEW_TOKENS = 500
 LANG = "en"
 ORIGINAL_SPLIT = False
 
-RESULTS_PATH = '../results/'
+RESULTS_PATH = '../results/ft_llm'
 RUN_TAG = ''
 
 ###
@@ -36,13 +34,13 @@ for folder_name in folder_names:
         
         filename = ''
         
-        if cond_parameters[4] == 'acd':
+        if cond_parameters[0] == 'acd':
             filename = 'metrics_asp.tsv'
-        elif cond_parameters[4] == 'acsa':
+        elif cond_parameters[0] == 'acsa':
             filename = 'metrics_asp_pol.tsv'
-        elif cond_parameters[4] == 'e2e':
+        elif cond_parameters[0] == 'e2e':
             filename = 'metrics_pol.tsv'
-        elif cond_parameters[4] == 'tasd':
+        elif cond_parameters[0] == 'tasd':
             filename = 'metrics_phrases.tsv'
             
         df = pd.read_csv(os.path.join(RESULTS_PATH, folder_name, filename), sep = '\t')
@@ -58,7 +56,7 @@ for folder_name in folder_names:
 results_all = pd.DataFrame(runs, columns = col_names)
 
 
-for DATASET in ['rest-16', 'GERestaurant']: 
+for DATASET in ['GERestaurant', 'rest-16']: 
     for TASK in ['acd', 'acsa', 'e2e', 'e2e-e', 'tasd']:
         PROMPT_STYLES = ['basic', 'context'] if TASK == 'acd' else ['basic', 'context', 'cot']
         for PROMPT_STYLE in PROMPT_STYLES:
@@ -66,7 +64,7 @@ for DATASET in ['rest-16', 'GERestaurant']:
             LOW_RESOURCE_SETTING = 0
             SPLIT = 0
             
-            results_sub = results_all[np.logical_and.reduce([results_all['lr_setting'] == str('full' if LOW_RESOURCE_SETTING == 0 else LOW_RESOURCE_SETTING), results_all['dataset'] == DATASET, results_all['task'] == TASK, results_all['split'] == '0', results_all['prompt'] == MODEL_PROMPT_STYLE])].sort_values(by = ['f1-micro'], ascending = False)
+            results_sub = results_all[np.logical_and.reduce([results_all['lr_setting'] == str('full' if LOW_RESOURCE_SETTING == 0 else LOW_RESOURCE_SETTING), results_all['dataset'] == DATASET, results_all['task'] == TASK, results_all['split'] == '0', results_all['prompt'] == PROMPT_STYLE])].sort_values(by = ['f1-micro'], ascending = False)
             results_sub = results_sub[['dataset', 'task', 'prompt', 'learning_rate', 'lr_setting', 'lora_r', 'lora_alpha', 'epoch', 'f1-micro', 'f1-macro']]
             results_sub = results_sub.reset_index()
                         
@@ -76,19 +74,27 @@ for DATASET in ['rest-16', 'GERestaurant']:
             EPOCHS = int(results_sub.at[0, 'epoch'])
 
             # Clear System RAM for vllm
-            subprocess.call(['sh', './utils/freeRam.sh'])
+            subprocess.call(['sh', '../src/utils/freeRam.sh'])
 
-            command = f"python3 eval.py \
+            command = f"python3 ../src/eval.py \
             --model_name_or_path {MODEL_NAME} \
             --lang {LANG} \
             --task {TASK} \
-            --prompt_style {MODEL_PROMPT_STYLE} \
+            --learning_rate {LEARNING_RATE} \
+            --prompt_style {PROMPT_STYLE} \
             --low_resource_setting {LOW_RESOURCE_SETTING} \
             --split {SPLIT} \
+            --lora_r {LORA_R} \
+            --lora_alpha {LORA_ALPHA} \
             --dataset {DATASET} \
             --max_new_tokens {MAX_NEW_TOKENS} \
             --epoch {EPOCHS} \
-            --original_split {ORIGINAL_SPLIT} \
-            --run_tag {RUN_TAG}"
+            --output_dir {RESULTS_PATH} \
+            --bf16 \
+            --flash_attention"
+            
+            command += f" --run_tag {RUN_TAG}" if RUN_TAG != '' else ''
+            command += f" --original_split" if ORIGINAL_SPLIT == True else ''
+            
             process = subprocess.Popen(command, shell=True)
             process.wait()
