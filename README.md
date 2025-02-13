@@ -18,6 +18,11 @@ This repository contains the code and evaluation scripts for our study on fine-t
 
   ACSA (85.45) and TASD (75.13) on the GERestaurant dataset
 
+## Tasks and Methodology
+
+We evaluate our fine-tuned LLMs on four commonly-used ABSA subtasks: Aspect Category Detection (ACD), Aspect Category Sentiment Analysis (ACSA), End-To-End ABSA (E2E), and Target Aspect Sentiment Detection (TASD). Our approach involves instruction fine-tuning LLaMA-3-8B using Quantized Low-Rank Adaptation (QLoRA) to efficiently adapt the model to ABSA tasks. We conduct experiments with varying dataset sizes (500, 1,000, and full dataset) to assess performance under resource constraints. Additionally, we explore the impact of different prompt formulations and hyperparameter tuning.
+
+
 ## Datasets
 
 We use the following datasets in our evaluation:
@@ -26,9 +31,6 @@ We use the following datasets in our evaluation:
 
 - GERestaurant: German restaurant review dataset ([Hellwig et. al, 2024](https://aclanthology.org/2024.konvens-main.14/))
 
-## Tasks and Methodology
-
-We evaluate our fine-tuned LLMs on four commonly-used ABSA subtasks: Aspect Category Detection (ACD), Aspect Category Sentiment Analysis (ACSA), End-To-End ABSA (E2E), and Target Aspect Sentiment Detection (TASD). Our approach involves instruction fine-tuning LLaMA-3-8B using Quantized Low-Rank Adaptation (QLoRA) to efficiently adapt the model to ABSA tasks. We conduct experiments with varying dataset sizes (500, 1,000, and full dataset) to assess performance under resource constraints. Additionally, we explore the impact of different prompt formulations and hyperparameter tuning.
 
 ## Repository Structure
 ```
@@ -39,9 +41,9 @@ We evaluate our fine-tuned LLMs on four commonly-used ABSA subtasks: Aspect Cate
 ├── 📂 scripts/           # Script files for running the evaluation of our approach, Jupyter-Notebooks for analysis of the results
 ├── 📂 results/           # In-depth results and condition parameters for each evaluation run 
 ```
-## Reproduction (Tested on Python v3.10)
-1. Run the setup.sh file of the approach to install all required packages (e. g. ```/scripts/setup.sh``` or ```/baselines/mvp/setup.sh```)
-2. Run the run_APPROACH[_PHASE].py file of the approach to execute the training and evaluation. 
+## Running the Code (Tested on Python v3.10)
+1. Execute the setup.sh file of the approach to install all required packages (e. g. ```/scripts/setup.sh``` or ```/baselines/mvp/setup.sh```).
+2. Run the run_APPROACH[_PHASE].py file of the approach to execute the training and evaluation (e. g. ```/scripts/run_train_LLM_HT.py```. 
 
 ## Citation
 
