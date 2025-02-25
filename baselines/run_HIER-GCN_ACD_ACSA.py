@@ -17,47 +17,47 @@ BATCH_SIZE = 8
 TASK_NAME = ["GERestaurantACSA", "Rest16ACSA"][int(sys.argv[1])]
 TASK = 'acsa'
 
-# for LR_SETTING in [0, 1000, 500]:
-#     for SPLIT in [0]:  
+for LR_SETTING in [0, 1000, 500]:
+    for SPLIT in [0]:  
 
-#         # Calculate amount of Training Steps
-#         DO_STEPS = [False] if LR_SETTING == 0 else [True, False]
-#         for STEPS in DO_STEPS:
-#             if STEPS == True:
-#                 # Train split lenghts for hyperparameter tuning phase (5/6 of original train sizes)
-#                 if TASK_NAME == 'GERestaurantACSA':
-#                     dataset_base_len = 1795                            
-#                 elif TASK_NAME == 'Rest16ACSA':
-#                     dataset_base_len = 1423
+        # Calculate amount of Training Steps
+        DO_STEPS = [False] if LR_SETTING == 0 else [True, False]
+        for STEPS in DO_STEPS:
+            if STEPS == True:
+                # Train split lenghts for hyperparameter tuning phase (5/6 of original train sizes)
+                if TASK_NAME == 'GERestaurantACSA':
+                    dataset_base_len = 1795                            
+                elif TASK_NAME == 'Rest16ACSA':
+                    dataset_base_len = 1423
 
-#                 low_resource_steps_per_e =  (dataset_base_len if LR_SETTING == 0 else (LR_SETTING * 5/6)) / BATCH_SIZE
+                low_resource_steps_per_e =  (dataset_base_len if LR_SETTING == 0 else (LR_SETTING * 5/6)) / BATCH_SIZE
 
-#                 MAX_STEPS = int((dataset_base_len * BASE_EPOCHS) / BATCH_SIZE)
+                MAX_STEPS = int((dataset_base_len * BASE_EPOCHS) / BATCH_SIZE)
 
-#                 # Transform to #Epochs for Output-Path
-#                 EPOCHS = round(MAX_STEPS / low_resource_steps_per_e)
+                # Transform to #Epochs for Output-Path
+                EPOCHS = round(MAX_STEPS / low_resource_steps_per_e)
 
-#                 print(TASK_NAME, LR_SETTING, EPOCHS)
-#             else:
-#                 EPOCHS = 20
+                print(TASK_NAME, LR_SETTING, EPOCHS)
+            else:
+                EPOCHS = 20
                 
-#             command = f"CUDA_VISIBLE_DEVICES={int(sys.argv[1])} python3 hier_gcn/run_classifier_gcn.py \
-#                   --task_name {TASK_NAME} \
-#                   --do_train \
-#                   --do_eval \
-#                   --model_type {MODEL}\
-#                   --do_lower_case \
-#                   --data_dir {DATA_DIR} \
-#                   --low_resource_setting {LR_SETTING} \
-#                   --split {SPLIT} \
-#                   --max_seq_length 128 \
-#                   --train_batch_size {BATCH_SIZE} \
-#                   --learning_rate 5e-5 \
-#                   --num_train_epochs {EPOCHS} \
-#                   --output_dir {OUTPUT_PATH} \
-#                   --task {TASK}"
-#             process = subprocess.Popen(command, shell=True)
-#             process.wait()
+            command = f"CUDA_VISIBLE_DEVICES={int(sys.argv[1])} python3 hier_gcn/run_classifier_gcn.py \
+                  --task_name {TASK_NAME} \
+                  --do_train \
+                  --do_eval \
+                  --model_type {MODEL}\
+                  --do_lower_case \
+                  --data_dir {DATA_DIR} \
+                  --low_resource_setting {LR_SETTING} \
+                  --split {SPLIT} \
+                  --max_seq_length 128 \
+                  --train_batch_size {BATCH_SIZE} \
+                  --learning_rate 5e-5 \
+                  --num_train_epochs {EPOCHS} \
+                  --output_dir {OUTPUT_PATH} \
+                  --task {TASK}"
+            process = subprocess.Popen(command, shell=True)
+            process.wait()
 
 ###
 # Cross Evaluation Phase
